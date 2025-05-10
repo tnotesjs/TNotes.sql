@@ -1,8 +1,36 @@
-# TNotes.template
+# TNotes.mysql
 
 
 ## 1. MySQL 学习资源
 
-- [ ] [0001. MySQL 8 从入门到精通](https://tdahuyou.github.io/TNotes.mysql/notes/0001.%20MySQL%208%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A/README)
+- [x] [0001. MySQL 8 从入门到精通](https://tdahuyou.github.io/TNotes.mysql/notes/0001.%20MySQL%208%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A/README)
   - [1. 📝 概述](https://tdahuyou.github.io/TNotes.mysql/notes/0001.%20MySQL%208%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A/README#1--概述)
   - [2. 📝 《MySQL 8 从入门到精通》内容简介](https://tdahuyou.github.io/TNotes.mysql/notes/0001.%20MySQL%208%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A/README#2--mysql-8-从入门到精通内容简介)
+  - [3. 📂 书籍资源](https://tdahuyou.github.io/TNotes.mysql/notes/0001.%20MySQL%208%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A/README#3--书籍资源)
+  - [4. 📒 目录](https://tdahuyou.github.io/TNotes.mysql/notes/0001.%20MySQL%208%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A/README#4--目录)
+    - [4.1. 第 1 章 初识 MySQL](https://tdahuyou.github.io/TNotes.mysql/notes/0001.%20MySQL%208%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A/README#41-第-1-章-初识-mysql)
+    - [4.2. 第 2 章 MySQL 的安装与配置](https://tdahuyou.github.io/TNotes.mysql/notes/0001.%20MySQL%208%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A/README#42-第-2-章-mysql-的安装与配置)
+    - [4.3. 第 3 章 数据库的基本操作](https://tdahuyou.github.io/TNotes.mysql/notes/0001.%20MySQL%208%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A/README#43-第-3-章-数据库的基本操作)
+    - [4.4. 第 4 章 数据表的基本操作](https://tdahuyou.github.io/TNotes.mysql/notes/0001.%20MySQL%208%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A/README#44-第-4-章-数据表的基本操作)
+    - [4.5. 第 5 章 数据类型和运算符](https://tdahuyou.github.io/TNotes.mysql/notes/0001.%20MySQL%208%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A/README#45-第-5-章-数据类型和运算符)
+    - [4.6. 第 6 章 MySQL 函数](https://tdahuyou.github.io/TNotes.mysql/notes/0001.%20MySQL%208%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A/README#46-第-6-章-mysql-函数)
+    - [4.7. 第 7 章 查询数据](https://tdahuyou.github.io/TNotes.mysql/notes/0001.%20MySQL%208%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A/README#47-第-7-章-查询数据)
+    - [4.8. 第 8 章 插入、更新与删除数据](https://tdahuyou.github.io/TNotes.mysql/notes/0001.%20MySQL%208%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A/README#48-第-8-章-插入更新与删除数据)
+    - [4.9. 第 9 章 索引](https://tdahuyou.github.io/TNotes.mysql/notes/0001.%20MySQL%208%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A/README#49-第-9-章-索引)
+    - [4.10. 第 10 章 存储过程和函数](https://tdahuyou.github.io/TNotes.mysql/notes/0001.%20MySQL%208%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A/README#410-第-10-章-存储过程和函数)
+    - [4.11. 第 11 章 视图](https://tdahuyou.github.io/TNotes.mysql/notes/0001.%20MySQL%208%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A/README#411-第-11-章-视图)
+    - [4.12. 第 12 章 MySQL 触发器](https://tdahuyou.github.io/TNotes.mysql/notes/0001.%20MySQL%208%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A/README#412-第-12-章-mysql-触发器)
+    - [4.13. 第 13 章 MySQL 权限与安全管理](https://tdahuyou.github.io/TNotes.mysql/notes/0001.%20MySQL%208%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A/README#413-第-13-章-mysql-权限与安全管理)
+    - [4.14. 第 14 章 数据备份与恢复](https://tdahuyou.github.io/TNotes.mysql/notes/0001.%20MySQL%208%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A/README#414-第-14-章-数据备份与恢复)
+    - [4.15. 第 15 章 MySQL 日志](https://tdahuyou.github.io/TNotes.mysql/notes/0001.%20MySQL%208%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A/README#415-第-15-章-mysql-日志)
+    - [4.16. 第 16 章 性能优化](https://tdahuyou.github.io/TNotes.mysql/notes/0001.%20MySQL%208%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A/README#416-第-16-章-性能优化)
+    - [4.17. 第 17 章 MySQL Replication](https://tdahuyou.github.io/TNotes.mysql/notes/0001.%20MySQL%208%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A/README#417-第-17-章-mysql-replication)
+    - [4.18. 第 18 章 MySQL Workbench 的使用](https://tdahuyou.github.io/TNotes.mysql/notes/0001.%20MySQL%208%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A/README#418-第-18-章-mysql-workbench-的使用)
+    - [4.19. 第 19 章 MySQL 管理利器——MySQL Utilities](https://tdahuyou.github.io/TNotes.mysql/notes/0001.%20MySQL%208%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A/README#419-第-19-章-mysql-管理利器mysql-utilities)
+    - [4.20. 第 20 章 读写分离的利器——MySQL Proxy](https://tdahuyou.github.io/TNotes.mysql/notes/0001.%20MySQL%208%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A/README#420-第-20-章-读写分离的利器mysql-proxy)
+    - [4.21. 第 21 章 精通 MySQL 存储引擎](https://tdahuyou.github.io/TNotes.mysql/notes/0001.%20MySQL%208%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A/README#421-第-21-章-精通-mysql-存储引擎)
+    - [4.22. 第 22 章 PHP 操作 MySQL 数据库](https://tdahuyou.github.io/TNotes.mysql/notes/0001.%20MySQL%208%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A/README#422-第-22-章-php-操作-mysql-数据库)
+    - [4.23. 第 23 章 PDO 数据库抽象类库](https://tdahuyou.github.io/TNotes.mysql/notes/0001.%20MySQL%208%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A/README#423-第-23-章-pdo-数据库抽象类库)
+    - [4.24. 第 24 章 综合项目 1——开发网上商城](https://tdahuyou.github.io/TNotes.mysql/notes/0001.%20MySQL%208%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A/README#424-第-24-章-综合项目-1开发网上商城)
+    - [4.25. 第 25 章 综合项目 2——论坛管理系统数据库设计](https://tdahuyou.github.io/TNotes.mysql/notes/0001.%20MySQL%208%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A/README#425-第-25-章-综合项目-2论坛管理系统数据库设计)
+    - [4.26. 第 26 章 综合项目 3——新闻发布系统数据库设计](https://tdahuyou.github.io/TNotes.mysql/notes/0001.%20MySQL%208%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A/README#426-第-26-章-综合项目-3新闻发布系统数据库设计)
