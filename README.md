@@ -4,11 +4,16 @@
 
 - [TNotes.mysql](#tnotesmysql)
   - [1. MySQL 学习资源](#1-mysql-学习资源)
+  - [2. 初始数据库](#2-初始数据库)
 
 <!-- endregion:toc -->
 
 ## 1. MySQL 学习资源
 
+- [x] [0008. MySQL 学习资源概述](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0008.%20MySQL%20%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E6%A6%82%E8%BF%B0/README.md)
+  - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0008.%20MySQL%20%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E6%A6%82%E8%BF%B0/README.md#1--概述)
+  - [2. 📒 学习资源推荐](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0008.%20MySQL%20%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E6%A6%82%E8%BF%B0/README.md#2--学习资源推荐)
+  - [3. 📒 TNotes.yuque](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0008.%20MySQL%20%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E6%A6%82%E8%BF%B0/README.md#3--tnotesyuque)
 - [x] [0001. MySQL 8 从入门到精通](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0001.%20MySQL%208%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A/README.md)
   - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0001.%20MySQL%208%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A/README.md#1--概述)
   - [2. 📝 《MySQL 8 从入门到精通》内容简介](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0001.%20MySQL%208%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A/README.md#2--mysql-8-从入门到精通内容简介)
@@ -40,3 +45,39 @@
     - [4.24. 第 24 章 综合项目 1——开发网上商城](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0001.%20MySQL%208%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A/README.md#424-第-24-章-综合项目-1开发网上商城)
     - [4.25. 第 25 章 综合项目 2——论坛管理系统数据库设计](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0001.%20MySQL%208%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A/README.md#425-第-25-章-综合项目-2论坛管理系统数据库设计)
     - [4.26. 第 26 章 综合项目 3——新闻发布系统数据库设计](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0001.%20MySQL%208%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A/README.md#426-第-26-章-综合项目-3新闻发布系统数据库设计)
+
+## 2. 初始数据库
+
+- [x] [0002. 什么是“MySQL”](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0002.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9CMySQL%E2%80%9D/README.md)
+  - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0002.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9CMySQL%E2%80%9D/README.md#1--概述)
+  - [2. 🔗 mysql - github](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0002.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9CMySQL%E2%80%9D/README.md#2--mysql---github)
+  - [3. 🔗 mysql - 官网](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0002.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9CMySQL%E2%80%9D/README.md#3--mysql---官网)
+  - [4. 📒 MySQL 的主要特点](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0002.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9CMySQL%E2%80%9D/README.md#4--mysql-的主要特点)
+  - [5. 📒 使用 MySQL 的企业](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0002.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9CMySQL%E2%80%9D/README.md#5--使用-mysql-的企业)
+- [x] [0003. 什么是“数据库”](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0003.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9C%E6%95%B0%E6%8D%AE%E5%BA%93%E2%80%9D/README.md)
+  - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0003.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9C%E6%95%B0%E6%8D%AE%E5%BA%93%E2%80%9D/README.md#1--概述)
+  - [2. 📒 数据库的发展阶段](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0003.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9C%E6%95%B0%E6%8D%AE%E5%BA%93%E2%80%9D/README.md#2--数据库的发展阶段)
+  - [3. 📒 数据库的种类](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0003.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9C%E6%95%B0%E6%8D%AE%E5%BA%93%E2%80%9D/README.md#3--数据库的种类)
+  - [4. 📒 数据库的一些普遍特点](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0003.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9C%E6%95%B0%E6%8D%AE%E5%BA%93%E2%80%9D/README.md#4--数据库的一些普遍特点)
+- [ ] [0004. 什么是“表”、“数据类型”、“主键”](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0004.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9C%E8%A1%A8%E2%80%9D%E3%80%81%E2%80%9C%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E2%80%9D%E3%80%81%E2%80%9C%E4%B8%BB%E9%94%AE%E2%80%9D/README.md)
+  - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0004.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9C%E8%A1%A8%E2%80%9D%E3%80%81%E2%80%9C%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E2%80%9D%E3%80%81%E2%80%9C%E4%B8%BB%E9%94%AE%E2%80%9D/README.md#1--概述)
+  - [2. 📒 表（Table）](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0004.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9C%E8%A1%A8%E2%80%9D%E3%80%81%E2%80%9C%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E2%80%9D%E3%80%81%E2%80%9C%E4%B8%BB%E9%94%AE%E2%80%9D/README.md#2--表table)
+  - [3. 📒 数据类型（Data Type）](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0004.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9C%E8%A1%A8%E2%80%9D%E3%80%81%E2%80%9C%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E2%80%9D%E3%80%81%E2%80%9C%E4%B8%BB%E9%94%AE%E2%80%9D/README.md#3--数据类型data-type)
+  - [4. 📒 主键（Primary Key）](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0004.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9C%E8%A1%A8%E2%80%9D%E3%80%81%E2%80%9C%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E2%80%9D%E3%80%81%E2%80%9C%E4%B8%BB%E9%94%AE%E2%80%9D/README.md#4--主键primary-key)
+- [x] [0005. 数据库系统的组成](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0005.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E7%9A%84%E7%BB%84%E6%88%90/README.md)
+  - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0005.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E7%9A%84%E7%BB%84%E6%88%90/README.md#1--概述)
+  - [2. 💡 数据库系统（DBS）组成结构图](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0005.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E7%9A%84%E7%BB%84%E6%88%90/README.md#2--数据库系统dbs组成结构图)
+  - [3. 📒 数据库 vs. 数据库系统 vs. 数据库管理系统 vs. 数据库应用程序](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0005.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E7%9A%84%E7%BB%84%E6%88%90/README.md#3--数据库-vs-数据库系统-vs-数据库管理系统-vs-数据库应用程序)
+  - [4. 📒 类比：“图书馆”](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0005.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E7%9A%84%E7%BB%84%E6%88%90/README.md#4--类比图书馆)
+  - [5. 🤔 为什么需要 DB Application？](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0005.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E7%9A%84%E7%BB%84%E6%88%90/README.md#5--为什么需要-db-application)
+- [ ] [0006. 了解一些常见的 MySQL 工具](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0006.%20%E4%BA%86%E8%A7%A3%E4%B8%80%E4%BA%9B%E5%B8%B8%E8%A7%81%E7%9A%84%20MySQL%20%E5%B7%A5%E5%85%B7/README.md)
+  - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0006.%20%E4%BA%86%E8%A7%A3%E4%B8%80%E4%BA%9B%E5%B8%B8%E8%A7%81%E7%9A%84%20MySQL%20%E5%B7%A5%E5%85%B7/README.md#1--概述)
+  - [2. 📒 MySQL 自带工具](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0006.%20%E4%BA%86%E8%A7%A3%E4%B8%80%E4%BA%9B%E5%B8%B8%E8%A7%81%E7%9A%84%20MySQL%20%E5%B7%A5%E5%85%B7/README.md#2--mysql-自带工具)
+  - [3. 📒 第三方的一些图形化管理工具](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0006.%20%E4%BA%86%E8%A7%A3%E4%B8%80%E4%BA%9B%E5%B8%B8%E8%A7%81%E7%9A%84%20MySQL%20%E5%B7%A5%E5%85%B7/README.md#3--第三方的一些图形化管理工具)
+- [ ] [0007. 如何学习 MySQL](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0007.%20%E5%A6%82%E4%BD%95%E5%AD%A6%E4%B9%A0%20MySQL/README.md)
+  - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0007.%20%E5%A6%82%E4%BD%95%E5%AD%A6%E4%B9%A0%20MySQL/README.md#1--概述)
+  - [2. 📒 学习路径建议](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0007.%20%E5%A6%82%E4%BD%95%E5%AD%A6%E4%B9%A0%20MySQL/README.md#2--学习路径建议)
+- [x] [0009. SQL 语言概述](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0009.%20SQL%20%E8%AF%AD%E8%A8%80%E6%A6%82%E8%BF%B0/README.md)
+  - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0009.%20SQL%20%E8%AF%AD%E8%A8%80%E6%A6%82%E8%BF%B0/README.md#1--概述)
+  - [2. 📒 SQL 和 DBMS 的关系](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0009.%20SQL%20%E8%AF%AD%E8%A8%80%E6%A6%82%E8%BF%B0/README.md#2--sql-和-dbms-的关系)
+  - [3. 📒 SQL 的分类](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0009.%20SQL%20%E8%AF%AD%E8%A8%80%E6%A6%82%E8%BF%B0/README.md#3--sql-的分类)
