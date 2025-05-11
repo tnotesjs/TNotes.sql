@@ -62,7 +62,7 @@
   - [2. 📒 数据库的发展阶段](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0003.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9C%E6%95%B0%E6%8D%AE%E5%BA%93%E2%80%9D/README.md#2--数据库的发展阶段)
   - [3. 📒 数据库的种类](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0003.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9C%E6%95%B0%E6%8D%AE%E5%BA%93%E2%80%9D/README.md#3--数据库的种类)
   - [4. 📒 数据库的一些普遍特点](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0003.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9C%E6%95%B0%E6%8D%AE%E5%BA%93%E2%80%9D/README.md#4--数据库的一些普遍特点)
-- [ ] [0004. 什么是“表”、“数据类型”、“主键”](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0004.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9C%E8%A1%A8%E2%80%9D%E3%80%81%E2%80%9C%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E2%80%9D%E3%80%81%E2%80%9C%E4%B8%BB%E9%94%AE%E2%80%9D/README.md)
+- [x] [0004. 什么是“表”、“数据类型”、“主键”](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0004.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9C%E8%A1%A8%E2%80%9D%E3%80%81%E2%80%9C%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E2%80%9D%E3%80%81%E2%80%9C%E4%B8%BB%E9%94%AE%E2%80%9D/README.md)
   - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0004.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9C%E8%A1%A8%E2%80%9D%E3%80%81%E2%80%9C%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E2%80%9D%E3%80%81%E2%80%9C%E4%B8%BB%E9%94%AE%E2%80%9D/README.md#1--概述)
   - [2. 📒 表（Table）](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0004.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9C%E8%A1%A8%E2%80%9D%E3%80%81%E2%80%9C%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E2%80%9D%E3%80%81%E2%80%9C%E4%B8%BB%E9%94%AE%E2%80%9D/README.md#2--表table)
   - [3. 📒 数据类型（Data Type）](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0004.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9C%E8%A1%A8%E2%80%9D%E3%80%81%E2%80%9C%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E2%80%9D%E3%80%81%E2%80%9C%E4%B8%BB%E9%94%AE%E2%80%9D/README.md#3--数据类型data-type)
@@ -80,13 +80,16 @@
 - [ ] [0011. 数据库访问接口](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0011.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BF%E9%97%AE%E6%8E%A5%E5%8F%A3/README.md)
   - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0011.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BF%E9%97%AE%E6%8E%A5%E5%8F%A3/README.md#1--概述)
   - [2. 📒 数据库访问接口在数据库系统中的位置](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0011.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BF%E9%97%AE%E6%8E%A5%E5%8F%A3/README.md#2--数据库访问接口在数据库系统中的位置)
-  - [3. 📒 常见的数据库访问接口](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0011.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BF%E9%97%AE%E6%8E%A5%E5%8F%A3/README.md#3--常见的数据库访问接口)
-    - [3.1. Sequelize ORM](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0011.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BF%E9%97%AE%E6%8E%A5%E5%8F%A3/README.md#31-sequelize-orm)
-    - [3.2. ODBC（Open Database Connectivity）](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0011.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BF%E9%97%AE%E6%8E%A5%E5%8F%A3/README.md#32-odbcopen-database-connectivity)
-    - [3.3. JDBC（Java Database Connectivity）](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0011.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BF%E9%97%AE%E6%8E%A5%E5%8F%A3/README.md#33-jdbcjava-database-connectivity)
-    - [3.4. ADO.NET](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0011.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BF%E9%97%AE%E6%8E%A5%E5%8F%A3/README.md#34-adonet)
-    - [3.5. DB-API（Python Database API）](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0011.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BF%E9%97%AE%E6%8E%A5%E5%8F%A3/README.md#35-db-apipython-database-api)
-    - [3.6. PDO（PHP Data Objects）](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0011.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BF%E9%97%AE%E6%8E%A5%E5%8F%A3/README.md#36-pdophp-data-objects)
+  - [3. 📒 数据库访问接口的作用](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0011.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BF%E9%97%AE%E6%8E%A5%E5%8F%A3/README.md#3--数据库访问接口的作用)
+  - [4. 📒 常见的数据库访问接口](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0011.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BF%E9%97%AE%E6%8E%A5%E5%8F%A3/README.md#4--常见的数据库访问接口)
+    - [4.1. Sequelize ORM](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0011.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BF%E9%97%AE%E6%8E%A5%E5%8F%A3/README.md#41-sequelize-orm)
+    - [4.2. ODBC（Open Database Connectivity）](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0011.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BF%E9%97%AE%E6%8E%A5%E5%8F%A3/README.md#42-odbcopen-database-connectivity)
+    - [4.3. JDBC（Java Database Connectivity）](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0011.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BF%E9%97%AE%E6%8E%A5%E5%8F%A3/README.md#43-jdbcjava-database-connectivity)
+    - [4.4. ADO.NET](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0011.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BF%E9%97%AE%E6%8E%A5%E5%8F%A3/README.md#44-adonet)
+    - [4.5. DB-API（Python Database API）](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0011.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BF%E9%97%AE%E6%8E%A5%E5%8F%A3/README.md#45-db-apipython-database-api)
+    - [4.6. PDO（PHP Data Objects）](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0011.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BF%E9%97%AE%E6%8E%A5%E5%8F%A3/README.md#46-pdophp-data-objects)
+  - [5. 📒 现代趋势：ORM 框架](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0011.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BF%E9%97%AE%E6%8E%A5%E5%8F%A3/README.md#5--现代趋势orm-框架)
+  - [6. 📒 实际应用场景](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0011.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BF%E9%97%AE%E6%8E%A5%E5%8F%A3/README.md#6--实际应用场景)
 - [ ] [0007. 如何学习 MySQL](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0007.%20%E5%A6%82%E4%BD%95%E5%AD%A6%E4%B9%A0%20MySQL/README.md)
   - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0007.%20%E5%A6%82%E4%BD%95%E5%AD%A6%E4%B9%A0%20MySQL/README.md#1--概述)
   - [2. 📒 学习路径建议](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0007.%20%E5%A6%82%E4%BD%95%E5%AD%A6%E4%B9%A0%20MySQL/README.md#2--学习路径建议)
@@ -100,7 +103,7 @@
 
 ### 3.1. 扩展
 
-- [ ] [0010. SQL 标准](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0010.%20SQL%20%E6%A0%87%E5%87%86/README.md)
+- [x] [0010. SQL 标准](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0010.%20SQL%20%E6%A0%87%E5%87%86/README.md)
   - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0010.%20SQL%20%E6%A0%87%E5%87%86/README.md#1--概述)
   - [2. 📒 SQL 标准的发展历程](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0010.%20SQL%20%E6%A0%87%E5%87%86/README.md#2--sql-标准的发展历程)
   - [3. 📒 主要的 SQL 标准版本对比](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0010.%20SQL%20%E6%A0%87%E5%87%86/README.md#3--主要的-sql-标准版本对比)
@@ -113,7 +116,7 @@
 
 ## 4. C/S、B/S 架构 vs. 文件共享架构
 
-- [ ] [0012. CS 架构 vs. 文件共享架构](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0012.%20CS%20%E6%9E%B6%E6%9E%84%20vs.%20%E6%96%87%E4%BB%B6%E5%85%B1%E4%BA%AB%E6%9E%B6%E6%9E%84/README.md)
+- [x] [0012. CS 架构 vs. 文件共享架构](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0012.%20CS%20%E6%9E%B6%E6%9E%84%20vs.%20%E6%96%87%E4%BB%B6%E5%85%B1%E4%BA%AB%E6%9E%B6%E6%9E%84/README.md)
   - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0012.%20CS%20%E6%9E%B6%E6%9E%84%20vs.%20%E6%96%87%E4%BB%B6%E5%85%B1%E4%BA%AB%E6%9E%B6%E6%9E%84/README.md#1--概述)
   - [2. 🤔 为什么说 C/S、B/S 架构能减少网络传输量？](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0012.%20CS%20%E6%9E%B6%E6%9E%84%20vs.%20%E6%96%87%E4%BB%B6%E5%85%B1%E4%BA%AB%E6%9E%B6%E6%9E%84/README.md#2--为什么说-csbs-架构能减少网络传输量)
     - [2.1. 客户端只发送“请求”，不传输整个数据集](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0012.%20CS%20%E6%9E%B6%E6%9E%84%20vs.%20%E6%96%87%E4%BB%B6%E5%85%B1%E4%BA%AB%E6%9E%B6%E6%9E%84/README.md#21-客户端只发送请求不传输整个数据集)
