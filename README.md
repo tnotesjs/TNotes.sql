@@ -5,6 +5,9 @@
 - [TNotes.mysql](#tnotesmysql)
   - [1. MySQL 学习资源](#1-mysql-学习资源)
   - [2. 初始数据库](#2-初始数据库)
+  - [3. SQL](#3-sql)
+    - [3.1. 扩展](#31-扩展)
+  - [4. C/S、B/S 架构 vs. 文件共享架构](#4-csbs-架构-vs-文件共享架构)
 
 <!-- endregion:toc -->
 
@@ -74,10 +77,45 @@
   - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0006.%20%E4%BA%86%E8%A7%A3%E4%B8%80%E4%BA%9B%E5%B8%B8%E8%A7%81%E7%9A%84%20MySQL%20%E5%B7%A5%E5%85%B7/README.md#1--概述)
   - [2. 📒 MySQL 自带工具](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0006.%20%E4%BA%86%E8%A7%A3%E4%B8%80%E4%BA%9B%E5%B8%B8%E8%A7%81%E7%9A%84%20MySQL%20%E5%B7%A5%E5%85%B7/README.md#2--mysql-自带工具)
   - [3. 📒 第三方的一些图形化管理工具](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0006.%20%E4%BA%86%E8%A7%A3%E4%B8%80%E4%BA%9B%E5%B8%B8%E8%A7%81%E7%9A%84%20MySQL%20%E5%B7%A5%E5%85%B7/README.md#3--第三方的一些图形化管理工具)
+- [ ] [0011. 数据库访问接口](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0011.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BF%E9%97%AE%E6%8E%A5%E5%8F%A3/README.md)
+  - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0011.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BF%E9%97%AE%E6%8E%A5%E5%8F%A3/README.md#1--概述)
+  - [2. 📒 数据库访问接口在数据库系统中的位置](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0011.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BF%E9%97%AE%E6%8E%A5%E5%8F%A3/README.md#2--数据库访问接口在数据库系统中的位置)
+  - [3. 📒 常见的数据库访问接口](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0011.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BF%E9%97%AE%E6%8E%A5%E5%8F%A3/README.md#3--常见的数据库访问接口)
+    - [3.1. Sequelize ORM](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0011.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BF%E9%97%AE%E6%8E%A5%E5%8F%A3/README.md#31-sequelize-orm)
+    - [3.2. ODBC（Open Database Connectivity）](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0011.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BF%E9%97%AE%E6%8E%A5%E5%8F%A3/README.md#32-odbcopen-database-connectivity)
+    - [3.3. JDBC（Java Database Connectivity）](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0011.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BF%E9%97%AE%E6%8E%A5%E5%8F%A3/README.md#33-jdbcjava-database-connectivity)
+    - [3.4. ADO.NET](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0011.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BF%E9%97%AE%E6%8E%A5%E5%8F%A3/README.md#34-adonet)
+    - [3.5. DB-API（Python Database API）](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0011.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BF%E9%97%AE%E6%8E%A5%E5%8F%A3/README.md#35-db-apipython-database-api)
+    - [3.6. PDO（PHP Data Objects）](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0011.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BF%E9%97%AE%E6%8E%A5%E5%8F%A3/README.md#36-pdophp-data-objects)
 - [ ] [0007. 如何学习 MySQL](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0007.%20%E5%A6%82%E4%BD%95%E5%AD%A6%E4%B9%A0%20MySQL/README.md)
   - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0007.%20%E5%A6%82%E4%BD%95%E5%AD%A6%E4%B9%A0%20MySQL/README.md#1--概述)
   - [2. 📒 学习路径建议](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0007.%20%E5%A6%82%E4%BD%95%E5%AD%A6%E4%B9%A0%20MySQL/README.md#2--学习路径建议)
+
+## 3. SQL
+
 - [x] [0009. SQL 语言概述](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0009.%20SQL%20%E8%AF%AD%E8%A8%80%E6%A6%82%E8%BF%B0/README.md)
   - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0009.%20SQL%20%E8%AF%AD%E8%A8%80%E6%A6%82%E8%BF%B0/README.md#1--概述)
   - [2. 📒 SQL 和 DBMS 的关系](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0009.%20SQL%20%E8%AF%AD%E8%A8%80%E6%A6%82%E8%BF%B0/README.md#2--sql-和-dbms-的关系)
   - [3. 📒 SQL 的分类](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0009.%20SQL%20%E8%AF%AD%E8%A8%80%E6%A6%82%E8%BF%B0/README.md#3--sql-的分类)
+
+### 3.1. 扩展
+
+- [ ] [0010. SQL 标准](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0010.%20SQL%20%E6%A0%87%E5%87%86/README.md)
+  - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0010.%20SQL%20%E6%A0%87%E5%87%86/README.md#1--概述)
+  - [2. 📒 SQL 标准的发展历程](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0010.%20SQL%20%E6%A0%87%E5%87%86/README.md#2--sql-标准的发展历程)
+  - [3. 📒 主要的 SQL 标准版本对比](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0010.%20SQL%20%E6%A0%87%E5%87%86/README.md#3--主要的-sql-标准版本对比)
+  - [4. 📒 SQL 标准的主要组成部分](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0010.%20SQL%20%E6%A0%87%E5%87%86/README.md#4--sql-标准的主要组成部分)
+  - [5. 📒 SQL 标准与数据库实现的关系](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0010.%20SQL%20%E6%A0%87%E5%87%86/README.md#5--sql-标准与数据库实现的关系)
+  - [6. 📒 常见的 SQL 方言（Dialect）](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0010.%20SQL%20%E6%A0%87%E5%87%86/README.md#6--常见的-sql-方言dialect)
+  - [7. 📒 SQL 标准的实际意义](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0010.%20SQL%20%E6%A0%87%E5%87%86/README.md#7--sql-标准的实际意义)
+  - [8. 📒 推荐的学习路径（针对开发者）](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0010.%20SQL%20%E6%A0%87%E5%87%86/README.md#8--推荐的学习路径针对开发者)
+  - [9. 🔗 SQL 标准文档](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0010.%20SQL%20%E6%A0%87%E5%87%86/README.md#9--sql-标准文档)
+
+## 4. C/S、B/S 架构 vs. 文件共享架构
+
+- [ ] [0012. CS 架构 vs. 文件共享架构](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0012.%20CS%20%E6%9E%B6%E6%9E%84%20vs.%20%E6%96%87%E4%BB%B6%E5%85%B1%E4%BA%AB%E6%9E%B6%E6%9E%84/README.md)
+  - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0012.%20CS%20%E6%9E%B6%E6%9E%84%20vs.%20%E6%96%87%E4%BB%B6%E5%85%B1%E4%BA%AB%E6%9E%B6%E6%9E%84/README.md#1--概述)
+  - [2. 🤔 为什么说 C/S、B/S 架构能减少网络传输量？](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0012.%20CS%20%E6%9E%B6%E6%9E%84%20vs.%20%E6%96%87%E4%BB%B6%E5%85%B1%E4%BA%AB%E6%9E%B6%E6%9E%84/README.md#2--为什么说-csbs-架构能减少网络传输量)
+    - [2.1. 客户端只发送“请求”，不传输整个数据集](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0012.%20CS%20%E6%9E%B6%E6%9E%84%20vs.%20%E6%96%87%E4%BB%B6%E5%85%B1%E4%BA%AB%E6%9E%B6%E6%9E%84/README.md#21-客户端只发送请求不传输整个数据集)
+    - [2.2. 服务器端处理数据后再返回结果](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0012.%20CS%20%E6%9E%B6%E6%9E%84%20vs.%20%E6%96%87%E4%BB%B6%E5%85%B1%E4%BA%AB%E6%9E%B6%E6%9E%84/README.md#22-服务器端处理数据后再返回结果)
+    - [2.3. 对比早期的“文件共享”方式](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0012.%20CS%20%E6%9E%B6%E6%9E%84%20vs.%20%E6%96%87%E4%BB%B6%E5%85%B1%E4%BA%AB%E6%9E%B6%E6%9E%84/README.md#23-对比早期的文件共享方式)

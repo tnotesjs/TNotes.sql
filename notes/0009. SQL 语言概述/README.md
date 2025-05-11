@@ -74,12 +74,13 @@ graph TD
 
 ## 3. 📒 SQL 的分类
 
-| 分类 | 英文名 | 中文名 | 功能 |
-| --- | --- | --- | --- |
-| DDL | Data Definition Language | 数据定义语言 | 用于定义数据库对象，创建、修改或删除数据库对象（如表、索引、视图） |
-| DML | Data Manipulation Language | 数据操作语言 | 用于操作表中的数据（CRUD - 创建、查询、更新、删除） |
-| DCL | Data Control Language | 数据控制语言 | 用于管理数据库访问权限（如授权、撤销权限） |
-| TCL | Transaction Control Language | 事务控制语言 | 用于管理多个 SQL 操作作为一个事务（如提交、回滚） |
+| 分类 | 英文名 | 中文名 | 功能 | 常用语句 |
+| --- | --- | --- | --- | --- |
+| DDL | Data Definition Language | 数据定义语言 | 用于定义数据库对象，如创建、修改或删除数据库对象（表、索引、视图等） | `CREATE`, `ALTER`, `DROP`, `TRUNCATE`, `RENAME` |
+| DML | Data Manipulation Language | 数据操作语言 | 用于对表中的数据进行增删改查（CRUD 操作） | `SELECT`, `INSERT`, `UPDATE`, `DELETE` |
+| DQL | Data Query Language | 数据查询语言 | 用于查询数据库中的数据 | `SELECT` |
+| DCL | Data Control Language | 数据控制语言 | 用于管理数据库的访问权限和安全控制（授权、撤销权限） | `GRANT`, `REVOKE` |
+| TCL | Transaction Control Language | 事务控制语言 | 用于将多个 SQL 操作作为一个事务来管理（保证数据一致性） | `COMMIT`, `ROLLBACK`, `SAVEPOINT`, `SET TRANSACTION` |
 
 ::: code-group
 
@@ -102,7 +103,7 @@ DROP TABLE users;
 -- 插入数据
 INSERT INTO users (id, name, age) VALUES (1, 'Alice', 23);
 
--- 查询数据
+-- 查询数据（这也可以说是 DQL 语句）
 SELECT * FROM users WHERE age > 20;
 
 -- 更新数据
@@ -132,3 +133,13 @@ ROLLBACK;
 ```
 
 :::
+
+- **🤔 为什么有些书把 COMMIT 和 ROLLBACK 放到 DCL？**
+  - 这是因为在早期版本的 SQL 标准中，事务控制（TCL）并没有被单独列为一个类别，而是归入了 DCL。
+  - 但随着发展，很多现代资料中会将其独立出来作为一个新类别。
+- **🤔 SELECT 语句属于 DQL 还是 DML？**
+  - SELECT 语句属于 DQL ✅
+    - SELECT 语句用于查询数据库中的数据，并没有修改数据库中的数据，不会对数据库中的值有任何影响，因此它是查询（Query）语句，而非操作（Manipulation）语句。
+  - SELECT 语句属于 DML ✅
+    - `Manipulation ≠ 篡改`，查询行为也属于数据操作的一种行为。
+  - 两种说法都 OK，只是分类的出发角度不同罢了。
