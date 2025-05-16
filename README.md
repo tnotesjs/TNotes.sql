@@ -9,6 +9,7 @@
     - [3.1. 扩展](#31-扩展)
   - [4. “数据访问接口” 和 “ORM”](#4-数据访问接口-和-orm)
   - [5. C/S、B/S 架构 vs. 文件共享架构](#5-csbs-架构-vs-文件共享架构)
+  - [6. 数据表的基本操作](#6-数据表的基本操作)
 
 <!-- endregion:toc -->
 
@@ -130,3 +131,12 @@
     - [2.1. 客户端只发送“请求”，不传输整个数据集](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0012.%20CS%20%E6%9E%B6%E6%9E%84%20vs.%20%E6%96%87%E4%BB%B6%E5%85%B1%E4%BA%AB%E6%9E%B6%E6%9E%84/README.md#21-客户端只发送请求不传输整个数据集)
     - [2.2. 服务器端处理数据后再返回结果](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0012.%20CS%20%E6%9E%B6%E6%9E%84%20vs.%20%E6%96%87%E4%BB%B6%E5%85%B1%E4%BA%AB%E6%9E%B6%E6%9E%84/README.md#22-服务器端处理数据后再返回结果)
     - [2.3. 对比早期的“文件共享”方式](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0012.%20CS%20%E6%9E%B6%E6%9E%84%20vs.%20%E6%96%87%E4%BB%B6%E5%85%B1%E4%BA%AB%E6%9E%B6%E6%9E%84/README.md#23-对比早期的文件共享方式)
+
+## 6. 数据表的基本操作
+
+- [ ] [0014. 数据表的基本操作](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0014.%20%E6%95%B0%E6%8D%AE%E8%A1%A8%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/README.md)
+  - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0014.%20%E6%95%B0%E6%8D%AE%E8%A1%A8%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/README.md#1--概述)
+  - [2. 💻 创建数据表](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0014.%20%E6%95%B0%E6%8D%AE%E8%A1%A8%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/README.md#2--创建数据表)
+  - [3. 💻 查看数据表结构](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0014.%20%E6%95%B0%E6%8D%AE%E8%A1%A8%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/README.md#3--查看数据表结构)
+  - [4. 💻 修改数据表](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0014.%20%E6%95%B0%E6%8D%AE%E8%A1%A8%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/README.md#4--修改数据表)
+  - [5. 💻 删除数据表](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0014.%20%E6%95%B0%E6%8D%AE%E8%A1%A8%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/README.md#5--删除数据表)
