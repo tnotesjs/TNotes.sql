@@ -10,6 +10,7 @@
   - [4. “数据访问接口” 和 “ORM”](#4-数据访问接口-和-orm)
   - [5. C/S、B/S 架构 vs. 文件共享架构](#5-csbs-架构-vs-文件共享架构)
   - [6. 数据表的基本操作](#6-数据表的基本操作)
+  - [7. ⏰ pending](#7--pending)
 
 <!-- endregion:toc -->
 
@@ -178,11 +179,9 @@
 - [ ] [0016. 使用主键约束](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0016.%20%E4%BD%BF%E7%94%A8%E4%B8%BB%E9%94%AE%E7%BA%A6%E6%9D%9F/README.md)
   - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0016.%20%E4%BD%BF%E7%94%A8%E4%B8%BB%E9%94%AE%E7%BA%A6%E6%9D%9F/README.md#1--概述)
 
+## 7. ⏰ pending
 
-
-## ⏰ pending
-
-- [ ] [0021. MySQL 版本命名机制](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0021.%20MySQL%20%E7%89%88%E6%9C%AC%E5%91%BD%E5%90%8D%E6%9C%BA%E5%88%B6/README.md)
+- [x] [0021. MySQL 版本命名机制](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0021.%20MySQL%20%E7%89%88%E6%9C%AC%E5%91%BD%E5%90%8D%E6%9C%BA%E5%88%B6/README.md)
   - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0021.%20MySQL%20%E7%89%88%E6%9C%AC%E5%91%BD%E5%90%8D%E6%9C%BA%E5%88%B6/README.md#1--概述)
   - [2. 📒 版本后缀](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0021.%20MySQL%20%E7%89%88%E6%9C%AC%E5%91%BD%E5%90%8D%E6%9C%BA%E5%88%B6/README.md#2--版本后缀)
   - [3. 💻 读懂版本名称的含义](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0021.%20MySQL%20%E7%89%88%E6%9C%AC%E5%91%BD%E5%90%8D%E6%9C%BA%E5%88%B6/README.md#3--读懂版本名称的含义)
@@ -237,8 +236,14 @@
   - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0033.%20MySQL%208.0%20%E6%96%B0%E7%89%B9%E6%80%A7%20-%20%E6%9F%A5%E8%AF%A2%E4%BC%98%E5%8C%96/README.md#1--概述)
   - [2. 📒 不可见索引（Invisible Indexes）](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0033.%20MySQL%208.0%20%E6%96%B0%E7%89%B9%E6%80%A7%20-%20%E6%9F%A5%E8%AF%A2%E4%BC%98%E5%8C%96/README.md#2--不可见索引invisible-indexes)
   - [3. 📒 降序索引（Descending Indexes）](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0033.%20MySQL%208.0%20%E6%96%B0%E7%89%B9%E6%80%A7%20-%20%E6%9F%A5%E8%AF%A2%E4%BC%98%E5%8C%96/README.md#3--降序索引descending-indexes)
-- [ ] [0034. 公用表表达式](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0034.%20%E5%85%AC%E7%94%A8%E8%A1%A8%E8%A1%A8%E8%BE%BE%E5%BC%8F/README.md)
-  - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0034.%20%E5%85%AC%E7%94%A8%E8%A1%A8%E8%A1%A8%E8%BE%BE%E5%BC%8F/README.md#1--概述)
+- [ ] [0034. MySQL 8.0 新特性 - 公用表表达式](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0034.%20MySQL%208.0%20%E6%96%B0%E7%89%B9%E6%80%A7%20-%20%E5%85%AC%E7%94%A8%E8%A1%A8%E8%A1%A8%E8%BE%BE%E5%BC%8F/README.md)
+  - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0034.%20MySQL%208.0%20%E6%96%B0%E7%89%B9%E6%80%A7%20-%20%E5%85%AC%E7%94%A8%E8%A1%A8%E8%A1%A8%E8%BE%BE%E5%BC%8F/README.md#1--概述)
+  - [2. 📒 什么是公用表表达式？](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0034.%20MySQL%208.0%20%E6%96%B0%E7%89%B9%E6%80%A7%20-%20%E5%85%AC%E7%94%A8%E8%A1%A8%E8%A1%A8%E8%BE%BE%E5%BC%8F/README.md#2--什么是公用表表达式)
+  - [3. 📒 CTE 的基本语法](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0034.%20MySQL%208.0%20%E6%96%B0%E7%89%B9%E6%80%A7%20-%20%E5%85%AC%E7%94%A8%E8%A1%A8%E8%A1%A8%E8%BE%BE%E5%BC%8F/README.md#3--cte-的基本语法)
+  - [4. 📒 非递归 CTE 示例](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0034.%20MySQL%208.0%20%E6%96%B0%E7%89%B9%E6%80%A7%20-%20%E5%85%AC%E7%94%A8%E8%A1%A8%E8%A1%A8%E8%BE%BE%E5%BC%8F/README.md#4--非递归-cte-示例)
+  - [5. 📒 递归 CTE 示例](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0034.%20MySQL%208.0%20%E6%96%B0%E7%89%B9%E6%80%A7%20-%20%E5%85%AC%E7%94%A8%E8%A1%A8%E8%A1%A8%E8%BE%BE%E5%BC%8F/README.md#5--递归-cte-示例)
+  - [6. 📒 CTE 与子查询的区别](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0034.%20MySQL%208.0%20%E6%96%B0%E7%89%B9%E6%80%A7%20-%20%E5%85%AC%E7%94%A8%E8%A1%A8%E8%A1%A8%E8%BE%BE%E5%BC%8F/README.md#6--cte-与子查询的区别)
+  - [7. 📒 使用场景](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0034.%20MySQL%208.0%20%E6%96%B0%E7%89%B9%E6%80%A7%20-%20%E5%85%AC%E7%94%A8%E8%A1%A8%E8%A1%A8%E8%BE%BE%E5%BC%8F/README.md#7--使用场景)
 - [ ] [0035. 窗口函数](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0035.%20%E7%AA%97%E5%8F%A3%E5%87%BD%E6%95%B0/README.md)
   - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0035.%20%E7%AA%97%E5%8F%A3%E5%87%BD%E6%95%B0/README.md#1--概述)
 - [ ] [0036. MySQL 8.0 新特性 - 统计直方图](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0036.%20MySQL%208.0%20%E6%96%B0%E7%89%B9%E6%80%A7%20-%20%E7%BB%9F%E8%AE%A1%E7%9B%B4%E6%96%B9%E5%9B%BE/README.md)
