@@ -114,6 +114,9 @@
   - [1. 📝 概述](https://tdahuyou.github.io/TNotes.mysql/notes/0025.%20SQL%20%E4%B8%AD%E7%9A%84%E6%B3%A8%E9%87%8A%E5%86%99%E6%B3%95/README#1--概述)
   - [2. 📒 单行注释](https://tdahuyou.github.io/TNotes.mysql/notes/0025.%20SQL%20%E4%B8%AD%E7%9A%84%E6%B3%A8%E9%87%8A%E5%86%99%E6%B3%95/README#2--单行注释)
   - [3. 📒 多行注释](https://tdahuyou.github.io/TNotes.mysql/notes/0025.%20SQL%20%E4%B8%AD%E7%9A%84%E6%B3%A8%E9%87%8A%E5%86%99%E6%B3%95/README#3--多行注释)
+- [ ] [0038. 执行计划 EXPLLAIN](https://tdahuyou.github.io/TNotes.mysql/notes/0038.%20%E6%89%A7%E8%A1%8C%E8%AE%A1%E5%88%92%20EXPLLAIN/README)
+  - [1. 📝 概述](https://tdahuyou.github.io/TNotes.mysql/notes/0038.%20%E6%89%A7%E8%A1%8C%E8%AE%A1%E5%88%92%20EXPLLAIN/README#1--概述)
+  - [2. 🤔 如何判断索引是否生效？](https://tdahuyou.github.io/TNotes.mysql/notes/0038.%20%E6%89%A7%E8%A1%8C%E8%AE%A1%E5%88%92%20EXPLLAIN/README#2--如何判断索引是否生效)
 
 ### 3.1. 扩展
 
@@ -175,7 +178,7 @@
 - [ ] [0028. InnoDB 简介](https://tdahuyou.github.io/TNotes.mysql/notes/0028.%20InnoDB%20%E7%AE%80%E4%BB%8B/README)
   - [1. 📝 概述](https://tdahuyou.github.io/TNotes.mysql/notes/0028.%20InnoDB%20%E7%AE%80%E4%BB%8B/README#1--概述)
 
-## 8. MySQL 版本
+## 8. MySQL 版本命名机制
 
 - [x] [0021. MySQL 版本命名机制](https://tdahuyou.github.io/TNotes.mysql/notes/0021.%20MySQL%20%E7%89%88%E6%9C%AC%E5%91%BD%E5%90%8D%E6%9C%BA%E5%88%B6/README)
   - [1. 📝 概述](https://tdahuyou.github.io/TNotes.mysql/notes/0021.%20MySQL%20%E7%89%88%E6%9C%AC%E5%91%BD%E5%90%8D%E6%9C%BA%E5%88%B6/README#1--概述)
@@ -183,6 +186,9 @@
   - [3. 💻 读懂版本名称的含义](https://tdahuyou.github.io/TNotes.mysql/notes/0021.%20MySQL%20%E7%89%88%E6%9C%AC%E5%91%BD%E5%90%8D%E6%9C%BA%E5%88%B6/README#3--读懂版本名称的含义)
   - [4. 🤔 如何选择合适的 MySQL 版本？](https://tdahuyou.github.io/TNotes.mysql/notes/0021.%20MySQL%20%E7%89%88%E6%9C%AC%E5%91%BD%E5%90%8D%E6%9C%BA%E5%88%B6/README#4--如何选择合适的-mysql-版本)
   - [5. 📒 一些补充说明](https://tdahuyou.github.io/TNotes.mysql/notes/0021.%20MySQL%20%E7%89%88%E6%9C%AC%E5%91%BD%E5%90%8D%E6%9C%BA%E5%88%B6/README#5--一些补充说明)
+
+## 9. MySQL 8.0 新特性
+
 - [ ] [0022. MySQL 8.0 新特性概述](https://tdahuyou.github.io/TNotes.mysql/notes/0022.%20MySQL%208.0%20%E6%96%B0%E7%89%B9%E6%80%A7%E6%A6%82%E8%BF%B0/README)
   - [1. 📝 概述](https://tdahuyou.github.io/TNotes.mysql/notes/0022.%20MySQL%208.0%20%E6%96%B0%E7%89%B9%E6%80%A7%E6%A6%82%E8%BF%B0/README#1--概述)
 - [ ] [0023. MySQL 8.0 新特性 - 数据字典](https://tdahuyou.github.io/TNotes.mysql/notes/0023.%20MySQL%208.0%20%E6%96%B0%E7%89%B9%E6%80%A7%20-%20%E6%95%B0%E6%8D%AE%E5%AD%97%E5%85%B8/README)
@@ -235,16 +241,7 @@
   - [4. 💻 常见窗口函数分类](https://tdahuyou.github.io/TNotes.mysql/notes/0035.%20MySQL%208.0%20%E6%96%B0%E7%89%B9%E6%80%A7%20-%20%E7%AA%97%E5%8F%A3%E5%87%BD%E6%95%B0/README#4--常见窗口函数分类)
 - [ ] [0036. MySQL 8.0 新特性 - 统计直方图](https://tdahuyou.github.io/TNotes.mysql/notes/0036.%20MySQL%208.0%20%E6%96%B0%E7%89%B9%E6%80%A7%20-%20%E7%BB%9F%E8%AE%A1%E7%9B%B4%E6%96%B9%E5%9B%BE/README)
   - [1. 📝 概述](https://tdahuyou.github.io/TNotes.mysql/notes/0036.%20MySQL%208.0%20%E6%96%B0%E7%89%B9%E6%80%A7%20-%20%E7%BB%9F%E8%AE%A1%E7%9B%B4%E6%96%B9%E5%9B%BE/README#1--概述)
-  - [2. 📒 什么是窗口函数？](https://tdahuyou.github.io/TNotes.mysql/notes/0036.%20MySQL%208.0%20%E6%96%B0%E7%89%B9%E6%80%A7%20-%20%E7%BB%9F%E8%AE%A1%E7%9B%B4%E6%96%B9%E5%9B%BE/README#2--什么是窗口函数)
-  - [3. 📒 窗口函数的基本语法](https://tdahuyou.github.io/TNotes.mysql/notes/0036.%20MySQL%208.0%20%E6%96%B0%E7%89%B9%E6%80%A7%20-%20%E7%BB%9F%E8%AE%A1%E7%9B%B4%E6%96%B9%E5%9B%BE/README#3--窗口函数的基本语法)
-  - [4. 📒 窗口函数与聚合函数的区别](https://tdahuyou.github.io/TNotes.mysql/notes/0036.%20MySQL%208.0%20%E6%96%B0%E7%89%B9%E6%80%A7%20-%20%E7%BB%9F%E8%AE%A1%E7%9B%B4%E6%96%B9%E5%9B%BE/README#4--窗口函数与聚合函数的区别)
-  - [5. 📒 常见窗口函数分类](https://tdahuyou.github.io/TNotes.mysql/notes/0036.%20MySQL%208.0%20%E6%96%B0%E7%89%B9%E6%80%A7%20-%20%E7%BB%9F%E8%AE%A1%E7%9B%B4%E6%96%B9%E5%9B%BE/README#5--常见窗口函数分类)
-    - [5.1. ✅ 排名类函数](https://tdahuyou.github.io/TNotes.mysql/notes/0036.%20MySQL%208.0%20%E6%96%B0%E7%89%B9%E6%80%A7%20-%20%E7%BB%9F%E8%AE%A1%E7%9B%B4%E6%96%B9%E5%9B%BE/README#51--排名类函数)
-    - [5.2. ✅ 分布类函数](https://tdahuyou.github.io/TNotes.mysql/notes/0036.%20MySQL%208.0%20%E6%96%B0%E7%89%B9%E6%80%A7%20-%20%E7%BB%9F%E8%AE%A1%E7%9B%B4%E6%96%B9%E5%9B%BE/README#52--分布类函数)
-    - [5.3. ✅ 聚合类函数（配合 OVER 使用）](https://tdahuyou.github.io/TNotes.mysql/notes/0036.%20MySQL%208.0%20%E6%96%B0%E7%89%B9%E6%80%A7%20-%20%E7%BB%9F%E8%AE%A1%E7%9B%B4%E6%96%B9%E5%9B%BE/README#53--聚合类函数配合-over-使用)
-  - [6. 📒 示例说明（排名类）](https://tdahuyou.github.io/TNotes.mysql/notes/0036.%20MySQL%208.0%20%E6%96%B0%E7%89%B9%E6%80%A7%20-%20%E7%BB%9F%E8%AE%A1%E7%9B%B4%E6%96%B9%E5%9B%BE/README#6--示例说明排名类)
-  - [7. 📒 示例说明（聚合类）](https://tdahuyou.github.io/TNotes.mysql/notes/0036.%20MySQL%208.0%20%E6%96%B0%E7%89%B9%E6%80%A7%20-%20%E7%BB%9F%E8%AE%A1%E7%9B%B4%E6%96%B9%E5%9B%BE/README#7--示例说明聚合类)
-  - [8. 📊 功能对比表（MySQL 5.x vs 8.0）](https://tdahuyou.github.io/TNotes.mysql/notes/0036.%20MySQL%208.0%20%E6%96%B0%E7%89%B9%E6%80%A7%20-%20%E7%BB%9F%E8%AE%A1%E7%9B%B4%E6%96%B9%E5%9B%BE/README#8--功能对比表mysql-5x-vs-80)
-  - [9. ✅ 总结一句话：](https://tdahuyou.github.io/TNotes.mysql/notes/0036.%20MySQL%208.0%20%E6%96%B0%E7%89%B9%E6%80%A7%20-%20%E7%BB%9F%E8%AE%A1%E7%9B%B4%E6%96%B9%E5%9B%BE/README#9--总结一句话)
+  - [2. 💻 统计直方图的基本使用](https://tdahuyou.github.io/TNotes.mysql/notes/0036.%20MySQL%208.0%20%E6%96%B0%E7%89%B9%E6%80%A7%20-%20%E7%BB%9F%E8%AE%A1%E7%9B%B4%E6%96%B9%E5%9B%BE/README#2--统计直方图的基本使用)
+  - [3. 📒 索引扫描 vs. 全表扫描](https://tdahuyou.github.io/TNotes.mysql/notes/0036.%20MySQL%208.0%20%E6%96%B0%E7%89%B9%E6%80%A7%20-%20%E7%BB%9F%E8%AE%A1%E7%9B%B4%E6%96%B9%E5%9B%BE/README#3--索引扫描-vs-全表扫描)
 - [ ] [0037. MySQL 8.0 新特性 - 备份锁](https://tdahuyou.github.io/TNotes.mysql/notes/0037.%20MySQL%208.0%20%E6%96%B0%E7%89%B9%E6%80%A7%20-%20%E5%A4%87%E4%BB%BD%E9%94%81/README)
   - [1. 📝 概述](https://tdahuyou.github.io/TNotes.mysql/notes/0037.%20MySQL%208.0%20%E6%96%B0%E7%89%B9%E6%80%A7%20-%20%E5%A4%87%E4%BB%BD%E9%94%81/README#1--概述)
