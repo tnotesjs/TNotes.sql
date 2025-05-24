@@ -215,8 +215,10 @@
 
 ## 8. 存储引擎
 
-- [ ] [0028. InnoDB 简介](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0028.%20InnoDB%20%E7%AE%80%E4%BB%8B/README.md)
+- [x] [0028. InnoDB 简介](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0028.%20InnoDB%20%E7%AE%80%E4%BB%8B/README.md)
   - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0028.%20InnoDB%20%E7%AE%80%E4%BB%8B/README.md#1--概述)
+  - [2. 💻 创建使用 InnoDB 的表](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0028.%20InnoDB%20%E7%AE%80%E4%BB%8B/README.md#2--创建使用-innodb-的表)
+  - [3. 📒 从 MySQL 8.0 开始，系统表全部换成事务型的 InnoDB 表](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0028.%20InnoDB%20%E7%AE%80%E4%BB%8B/README.md#3--从-mysql-80-开始系统表全部换成事务型的-innodb-表)
 
 ## 9. MySQL 版本命名机制
 

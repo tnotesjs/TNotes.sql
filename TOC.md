@@ -1,6 +1,5 @@
 # TNotes.mysql
 
-
 ## 1. MySQL 学习资源
 
 - [x] [0008. MySQL 学习资源概述](https://tdahuyou.github.io/TNotes.mysql/notes/0008.%20MySQL%20%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E6%A6%82%E8%BF%B0/README)
@@ -199,8 +198,10 @@
 
 ## 8. 存储引擎
 
-- [ ] [0028. InnoDB 简介](https://tdahuyou.github.io/TNotes.mysql/notes/0028.%20InnoDB%20%E7%AE%80%E4%BB%8B/README)
+- [x] [0028. InnoDB 简介](https://tdahuyou.github.io/TNotes.mysql/notes/0028.%20InnoDB%20%E7%AE%80%E4%BB%8B/README)
   - [1. 📝 概述](https://tdahuyou.github.io/TNotes.mysql/notes/0028.%20InnoDB%20%E7%AE%80%E4%BB%8B/README#1--概述)
+  - [2. 💻 创建使用 InnoDB 的表](https://tdahuyou.github.io/TNotes.mysql/notes/0028.%20InnoDB%20%E7%AE%80%E4%BB%8B/README#2--创建使用-innodb-的表)
+  - [3. 📒 从 MySQL 8.0 开始，系统表全部换成事务型的 InnoDB 表](https://tdahuyou.github.io/TNotes.mysql/notes/0028.%20InnoDB%20%E7%AE%80%E4%BB%8B/README#3--从-mysql-80-开始系统表全部换成事务型的-innodb-表)
 
 ## 9. MySQL 版本命名机制
 
