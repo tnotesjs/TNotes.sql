@@ -1,5 +1,6 @@
 # TNotes.mysql
 
+
 ## 1. MySQL 学习资源
 
 - [x] [0008. MySQL 学习资源概述](https://tdahuyou.github.io/TNotes.mysql/notes/0008.%20MySQL%20%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E6%A6%82%E8%BF%B0/README)
