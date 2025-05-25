@@ -3,21 +3,28 @@
 <!-- region:toc -->
 
 - [TNotes.mysql](#tnotesmysql)
-  - [1. MySQL 学习资源](#1-mysql-学习资源)
-  - [2. 初始数据库](#2-初始数据库)
-  - [3. MySQL 的安装](#3-mysql-的安装)
-  - [4. MySQL 常用命令](#4-mysql-常用命令)
-  - [5. SQL](#5-sql)
-  - [6. “数据访问接口” 和 “ORM”](#6-数据访问接口-和-orm)
-  - [7. C/S、B/S 架构 vs. 文件共享架构](#7-csbs-架构-vs-文件共享架构)
-  - [8. 存储引擎](#8-存储引擎)
-  - [9. MySQL 版本命名机制](#9-mysql-版本命名机制)
-  - [10. MySQL 8.0 新特性](#10-mysql-80-新特性)
-  - [11. 数据库管理工具](#11-数据库管理工具)
+  - [1. SQL Roadmap](#1-sql-roadmap)
+  - [2. MySQL 学习资源](#2-mysql-学习资源)
+  - [3. 初始数据库](#3-初始数据库)
+  - [4. MySQL 的安装](#4-mysql-的安装)
+  - [5. MySQL 常用命令](#5-mysql-常用命令)
+  - [6. SQL](#6-sql)
+  - [7. “数据访问接口” 和 “ORM”](#7-数据访问接口-和-orm)
+  - [8. C/S、B/S 架构 vs. 文件共享架构](#8-csbs-架构-vs-文件共享架构)
+  - [9. 存储引擎](#9-存储引擎)
+  - [10. MySQL 版本命名机制](#10-mysql-版本命名机制)
+  - [11. MySQL 8.0 新特性](#11-mysql-80-新特性)
+  - [12. 数据库管理工具](#12-数据库管理工具)
 
 <!-- endregion:toc -->
 
-## 1. MySQL 学习资源
+## 1. SQL Roadmap
+
+- [x] [0007. SQL Roadmap](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0007.%20SQL%20Roadmap/README.md)
+  - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0007.%20SQL%20Roadmap/README.md#1--概述)
+  - [2. 🤖 SQL 学习路径建议](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0007.%20SQL%20Roadmap/README.md#2--sql-学习路径建议)
+
+## 2. MySQL 学习资源
 
 - [x] [0008. MySQL 学习资源概述](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0008.%20MySQL%20%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E6%A6%82%E8%BF%B0/README.md)
   - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0008.%20MySQL%20%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E6%A6%82%E8%BF%B0/README.md#1--概述)
@@ -55,7 +62,7 @@
     - [4.25. 第 25 章 综合项目 2——论坛管理系统数据库设计](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0001.%20MySQL%208%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A/README.md#425-第-25-章-综合项目-2论坛管理系统数据库设计)
     - [4.26. 第 26 章 综合项目 3——新闻发布系统数据库设计](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0001.%20MySQL%208%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A/README.md#426-第-26-章-综合项目-3新闻发布系统数据库设计)
 
-## 2. 初始数据库
+## 3. 初始数据库
 
 - [x] [0002. 什么是“MySQL”](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0002.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9CMySQL%E2%80%9D/README.md)
   - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0002.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9CMySQL%E2%80%9D/README.md#1--概述)
@@ -79,8 +86,6 @@
   - [3. 📒 数据库 vs. 数据库系统 vs. 数据库管理系统 vs. 数据库应用程序](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0005.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E7%9A%84%E7%BB%84%E6%88%90/README.md#3--数据库-vs-数据库系统-vs-数据库管理系统-vs-数据库应用程序)
   - [4. 📒 类比：“图书馆”](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0005.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E7%9A%84%E7%BB%84%E6%88%90/README.md#4--类比图书馆)
   - [5. 🤔 为什么需要 DB Application？](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0005.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E7%9A%84%E7%BB%84%E6%88%90/README.md#5--为什么需要-db-application)
-- [x] [0007. 如何学习 MySQL](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0007.%20%E5%A6%82%E4%BD%95%E5%AD%A6%E4%B9%A0%20MySQL/README.md)
-  - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0007.%20%E5%A6%82%E4%BD%95%E5%AD%A6%E4%B9%A0%20MySQL/README.md#1--概述)
 - [x] [0017. MySQL 的优势](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0017.%20MySQL%20%E7%9A%84%E4%BC%98%E5%8A%BF/README.md)
   - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0017.%20MySQL%20%E7%9A%84%E4%BC%98%E5%8A%BF/README.md#1--概述)
   - [2. 📒 高性能](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0017.%20MySQL%20%E7%9A%84%E4%BC%98%E5%8A%BF/README.md#2--高性能)
@@ -97,21 +102,21 @@
   - [2. 📒 MySQL 社区版（Community Edition）](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0018.%20MySQL%20%E7%9A%84%E7%A4%BE%E5%8C%BA%E7%89%88%E5%92%8C%E4%BC%81%E4%B8%9A%E7%89%88/README.md#2--mysql-社区版community-edition)
   - [3. 📒 MySQL 企业版（Enterprise Edition）](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0018.%20MySQL%20%E7%9A%84%E7%A4%BE%E5%8C%BA%E7%89%88%E5%92%8C%E4%BC%81%E4%B8%9A%E7%89%88/README.md#3--mysql-企业版enterprise-edition)
 
-## 3. MySQL 的安装
+## 4. MySQL 的安装
 
 - [x] [0044. 在 macOS 上安装 mysql](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0044.%20%E5%9C%A8%20macOS%20%E4%B8%8A%E5%AE%89%E8%A3%85%20mysql/README.md)
   - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0044.%20%E5%9C%A8%20macOS%20%E4%B8%8A%E5%AE%89%E8%A3%85%20mysql/README.md#1--概述)
   - [2. 💻 直接到官网下载 mysql 并安装](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0044.%20%E5%9C%A8%20macOS%20%E4%B8%8A%E5%AE%89%E8%A3%85%20mysql/README.md#2--直接到官网下载-mysql-并安装)
   - [3. 💻 通过 homebrew 安装 mysql](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0044.%20%E5%9C%A8%20macOS%20%E4%B8%8A%E5%AE%89%E8%A3%85%20mysql/README.md#3--通过-homebrew-安装-mysql)
 
-## 4. MySQL 常用命令
+## 5. MySQL 常用命令
 
 - [x] [0020. 查看 mysql 版本](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0020.%20%E6%9F%A5%E7%9C%8B%20mysql%20%E7%89%88%E6%9C%AC/README.md)
   - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0020.%20%E6%9F%A5%E7%9C%8B%20mysql%20%E7%89%88%E6%9C%AC/README.md#1--概述)
 - [x] [0039. 启动 MySQL 服务](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0039.%20%E5%90%AF%E5%8A%A8%20MySQL%20%E6%9C%8D%E5%8A%A1/README.md)
   - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0039.%20%E5%90%AF%E5%8A%A8%20MySQL%20%E6%9C%8D%E5%8A%A1/README.md#1--概述)
 
-## 5. SQL
+## 6. SQL
 
 - [x] [0009. SQL 语言概述](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0009.%20SQL%20%E8%AF%AD%E8%A8%80%E6%A6%82%E8%BF%B0/README.md)
   - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0009.%20SQL%20%E8%AF%AD%E8%A8%80%E6%A6%82%E8%BF%B0/README.md#1--概述)
@@ -184,7 +189,7 @@
   - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0038.%20%E6%89%A7%E8%A1%8C%E8%AE%A1%E5%88%92%20EXPLLAIN/README.md#1--概述)
   - [2. 🤔 如何判断索引是否生效？](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0038.%20%E6%89%A7%E8%A1%8C%E8%AE%A1%E5%88%92%20EXPLLAIN/README.md#2--如何判断索引是否生效)
 
-## 6. “数据访问接口” 和 “ORM”
+## 7. “数据访问接口” 和 “ORM”
 
 - [x] [0011. 数据库访问接口](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0011.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BF%E9%97%AE%E6%8E%A5%E5%8F%A3/README.md)
   - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0011.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BF%E9%97%AE%E6%8E%A5%E5%8F%A3/README.md#1--概述)
@@ -204,7 +209,7 @@
   - [4. 💻 示例 - Node.js + Sequelize + mysql2](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0013.%20ORM%20vs.%20%E6%95%B0%E6%8D%AE%E8%AE%BF%E9%97%AE%E6%8E%A5%E5%8F%A3/README.md#4--示例---nodejs--sequelize--mysql2)
   - [5. 🤔 如何选择？](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0013.%20ORM%20vs.%20%E6%95%B0%E6%8D%AE%E8%AE%BF%E9%97%AE%E6%8E%A5%E5%8F%A3/README.md#5--如何选择)
 
-## 7. C/S、B/S 架构 vs. 文件共享架构
+## 8. C/S、B/S 架构 vs. 文件共享架构
 
 - [x] [0012. CS 架构 vs. 文件共享架构](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0012.%20CS%20%E6%9E%B6%E6%9E%84%20vs.%20%E6%96%87%E4%BB%B6%E5%85%B1%E4%BA%AB%E6%9E%B6%E6%9E%84/README.md)
   - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0012.%20CS%20%E6%9E%B6%E6%9E%84%20vs.%20%E6%96%87%E4%BB%B6%E5%85%B1%E4%BA%AB%E6%9E%B6%E6%9E%84/README.md#1--概述)
@@ -213,14 +218,14 @@
     - [2.2. 服务器端处理数据后再返回结果](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0012.%20CS%20%E6%9E%B6%E6%9E%84%20vs.%20%E6%96%87%E4%BB%B6%E5%85%B1%E4%BA%AB%E6%9E%B6%E6%9E%84/README.md#22-服务器端处理数据后再返回结果)
     - [2.3. 对比早期的“文件共享”方式](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0012.%20CS%20%E6%9E%B6%E6%9E%84%20vs.%20%E6%96%87%E4%BB%B6%E5%85%B1%E4%BA%AB%E6%9E%B6%E6%9E%84/README.md#23-对比早期的文件共享方式)
 
-## 8. 存储引擎
+## 9. 存储引擎
 
 - [x] [0028. InnoDB 简介](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0028.%20InnoDB%20%E7%AE%80%E4%BB%8B/README.md)
   - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0028.%20InnoDB%20%E7%AE%80%E4%BB%8B/README.md#1--概述)
   - [2. 💻 创建使用 InnoDB 的表](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0028.%20InnoDB%20%E7%AE%80%E4%BB%8B/README.md#2--创建使用-innodb-的表)
   - [3. 📒 从 MySQL 8.0 开始，系统表全部换成事务型的 InnoDB 表](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0028.%20InnoDB%20%E7%AE%80%E4%BB%8B/README.md#3--从-mysql-80-开始系统表全部换成事务型的-innodb-表)
 
-## 9. MySQL 版本命名机制
+## 10. MySQL 版本命名机制
 
 - [x] [0021. MySQL 版本命名机制](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0021.%20MySQL%20%E7%89%88%E6%9C%AC%E5%91%BD%E5%90%8D%E6%9C%BA%E5%88%B6/README.md)
   - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0021.%20MySQL%20%E7%89%88%E6%9C%AC%E5%91%BD%E5%90%8D%E6%9C%BA%E5%88%B6/README.md#1--概述)
@@ -229,7 +234,7 @@
   - [4. 🤔 如何选择合适的 MySQL 版本？](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0021.%20MySQL%20%E7%89%88%E6%9C%AC%E5%91%BD%E5%90%8D%E6%9C%BA%E5%88%B6/README.md#4--如何选择合适的-mysql-版本)
   - [5. 📒 一些补充说明](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0021.%20MySQL%20%E7%89%88%E6%9C%AC%E5%91%BD%E5%90%8D%E6%9C%BA%E5%88%B6/README.md#5--一些补充说明)
 
-## 10. MySQL 8.0 新特性
+## 11. MySQL 8.0 新特性
 
 - [ ] [0022. MySQL 8.0 新特性概述](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0022.%20MySQL%208.0%20%E6%96%B0%E7%89%B9%E6%80%A7%E6%A6%82%E8%BF%B0/README.md)
   - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0022.%20MySQL%208.0%20%E6%96%B0%E7%89%B9%E6%80%A7%E6%A6%82%E8%BF%B0/README.md#1--概述)
@@ -297,7 +302,7 @@
   - [7. 📒 如何安装和配置 MySQL Cluster？](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0041.%20MySQL%20Cluster%20%E7%AE%80%E4%BB%8B/README.md#7--如何安装和配置-mysql-cluster)
   - [8. 📒 总结](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0041.%20MySQL%20Cluster%20%E7%AE%80%E4%BB%8B/README.md#8--总结)
 
-## 11. 数据库管理工具
+## 12. 数据库管理工具
 
 - [x] [0006. 数据库管理工具概述](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0006.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7%E6%A6%82%E8%BF%B0/README.md)
   - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0006.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7%E6%A6%82%E8%BF%B0/README.md#1--概述)
