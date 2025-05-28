@@ -1,4 +1,4 @@
-# [0011. 数据库访问接口](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0011.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BF%E9%97%AE%E6%8E%A5%E5%8F%A3)
+# [0011. 数据库访问接口](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0011.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BF%E9%97%AE%E6%8E%A5%E5%8F%A3)
 
 <!-- region:toc -->
 

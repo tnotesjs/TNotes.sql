@@ -1,4 +1,4 @@
-# [0053. xxx](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0053.%20xxx)
+# [0053. xxx](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0053.%20xxx)
 
 <!-- region:toc -->
 

@@ -1,4 +1,4 @@
-# [0003. 什么是“数据库”](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0003.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9C%E6%95%B0%E6%8D%AE%E5%BA%93%E2%80%9D)
+# [0003. 什么是“数据库”](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0003.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9C%E6%95%B0%E6%8D%AE%E5%BA%93%E2%80%9D)
 
 <!-- region:toc -->
 

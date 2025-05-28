@@ -1,4 +1,4 @@
-# [0024. MySQL 8.0 新特性 - 原子 DDL](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0024.%20MySQL%208.0%20%E6%96%B0%E7%89%B9%E6%80%A7%20-%20%E5%8E%9F%E5%AD%90%20DDL)
+# [0024. MySQL 8.0 新特性 - 原子 DDL](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0024.%20MySQL%208.0%20%E6%96%B0%E7%89%B9%E6%80%A7%20-%20%E5%8E%9F%E5%AD%90%20DDL)
 
 <!-- region:toc -->
 

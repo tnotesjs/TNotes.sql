@@ -1,4 +1,4 @@
-# [0043. 查看所有数据库](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0043.%20%E6%9F%A5%E7%9C%8B%E6%89%80%E6%9C%89%E6%95%B0%E6%8D%AE%E5%BA%93)
+# [0043. 查看所有数据库](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0043.%20%E6%9F%A5%E7%9C%8B%E6%89%80%E6%9C%89%E6%95%B0%E6%8D%AE%E5%BA%93)
 
 <!-- region:toc -->
 

@@ -1,4 +1,4 @@
-# [0030. MySQL 8.0 新特性 - 字符集支持](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0030.%20MySQL%208.0%20%E6%96%B0%E7%89%B9%E6%80%A7%20-%20%E5%AD%97%E7%AC%A6%E9%9B%86%E6%94%AF%E6%8C%81)
+# [0030. MySQL 8.0 新特性 - 字符集支持](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0030.%20MySQL%208.0%20%E6%96%B0%E7%89%B9%E6%80%A7%20-%20%E5%AD%97%E7%AC%A6%E9%9B%86%E6%94%AF%E6%8C%81)
 
 <!-- region:toc -->
 

@@ -1,4 +1,4 @@
-# [0028. InnoDB 简介](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0028.%20InnoDB%20%E7%AE%80%E4%BB%8B)
+# [0028. InnoDB 简介](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0028.%20InnoDB%20%E7%AE%80%E4%BB%8B)
 
 <!-- region:toc -->
 

@@ -1,4 +1,4 @@
-# [0022. MySQL 8.0 新特性概述](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0022.%20MySQL%208.0%20%E6%96%B0%E7%89%B9%E6%80%A7%E6%A6%82%E8%BF%B0)
+# [0022. MySQL 8.0 新特性概述](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0022.%20MySQL%208.0%20%E6%96%B0%E7%89%B9%E6%80%A7%E6%A6%82%E8%BF%B0)
 
 <!-- region:toc -->
 

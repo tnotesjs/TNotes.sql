@@ -1,4 +1,4 @@
-# [0033. MySQL 8.0 新特性 - 查询优化](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0033.%20MySQL%208.0%20%E6%96%B0%E7%89%B9%E6%80%A7%20-%20%E6%9F%A5%E8%AF%A2%E4%BC%98%E5%8C%96)
+# [0033. MySQL 8.0 新特性 - 查询优化](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0033.%20MySQL%208.0%20%E6%96%B0%E7%89%B9%E6%80%A7%20-%20%E6%9F%A5%E8%AF%A2%E4%BC%98%E5%8C%96)
 
 <!-- region:toc -->
 

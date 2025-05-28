@@ -1,4 +1,4 @@
-# [0017. MySQL 的优势](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0017.%20MySQL%20%E7%9A%84%E4%BC%98%E5%8A%BF)
+# [0017. MySQL 的优势](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0017.%20MySQL%20%E7%9A%84%E4%BC%98%E5%8A%BF)
 
 <!-- region:toc -->
 

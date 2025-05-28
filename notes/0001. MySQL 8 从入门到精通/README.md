@@ -1,4 +1,4 @@
-# [0001. MySQL 8 从入门到精通](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0001.%20MySQL%208%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A)
+# [0001. MySQL 8 从入门到精通](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0001.%20MySQL%208%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A)
 
 <!-- region:toc -->
 

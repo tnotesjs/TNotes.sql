@@ -1,4 +1,4 @@
-# [0018. MySQL 的社区版和企业版](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0018.%20MySQL%20%E7%9A%84%E7%A4%BE%E5%8C%BA%E7%89%88%E5%92%8C%E4%BC%81%E4%B8%9A%E7%89%88)
+# [0018. MySQL 的社区版和企业版](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0018.%20MySQL%20%E7%9A%84%E7%A4%BE%E5%8C%BA%E7%89%88%E5%92%8C%E4%BC%81%E4%B8%9A%E7%89%88)
 
 <!-- region:toc -->
 

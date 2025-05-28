@@ -1,4 +1,4 @@
-# [0042. 数据库管理工具 - DBeaver](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0042.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7%20-%20DBeaver)
+# [0042. 数据库管理工具 - DBeaver](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0042.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7%20-%20DBeaver)
 
 <!-- region:toc -->
 

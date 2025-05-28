@@ -1,4 +1,4 @@
-# [0009. SQL 语言概述](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0009.%20SQL%20%E8%AF%AD%E8%A8%80%E6%A6%82%E8%BF%B0)
+# [0009. SQL 语言概述](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0009.%20SQL%20%E8%AF%AD%E8%A8%80%E6%A6%82%E8%BF%B0)
 
 <!-- region:toc -->
 

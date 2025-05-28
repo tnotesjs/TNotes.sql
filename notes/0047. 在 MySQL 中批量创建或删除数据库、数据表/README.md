@@ -1,4 +1,4 @@
-# [0047. 在 MySQL 中批量创建或删除数据库、数据表](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0047.%20%E5%9C%A8%20MySQL%20%E4%B8%AD%E6%89%B9%E9%87%8F%E5%88%9B%E5%BB%BA%E6%88%96%E5%88%A0%E9%99%A4%E6%95%B0%E6%8D%AE%E5%BA%93%E3%80%81%E6%95%B0%E6%8D%AE%E8%A1%A8)
+# [0047. 在 MySQL 中批量创建或删除数据库、数据表](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0047.%20%E5%9C%A8%20MySQL%20%E4%B8%AD%E6%89%B9%E9%87%8F%E5%88%9B%E5%BB%BA%E6%88%96%E5%88%A0%E9%99%A4%E6%95%B0%E6%8D%AE%E5%BA%93%E3%80%81%E6%95%B0%E6%8D%AE%E8%A1%A8)
 
 <!-- region:toc -->
 

@@ -1,4 +1,4 @@
-# [0041. MySQL Cluster 简介](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0041.%20MySQL%20Cluster%20%E7%AE%80%E4%BB%8B)
+# [0041. MySQL Cluster 简介](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0041.%20MySQL%20Cluster%20%E7%AE%80%E4%BB%8B)
 
 <!-- region:toc -->
 

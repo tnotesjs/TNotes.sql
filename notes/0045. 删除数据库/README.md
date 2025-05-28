@@ -1,4 +1,4 @@
-# [0045. 删除数据库](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0045.%20%E5%88%A0%E9%99%A4%E6%95%B0%E6%8D%AE%E5%BA%93)
+# [0045. 删除数据库](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0045.%20%E5%88%A0%E9%99%A4%E6%95%B0%E6%8D%AE%E5%BA%93)
 
 <!-- region:toc -->
 

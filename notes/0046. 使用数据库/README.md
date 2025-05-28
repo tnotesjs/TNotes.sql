@@ -1,4 +1,4 @@
-# [0046. 使用数据库](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0046.%20%E4%BD%BF%E7%94%A8%E6%95%B0%E6%8D%AE%E5%BA%93)
+# [0046. 使用数据库](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0046.%20%E4%BD%BF%E7%94%A8%E6%95%B0%E6%8D%AE%E5%BA%93)
 
 <!-- region:toc -->
 

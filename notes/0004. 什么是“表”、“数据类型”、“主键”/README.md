@@ -1,4 +1,4 @@
-# [0004. 什么是“表”、“数据类型”、“主键”](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0004.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9C%E8%A1%A8%E2%80%9D%E3%80%81%E2%80%9C%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E2%80%9D%E3%80%81%E2%80%9C%E4%B8%BB%E9%94%AE%E2%80%9D)
+# [0004. 什么是“表”、“数据类型”、“主键”](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0004.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9C%E8%A1%A8%E2%80%9D%E3%80%81%E2%80%9C%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E2%80%9D%E3%80%81%E2%80%9C%E4%B8%BB%E9%94%AE%E2%80%9D)
 
 <!-- region:toc -->
 

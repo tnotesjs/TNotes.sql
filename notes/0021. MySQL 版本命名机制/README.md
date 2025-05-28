@@ -1,4 +1,4 @@
-# [0021. MySQL 版本命名机制](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0021.%20MySQL%20%E7%89%88%E6%9C%AC%E5%91%BD%E5%90%8D%E6%9C%BA%E5%88%B6)
+# [0021. MySQL 版本命名机制](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0021.%20MySQL%20%E7%89%88%E6%9C%AC%E5%91%BD%E5%90%8D%E6%9C%BA%E5%88%B6)
 
 <!-- region:toc -->
 

@@ -1,4 +1,4 @@
-# [0006. 数据库管理工具概述](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0006.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7%E6%A6%82%E8%BF%B0)
+# [0006. 数据库管理工具概述](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0006.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7%E6%A6%82%E8%BF%B0)
 
 <!-- region:toc -->
 

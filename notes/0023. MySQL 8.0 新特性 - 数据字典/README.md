@@ -1,4 +1,4 @@
-# [0023. MySQL 8.0 新特性 - 数据字典](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0023.%20MySQL%208.0%20%E6%96%B0%E7%89%B9%E6%80%A7%20-%20%E6%95%B0%E6%8D%AE%E5%AD%97%E5%85%B8)
+# [0023. MySQL 8.0 新特性 - 数据字典](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0023.%20MySQL%208.0%20%E6%96%B0%E7%89%B9%E6%80%A7%20-%20%E6%95%B0%E6%8D%AE%E5%AD%97%E5%85%B8)
 
 <!-- region:toc -->
 

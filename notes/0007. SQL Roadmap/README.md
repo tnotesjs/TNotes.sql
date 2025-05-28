@@ -1,4 +1,4 @@
-# [0007. SQL Roadmap](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0007.%20SQL%20Roadmap)
+# [0007. SQL Roadmap](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0007.%20SQL%20Roadmap)
 
 <!-- region:toc -->
 

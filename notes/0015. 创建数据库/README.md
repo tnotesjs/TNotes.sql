@@ -1,4 +1,4 @@
-# [0015. 创建数据库](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0015.%20%E5%88%9B%E5%BB%BA%E6%95%B0%E6%8D%AE%E5%BA%93)
+# [0015. 创建数据库](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0015.%20%E5%88%9B%E5%BB%BA%E6%95%B0%E6%8D%AE%E5%BA%93)
 
 <!-- region:toc -->
 

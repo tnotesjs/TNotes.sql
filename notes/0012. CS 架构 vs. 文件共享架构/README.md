@@ -1,4 +1,4 @@
-# [0012. CS 架构 vs. 文件共享架构](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0012.%20CS%20%E6%9E%B6%E6%9E%84%20vs.%20%E6%96%87%E4%BB%B6%E5%85%B1%E4%BA%AB%E6%9E%B6%E6%9E%84)
+# [0012. CS 架构 vs. 文件共享架构](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0012.%20CS%20%E6%9E%B6%E6%9E%84%20vs.%20%E6%96%87%E4%BB%B6%E5%85%B1%E4%BA%AB%E6%9E%B6%E6%9E%84)
 
 <!-- region:toc -->
 

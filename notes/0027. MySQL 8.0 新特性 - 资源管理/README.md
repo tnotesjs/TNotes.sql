@@ -1,4 +1,4 @@
-# [0027. MySQL 8.0 新特性 - 资源管理](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0027.%20MySQL%208.0%20%E6%96%B0%E7%89%B9%E6%80%A7%20-%20%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86)
+# [0027. MySQL 8.0 新特性 - 资源管理](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0027.%20MySQL%208.0%20%E6%96%B0%E7%89%B9%E6%80%A7%20-%20%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86)
 
 <!-- region:toc -->
 

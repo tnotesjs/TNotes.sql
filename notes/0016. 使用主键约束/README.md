@@ -1,4 +1,4 @@
-# [0016. 使用主键约束](https://github.com/Tdahuyou/TNotes.mysql/tree/main/notes/0016.%20%E4%BD%BF%E7%94%A8%E4%B8%BB%E9%94%AE%E7%BA%A6%E6%9D%9F)
+# [0016. 使用主键约束](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0016.%20%E4%BD%BF%E7%94%A8%E4%B8%BB%E9%94%AE%E7%BA%A6%E6%9D%9F)
 
 <!-- region:toc -->
 
