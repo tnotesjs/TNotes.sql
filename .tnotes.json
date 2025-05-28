@@ -1,9 +1,7 @@
 {
   "author": "Tdahuyou",
-  "repoName": "TNotes.mysql",
-  "keywords": [
-    "TNotes.mysql"
-  ],
+  "repoName": "TNotes.sql",
+  "keywords": ["TNotes.sql"],
   "ignore_dirs": [
     ".vscode",
     "0000",
@@ -18,10 +16,10 @@
     "icon": {
       "src": "https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/assets/icon--mysql.svg"
     },
-    "title": "MySQL 笔记",
+    "title": "SQL 笔记",
     "completed_notes_count": 29,
-    "details": "MySQL 学习笔记，正在刷《MySQL 8 从入门到精通》。",
-    "link": "https://tdahuyou.github.io/TNotes.mysql/"
+    "details": "SQL 学习笔记，正在刷《MySQL 8 从入门到精通》。",
+    "link": "https://tdahuyou.github.io/TNotes.sql/"
   },
   "port": 9448,
   "menuItems": [
@@ -58,8 +56,8 @@
       }
     },
     {
-      "ariaLabel": "TNotes.mysql github 仓库链接",
-      "link": "https://github.com/Tdahuyou/TNotes.mysql",
+      "ariaLabel": "TNotes.sql github 仓库链接",
+      "link": "https://github.com/Tdahuyou/TNotes.sql",
       "icon": "github"
     }
   ],
