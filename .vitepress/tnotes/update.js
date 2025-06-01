@@ -558,7 +558,6 @@ class ReadmeUpdater {
 
     if (bilibiliTOCItems.length > 0) {
       insertTocItems.push(
-        '',
         `- [📺 bilibili 👉 TNotes 合集](https://space.bilibili.com/407241004)`,
         ...bilibiliTOCItems
       )
@@ -566,7 +565,6 @@ class ReadmeUpdater {
 
     if (yuqueTOCItems.length > 0) {
       insertTocItems.push(
-        '',
         `- [📂 TNotes.yuque](${TNOTES_YUQUE_BASE_URL})`,
         ...yuqueTOCItems
       )
@@ -575,9 +573,11 @@ class ReadmeUpdater {
     lines.splice(
       startLineIdx + 1,
       endLineIdx - startLineIdx - 1,
-      [...insertTocItems],
+      '',
+      ...insertTocItems,
       ...toc.replace(new RegExp(`^${this.EOL}`), '').split(this.EOL)
     )
+    // console.log(lines)
   }
 
   updateHomeToc(lines = []) {

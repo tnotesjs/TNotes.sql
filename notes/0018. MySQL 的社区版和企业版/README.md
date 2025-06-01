@@ -2,6 +2,8 @@
 
 <!-- region:toc -->
 
+- [📂 TNotes.yuque](https://www.yuque.com/tdahuyou/tnotes.yuque/)
+  - [TNotes.yuque.sql.0018](https://www.yuque.com/tdahuyou/tnotes.yuque/sql.0018)
 - [1. 📝 概述](#1--概述)
 - [2. 📒 MySQL 社区版（Community Edition）](#2--mysql-社区版community-edition)
 - [3. 📒 MySQL 企业版（Enterprise Edition）](#3--mysql-企业版enterprise-edition)

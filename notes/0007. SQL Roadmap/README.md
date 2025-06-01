@@ -2,6 +2,8 @@
 
 <!-- region:toc -->
 
+- [📂 TNotes.yuque](https://www.yuque.com/tdahuyou/tnotes.yuque/)
+  - [TNotes.yuque.sql.0007](https://www.yuque.com/tdahuyou/tnotes.yuque/sql.0007)
 - [1. 📝 概述](#1--概述)
 - [2. 🤖 SQL 学习路径建议](#2--sql-学习路径建议)
 
