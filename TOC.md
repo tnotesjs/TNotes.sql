@@ -9,15 +9,13 @@
   - [1. 📝 概述](https://tdahuyou.github.io/TNotes.sql/notes/0007.%20SQL%20Roadmap/README#1--概述)
   - [2. 🤖 SQL 学习路径建议](https://tdahuyou.github.io/TNotes.sql/notes/0007.%20SQL%20Roadmap/README#2--sql-学习路径建议)
 
-## 2. MySQL 学习资源
+## 2. 学习资源
 
 - [x] [0008. MySQL 学习资源概述](https://tdahuyou.github.io/TNotes.sql/notes/0008.%20MySQL%20%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E6%A6%82%E8%BF%B0/README)
   - [1. 📝 概述](https://tdahuyou.github.io/TNotes.sql/notes/0008.%20MySQL%20%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E6%A6%82%E8%BF%B0/README#1--概述)
   - [2. 📒 学习资源推荐](https://tdahuyou.github.io/TNotes.sql/notes/0008.%20MySQL%20%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E6%A6%82%E8%BF%B0/README#2--学习资源推荐)
   - [3. 📒 TNotes.yuque](https://tdahuyou.github.io/TNotes.sql/notes/0008.%20MySQL%20%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E6%A6%82%E8%BF%B0/README#3--tnotesyuque)
 - [x] [0001. MySQL 8 从入门到精通](https://tdahuyou.github.io/TNotes.sql/notes/0001.%20MySQL%208%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A/README)
-  - [📺 bilibili 👉 TNotes 合集](https://space.bilibili.com/407241004)
-    - [bilibili.TNotes.sql.0001.1](https://www.bilibili.com/video/123)
   - [📂 TNotes.yuque](https://www.yuque.com/tdahuyou/tnotes.yuque/)
     - [TNotes.yuque.sql.0001](https://www.yuque.com/tdahuyou/tnotes.yuque/sql.0001)
   - [1. 📝 概述](https://tdahuyou.github.io/TNotes.sql/notes/0001.%20MySQL%208%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A/README#1--概述)
@@ -53,22 +51,17 @@
 
 ## 3. 初始数据库
 
+- [x] [0003. 什么是“数据库”](https://tdahuyou.github.io/TNotes.sql/notes/0003.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9C%E6%95%B0%E6%8D%AE%E5%BA%93%E2%80%9D/README)
+  - [1. 📝 概述](https://tdahuyou.github.io/TNotes.sql/notes/0003.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9C%E6%95%B0%E6%8D%AE%E5%BA%93%E2%80%9D/README#1--概述)
+  - [2. 📒 数据库的发展阶段](https://tdahuyou.github.io/TNotes.sql/notes/0003.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9C%E6%95%B0%E6%8D%AE%E5%BA%93%E2%80%9D/README#2--数据库的发展阶段)
+  - [3. 📒 数据库的种类](https://tdahuyou.github.io/TNotes.sql/notes/0003.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9C%E6%95%B0%E6%8D%AE%E5%BA%93%E2%80%9D/README#3--数据库的种类)
+  - [4. 📒 数据库的一些普遍特点](https://tdahuyou.github.io/TNotes.sql/notes/0003.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9C%E6%95%B0%E6%8D%AE%E5%BA%93%E2%80%9D/README#4--数据库的一些普遍特点)
 - [x] [0002. 什么是“MySQL”](https://tdahuyou.github.io/TNotes.sql/notes/0002.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9CMySQL%E2%80%9D/README)
   - [1. 📝 概述](https://tdahuyou.github.io/TNotes.sql/notes/0002.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9CMySQL%E2%80%9D/README#1--概述)
   - [2. 🔗 mysql - github](https://tdahuyou.github.io/TNotes.sql/notes/0002.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9CMySQL%E2%80%9D/README#2--mysql---github)
   - [3. 🔗 mysql - 官网](https://tdahuyou.github.io/TNotes.sql/notes/0002.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9CMySQL%E2%80%9D/README#3--mysql---官网)
   - [4. 📒 MySQL 的主要特点](https://tdahuyou.github.io/TNotes.sql/notes/0002.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9CMySQL%E2%80%9D/README#4--mysql-的主要特点)
   - [5. 📒 使用 MySQL 的企业](https://tdahuyou.github.io/TNotes.sql/notes/0002.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9CMySQL%E2%80%9D/README#5--使用-mysql-的企业)
-- [x] [0003. 什么是“数据库”](https://tdahuyou.github.io/TNotes.sql/notes/0003.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9C%E6%95%B0%E6%8D%AE%E5%BA%93%E2%80%9D/README)
-  - [1. 📝 概述](https://tdahuyou.github.io/TNotes.sql/notes/0003.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9C%E6%95%B0%E6%8D%AE%E5%BA%93%E2%80%9D/README#1--概述)
-  - [2. 📒 数据库的发展阶段](https://tdahuyou.github.io/TNotes.sql/notes/0003.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9C%E6%95%B0%E6%8D%AE%E5%BA%93%E2%80%9D/README#2--数据库的发展阶段)
-  - [3. 📒 数据库的种类](https://tdahuyou.github.io/TNotes.sql/notes/0003.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9C%E6%95%B0%E6%8D%AE%E5%BA%93%E2%80%9D/README#3--数据库的种类)
-  - [4. 📒 数据库的一些普遍特点](https://tdahuyou.github.io/TNotes.sql/notes/0003.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9C%E6%95%B0%E6%8D%AE%E5%BA%93%E2%80%9D/README#4--数据库的一些普遍特点)
-- [x] [0004. 什么是“表”、“数据类型”、“主键”](https://tdahuyou.github.io/TNotes.sql/notes/0004.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9C%E8%A1%A8%E2%80%9D%E3%80%81%E2%80%9C%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E2%80%9D%E3%80%81%E2%80%9C%E4%B8%BB%E9%94%AE%E2%80%9D/README)
-  - [1. 📝 概述](https://tdahuyou.github.io/TNotes.sql/notes/0004.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9C%E8%A1%A8%E2%80%9D%E3%80%81%E2%80%9C%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E2%80%9D%E3%80%81%E2%80%9C%E4%B8%BB%E9%94%AE%E2%80%9D/README#1--概述)
-  - [2. 📒 表（Table）](https://tdahuyou.github.io/TNotes.sql/notes/0004.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9C%E8%A1%A8%E2%80%9D%E3%80%81%E2%80%9C%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E2%80%9D%E3%80%81%E2%80%9C%E4%B8%BB%E9%94%AE%E2%80%9D/README#2--表table)
-  - [3. 📒 数据类型（Data Type）](https://tdahuyou.github.io/TNotes.sql/notes/0004.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9C%E8%A1%A8%E2%80%9D%E3%80%81%E2%80%9C%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E2%80%9D%E3%80%81%E2%80%9C%E4%B8%BB%E9%94%AE%E2%80%9D/README#3--数据类型data-type)
-  - [4. 📒 主键（Primary Key）](https://tdahuyou.github.io/TNotes.sql/notes/0004.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9C%E8%A1%A8%E2%80%9D%E3%80%81%E2%80%9C%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E2%80%9D%E3%80%81%E2%80%9C%E4%B8%BB%E9%94%AE%E2%80%9D/README#4--主键primary-key)
 - [x] [0005. 数据库系统的组成](https://tdahuyou.github.io/TNotes.sql/notes/0005.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E7%9A%84%E7%BB%84%E6%88%90/README)
   - [1. 📝 概述](https://tdahuyou.github.io/TNotes.sql/notes/0005.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E7%9A%84%E7%BB%84%E6%88%90/README#1--概述)
   - [2. 💡 数据库系统（DBS）组成结构图](https://tdahuyou.github.io/TNotes.sql/notes/0005.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E7%9A%84%E7%BB%84%E6%88%90/README#2--数据库系统dbs组成结构图)
@@ -100,14 +93,28 @@
   - [2. 💻 直接到官网下载 mysql 并安装](https://tdahuyou.github.io/TNotes.sql/notes/0044.%20%E5%9C%A8%20macOS%20%E4%B8%8A%E5%AE%89%E8%A3%85%20mysql/README#2--直接到官网下载-mysql-并安装)
   - [3. 💻 通过 homebrew 安装 mysql](https://tdahuyou.github.io/TNotes.sql/notes/0044.%20%E5%9C%A8%20macOS%20%E4%B8%8A%E5%AE%89%E8%A3%85%20mysql/README#3--通过-homebrew-安装-mysql)
 
-## 5. MySQL 常用命令
+## 5. 核心概念
+
+- [x] [0004. 什么是“表”、“数据类型”、“主键”](https://tdahuyou.github.io/TNotes.sql/notes/0004.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9C%E8%A1%A8%E2%80%9D%E3%80%81%E2%80%9C%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E2%80%9D%E3%80%81%E2%80%9C%E4%B8%BB%E9%94%AE%E2%80%9D/README)
+  - [1. 📝 概述](https://tdahuyou.github.io/TNotes.sql/notes/0004.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9C%E8%A1%A8%E2%80%9D%E3%80%81%E2%80%9C%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E2%80%9D%E3%80%81%E2%80%9C%E4%B8%BB%E9%94%AE%E2%80%9D/README#1--概述)
+  - [2. 📒 表（Table）](https://tdahuyou.github.io/TNotes.sql/notes/0004.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9C%E8%A1%A8%E2%80%9D%E3%80%81%E2%80%9C%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E2%80%9D%E3%80%81%E2%80%9C%E4%B8%BB%E9%94%AE%E2%80%9D/README#2--表table)
+  - [3. 📒 数据类型（Data Type）](https://tdahuyou.github.io/TNotes.sql/notes/0004.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9C%E8%A1%A8%E2%80%9D%E3%80%81%E2%80%9C%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E2%80%9D%E3%80%81%E2%80%9C%E4%B8%BB%E9%94%AE%E2%80%9D/README#3--数据类型data-type)
+  - [4. 📒 主键（Primary Key）](https://tdahuyou.github.io/TNotes.sql/notes/0004.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9C%E8%A1%A8%E2%80%9D%E3%80%81%E2%80%9C%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E2%80%9D%E3%80%81%E2%80%9C%E4%B8%BB%E9%94%AE%E2%80%9D/README#4--主键primary-key)
+- [x] [0016. 主键](https://tdahuyou.github.io/TNotes.sql/notes/0016.%20%E4%B8%BB%E9%94%AE/README)
+  - [1. 📝 概述](https://tdahuyou.github.io/TNotes.sql/notes/0016.%20%E4%B8%BB%E9%94%AE/README#1--概述)
+  - [2. 💻 单字段主键（自增 ID）](https://tdahuyou.github.io/TNotes.sql/notes/0016.%20%E4%B8%BB%E9%94%AE/README#2--单字段主键自增-id)
+  - [3. 💻 多字段联合主键](https://tdahuyou.github.io/TNotes.sql/notes/0016.%20%E4%B8%BB%E9%94%AE/README#3--多字段联合主键)
+  - [4. 💻 修改现有表，添加、删除主键](https://tdahuyou.github.io/TNotes.sql/notes/0016.%20%E4%B8%BB%E9%94%AE/README#4--修改现有表添加删除主键)
+  - [5. 💻 外键关联](https://tdahuyou.github.io/TNotes.sql/notes/0016.%20%E4%B8%BB%E9%94%AE/README#5--外键关联)
+
+## 6. MySQL 常用命令
 
 - [x] [0020. 查看 mysql 版本](https://tdahuyou.github.io/TNotes.sql/notes/0020.%20%E6%9F%A5%E7%9C%8B%20mysql%20%E7%89%88%E6%9C%AC/README)
   - [1. 📝 概述](https://tdahuyou.github.io/TNotes.sql/notes/0020.%20%E6%9F%A5%E7%9C%8B%20mysql%20%E7%89%88%E6%9C%AC/README#1--概述)
 - [x] [0039. 启动 MySQL 服务](https://tdahuyou.github.io/TNotes.sql/notes/0039.%20%E5%90%AF%E5%8A%A8%20MySQL%20%E6%9C%8D%E5%8A%A1/README)
   - [1. 📝 概述](https://tdahuyou.github.io/TNotes.sql/notes/0039.%20%E5%90%AF%E5%8A%A8%20MySQL%20%E6%9C%8D%E5%8A%A1/README#1--概述)
 
-## 6. SQL
+## 7. SQL
 
 - [x] [0009. SQL 语言概述](https://tdahuyou.github.io/TNotes.sql/notes/0009.%20SQL%20%E8%AF%AD%E8%A8%80%E6%A6%82%E8%BF%B0/README)
   - [1. 📝 概述](https://tdahuyou.github.io/TNotes.sql/notes/0009.%20SQL%20%E8%AF%AD%E8%A8%80%E6%A6%82%E8%BF%B0/README#1--概述)
@@ -165,8 +172,6 @@
   - [3. 💻 查看数据表结构](https://tdahuyou.github.io/TNotes.sql/notes/0014.%20TABLE%20%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C%E6%A6%82%E8%BF%B0/README#3--查看数据表结构)
   - [4. 💻 修改数据表](https://tdahuyou.github.io/TNotes.sql/notes/0014.%20TABLE%20%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C%E6%A6%82%E8%BF%B0/README#4--修改数据表)
   - [5. 💻 删除数据表](https://tdahuyou.github.io/TNotes.sql/notes/0014.%20TABLE%20%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C%E6%A6%82%E8%BF%B0/README#5--删除数据表)
-- [ ] [0016. 使用主键约束](https://tdahuyou.github.io/TNotes.sql/notes/0016.%20%E4%BD%BF%E7%94%A8%E4%B8%BB%E9%94%AE%E7%BA%A6%E6%9D%9F/README)
-  - [1. 📝 概述](https://tdahuyou.github.io/TNotes.sql/notes/0016.%20%E4%BD%BF%E7%94%A8%E4%B8%BB%E9%94%AE%E7%BA%A6%E6%9D%9F/README#1--概述)
 - [x] [0010. SQL 标准](https://tdahuyou.github.io/TNotes.sql/notes/0010.%20SQL%20%E6%A0%87%E5%87%86/README)
   - [1. 📝 概述](https://tdahuyou.github.io/TNotes.sql/notes/0010.%20SQL%20%E6%A0%87%E5%87%86/README#1--概述)
   - [2. 📒 SQL 标准的发展历程](https://tdahuyou.github.io/TNotes.sql/notes/0010.%20SQL%20%E6%A0%87%E5%87%86/README#2--sql-标准的发展历程)
@@ -181,7 +186,7 @@
   - [1. 📝 概述](https://tdahuyou.github.io/TNotes.sql/notes/0038.%20%E6%89%A7%E8%A1%8C%E8%AE%A1%E5%88%92%20EXPLLAIN/README#1--概述)
   - [2. 🤔 如何判断索引是否生效？](https://tdahuyou.github.io/TNotes.sql/notes/0038.%20%E6%89%A7%E8%A1%8C%E8%AE%A1%E5%88%92%20EXPLLAIN/README#2--如何判断索引是否生效)
 
-## 7. “数据访问接口” 和 “ORM”
+## 8. “数据访问接口” 和 “ORM”
 
 - [x] [0011. 数据库访问接口](https://tdahuyou.github.io/TNotes.sql/notes/0011.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BF%E9%97%AE%E6%8E%A5%E5%8F%A3/README)
   - [1. 📝 概述](https://tdahuyou.github.io/TNotes.sql/notes/0011.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BF%E9%97%AE%E6%8E%A5%E5%8F%A3/README#1--概述)
@@ -201,7 +206,7 @@
   - [4. 💻 示例 - Node.js + Sequelize + mysql2](https://tdahuyou.github.io/TNotes.sql/notes/0013.%20ORM%20vs.%20%E6%95%B0%E6%8D%AE%E8%AE%BF%E9%97%AE%E6%8E%A5%E5%8F%A3/README#4--示例---nodejs--sequelize--mysql2)
   - [5. 🤔 如何选择？](https://tdahuyou.github.io/TNotes.sql/notes/0013.%20ORM%20vs.%20%E6%95%B0%E6%8D%AE%E8%AE%BF%E9%97%AE%E6%8E%A5%E5%8F%A3/README#5--如何选择)
 
-## 8. C/S、B/S 架构 vs. 文件共享架构
+## 9. C/S、B/S 架构 vs. 文件共享架构
 
 - [x] [0012. CS 架构 vs. 文件共享架构](https://tdahuyou.github.io/TNotes.sql/notes/0012.%20CS%20%E6%9E%B6%E6%9E%84%20vs.%20%E6%96%87%E4%BB%B6%E5%85%B1%E4%BA%AB%E6%9E%B6%E6%9E%84/README)
   - [1. 📝 概述](https://tdahuyou.github.io/TNotes.sql/notes/0012.%20CS%20%E6%9E%B6%E6%9E%84%20vs.%20%E6%96%87%E4%BB%B6%E5%85%B1%E4%BA%AB%E6%9E%B6%E6%9E%84/README#1--概述)
@@ -210,14 +215,14 @@
     - [2.2. 服务器端处理数据后再返回结果](https://tdahuyou.github.io/TNotes.sql/notes/0012.%20CS%20%E6%9E%B6%E6%9E%84%20vs.%20%E6%96%87%E4%BB%B6%E5%85%B1%E4%BA%AB%E6%9E%B6%E6%9E%84/README#22-服务器端处理数据后再返回结果)
     - [2.3. 对比早期的“文件共享”方式](https://tdahuyou.github.io/TNotes.sql/notes/0012.%20CS%20%E6%9E%B6%E6%9E%84%20vs.%20%E6%96%87%E4%BB%B6%E5%85%B1%E4%BA%AB%E6%9E%B6%E6%9E%84/README#23-对比早期的文件共享方式)
 
-## 9. 存储引擎
+## 10. 存储引擎
 
 - [x] [0028. InnoDB 简介](https://tdahuyou.github.io/TNotes.sql/notes/0028.%20InnoDB%20%E7%AE%80%E4%BB%8B/README)
   - [1. 📝 概述](https://tdahuyou.github.io/TNotes.sql/notes/0028.%20InnoDB%20%E7%AE%80%E4%BB%8B/README#1--概述)
   - [2. 💻 创建使用 InnoDB 的表](https://tdahuyou.github.io/TNotes.sql/notes/0028.%20InnoDB%20%E7%AE%80%E4%BB%8B/README#2--创建使用-innodb-的表)
   - [3. 📒 从 MySQL 8.0 开始，系统表全部换成事务型的 InnoDB 表](https://tdahuyou.github.io/TNotes.sql/notes/0028.%20InnoDB%20%E7%AE%80%E4%BB%8B/README#3--从-mysql-80-开始系统表全部换成事务型的-innodb-表)
 
-## 10. MySQL 版本命名机制
+## 11. MySQL 版本命名机制
 
 - [x] [0021. MySQL 版本命名机制](https://tdahuyou.github.io/TNotes.sql/notes/0021.%20MySQL%20%E7%89%88%E6%9C%AC%E5%91%BD%E5%90%8D%E6%9C%BA%E5%88%B6/README)
   - [1. 📝 概述](https://tdahuyou.github.io/TNotes.sql/notes/0021.%20MySQL%20%E7%89%88%E6%9C%AC%E5%91%BD%E5%90%8D%E6%9C%BA%E5%88%B6/README#1--概述)
@@ -226,7 +231,7 @@
   - [4. 🤔 如何选择合适的 MySQL 版本？](https://tdahuyou.github.io/TNotes.sql/notes/0021.%20MySQL%20%E7%89%88%E6%9C%AC%E5%91%BD%E5%90%8D%E6%9C%BA%E5%88%B6/README#4--如何选择合适的-mysql-版本)
   - [5. 📒 一些补充说明](https://tdahuyou.github.io/TNotes.sql/notes/0021.%20MySQL%20%E7%89%88%E6%9C%AC%E5%91%BD%E5%90%8D%E6%9C%BA%E5%88%B6/README#5--一些补充说明)
 
-## 11. MySQL 8.0 新特性
+## 12. MySQL 8.0 新特性
 
 - [ ] [0022. MySQL 8.0 新特性概述](https://tdahuyou.github.io/TNotes.sql/notes/0022.%20MySQL%208.0%20%E6%96%B0%E7%89%B9%E6%80%A7%E6%A6%82%E8%BF%B0/README)
   - [1. 📝 概述](https://tdahuyou.github.io/TNotes.sql/notes/0022.%20MySQL%208.0%20%E6%96%B0%E7%89%B9%E6%80%A7%E6%A6%82%E8%BF%B0/README#1--概述)
@@ -294,7 +299,7 @@
   - [7. 📒 如何安装和配置 MySQL Cluster？](https://tdahuyou.github.io/TNotes.sql/notes/0041.%20MySQL%20Cluster%20%E7%AE%80%E4%BB%8B/README#7--如何安装和配置-mysql-cluster)
   - [8. 📒 总结](https://tdahuyou.github.io/TNotes.sql/notes/0041.%20MySQL%20Cluster%20%E7%AE%80%E4%BB%8B/README#8--总结)
 
-## 12. 数据库管理工具
+## 13. 数据库管理工具
 
 - [x] [0006. 数据库管理工具概述](https://tdahuyou.github.io/TNotes.sql/notes/0006.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7%E6%A6%82%E8%BF%B0/README)
   - [1. 📝 概述](https://tdahuyou.github.io/TNotes.sql/notes/0006.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7%E6%A6%82%E8%BF%B0/README#1--概述)
@@ -327,7 +332,7 @@
 - [ ] [0056. xxx](https://tdahuyou.github.io/TNotes.sql/notes/0056.%20xxx/README)
   - [1. 📝 概述](https://tdahuyou.github.io/TNotes.sql/notes/0056.%20xxx/README#1--概述)
 
-## 13. 练习
+## 14. 练习
 
 - [x] [0048. leetcode 数据库相关例题列表](https://tdahuyou.github.io/TNotes.sql/notes/0048.%20leetcode%20%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9B%B8%E5%85%B3%E4%BE%8B%E9%A2%98%E5%88%97%E8%A1%A8/README)
   - [1. 📝 概述](https://tdahuyou.github.io/TNotes.sql/notes/0048.%20leetcode%20%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9B%B8%E5%85%B3%E4%BE%8B%E9%A2%98%E5%88%97%E8%A1%A8/README#1--概述)

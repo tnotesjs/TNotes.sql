@@ -2,8 +2,6 @@
 
 <!-- region:toc -->
 
-- [📺 bilibili 👉 TNotes 合集](https://space.bilibili.com/407241004)
-  - [bilibili.TNotes.sql.0001.1](https://www.bilibili.com/video/123)
 - [📂 TNotes.yuque](https://www.yuque.com/tdahuyou/tnotes.yuque/)
   - [TNotes.yuque.sql.0001](https://www.yuque.com/tdahuyou/tnotes.yuque/sql.0001)
 - [1. 📝 概述](#1--概述)

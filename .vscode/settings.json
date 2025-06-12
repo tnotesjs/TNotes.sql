@@ -22,6 +22,7 @@
     "*.svg": "default"
   },
   "workbench.editor.wrapTabs": true,
+  "workbench.panel.defaultLocation": "right",
 
   // #endregion - Workbench（工作台相关配置）
 
