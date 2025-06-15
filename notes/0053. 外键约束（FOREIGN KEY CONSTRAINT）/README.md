@@ -1,4 +1,4 @@
-# [0053. 外键（FOREIGN KEY）](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0053.%20%E5%A4%96%E9%94%AE%EF%BC%88FOREIGN%20KEY%EF%BC%89)
+# [0053. 外键约束（FOREIGN KEY CONSTRAINT）](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0053.%20%E5%A4%96%E9%94%AE%E7%BA%A6%E6%9D%9F%EF%BC%88FOREIGN%20KEY%20CONSTRAINT%EF%BC%89)
 
 <!-- region:toc -->
 

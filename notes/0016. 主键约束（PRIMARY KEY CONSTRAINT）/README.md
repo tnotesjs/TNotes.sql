@@ -1,4 +1,4 @@
-# [0016. 主键（PRIMARY KEY）](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0016.%20%E4%B8%BB%E9%94%AE%EF%BC%88PRIMARY%20KEY%EF%BC%89)
+# [0016. 主键约束（PRIMARY KEY CONSTRAINT）](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0016.%20%E4%B8%BB%E9%94%AE%E7%BA%A6%E6%9D%9F%EF%BC%88PRIMARY%20KEY%20CONSTRAINT%EF%BC%89)
 
 <!-- region:toc -->
 
