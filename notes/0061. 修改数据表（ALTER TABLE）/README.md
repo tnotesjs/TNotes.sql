@@ -8,7 +8,7 @@
 - [4. 💻 `CHANGE` 同时修改字段名和数据类型](#4--change-同时修改字段名和数据类型)
 - [5. 💻 `ADD COLUMN` 添加字段](#5--add-column-添加字段)
 - [6. 💻 `DROP COLUMN` 删除字段](#6--drop-column-删除字段)
-- [7. 💻 使用 `MODIFY` 或 `CHANGE` 配合 `AFTER` 子句可修改字段的排列位置](#7--使用-modify-或-change-配合-after-子句可修改字段的排列位置)
+- [7. 💻 `MODIFY` 调整字段排序](#7--modify-调整字段排序)
 - [8. 💻 `ENGINE` 修改表的存储引擎](#8--engine-修改表的存储引擎)
 - [9. 💻 `FOREIGN KEY ... REFERENCES ...` 添加外键约束](#9--foreign-key--references--添加外键约束)
 - [10. 💻 `DROP FOREIGN KEY ...` 删除外键约束](#10--drop-foreign-key--删除外键约束)
@@ -114,9 +114,10 @@ DROP COLUMN age;
 -- 删除字段将永久移除该字段及其数据，请谨慎操作。
 ```
 
-## 7. 💻 使用 `MODIFY` 或 `CHANGE` 配合 `AFTER` 子句可修改字段的排列位置
+## 7. 💻 `MODIFY` 调整字段排序
 
 ```sql
+-- 使用 `MODIFY` 或 `CHANGE` 配合 `AFTER` 子句可修改字段的排列位置
 ALTER TABLE 表名
 MODIFY 字段名 数据类型 FIRST|AFTER  目标字段名;
 
@@ -124,6 +125,10 @@ MODIFY 字段名 数据类型 FIRST|AFTER  目标字段名;
 ALTER TABLE users
 MODIFY gender VARCHAR(10) AFTER id;
 -- 将 `gender` 字段移动到 id 字段之后。
+
+-- 注意：调整字段位置时，必须重新指定该字段的数据类型。
+-- MySQL 的 MODIFY 操作不仅用于调整字段顺序，还会检查字段的数据类型是否与原定义一致。
+-- 即使不修改数据类型，也需在语句中显式声明原有的数据类型，否则会报错。
 ```
 
 ## 8. 💻 `ENGINE` 修改表的存储引擎

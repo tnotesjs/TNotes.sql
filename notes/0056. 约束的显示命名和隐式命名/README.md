@@ -3,7 +3,8 @@
 <!-- region:toc -->
 
 - [1. 📝 概述](#1--概述)
-- [2. 💻 显示命名 vs. 隐式命名](#2--显示命名-vs-隐式命名)
+- [2. 💻 `UNIQUE` - 显示命名 vs. 隐式命名](#2--unique---显示命名-vs-隐式命名)
+- [3. 💻 `FOREIGN KEY` - 显示命名 vs. 隐式命名](#3--foreign-key---显示命名-vs-隐式命名)
 
 <!-- endregion:toc -->
 
@@ -12,7 +13,7 @@
 - 显示命名：使用 `CONSTRAINT` 来指定约束的名称。
 - 隐式命名：未使用 `CONSTRAINT` 来指定约束的名称。
 
-## 2. 💻 显示命名 vs. 隐式命名
+## 2. 💻 `UNIQUE` - 显示命名 vs. 隐式命名
 
 ::: code-group
 
@@ -55,3 +56,56 @@ email NULL;
 
 - 如果你需要**精确控制和维护约束**，请使用第一组的**显式命名方式**。
 - 如果只是**临时测试或原型开发**，可以使用第二组的简洁写法，但要注意其局限性。
+
+## 3. 💻 `FOREIGN KEY` - 显示命名 vs. 隐式命名
+
+::: code-group
+
+```sql [显示命名] {12,17}
+-- 创建主表
+CREATE TABLE Users (
+    id INT PRIMARY KEY,
+    name VARCHAR(50)
+);
+
+-- 创建子表并显式命名外键约束
+CREATE TABLE Orders (
+    order_id INT PRIMARY KEY,
+    user_id INT,
+    order_date DATE,
+    CONSTRAINT fk_orders_user FOREIGN KEY (user_id) REFERENCES Users(id)
+);
+
+-- 删除外键约束
+ALTER TABLE Orders
+DROP FOREIGN KEY fk_orders_user;
+```
+
+```sql [隐式命名] {10,15,19}
+-- 创建主表
+CREATE TABLE Users (
+    id INT PRIMARY KEY,
+    name VARCHAR(50)
+);
+
+-- 创建子表，使用隐式命名方式定义外键
+CREATE TABLE Orders (
+    order_id INT PRIMARY KEY,
+    user_id INT REFERENCES Users(id), -- 隐式命名外键
+    order_date DATE
+);
+
+-- 查询外键名称（必须通过系统表或 SHOW CREATE TABLE）
+SHOW CREATE TABLE Orders;
+
+-- 假设查询结果显示外键名为 orders_ibfk_1，则删除如下：
+ALTER TABLE Orders
+DROP FOREIGN KEY orders_ibfk_1;
+```
+
+:::
+
+- **🤔 删除外键约束的时候一定要知道约束名称才能删除吗？是不是必须要先查询名称，然后再删除呢？（背景：如果没有显式指定约束名称）**
+  - 🤖 是的，**在没有显式指定外键约束名称的情况下，删除外键约束确实必须先查询其自动生成的名称，然后才能执行删除操作**。
+  - MySQL 要求使用 `ALTER TABLE ... DROP FOREIGN KEY fk_name;` 删除外键时，必须明确提供外键约束的名称。
+  - 如果你建表时没有使用 `CONSTRAINT` 显式命名外键，MySQL 会自动为其生成一个默认名称（如 表名 `_ibfk_` 序号），例如：`orders_ibfk_1`, `employees_ibfk_2` 等等。这些名称不是固定的，会根据数据库中已有对象动态变化。
