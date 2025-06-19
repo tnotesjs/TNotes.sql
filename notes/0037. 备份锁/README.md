@@ -1,4 +1,4 @@
-# [0037. MySQL 8.0 新特性 - 备份锁](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0037.%20MySQL%208.0%20%E6%96%B0%E7%89%B9%E6%80%A7%20-%20%E5%A4%87%E4%BB%BD%E9%94%81)
+# [0037. 备份锁](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0037.%20%E5%A4%87%E4%BB%BD%E9%94%81)
 
 <!-- region:toc -->
 

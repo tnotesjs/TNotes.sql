@@ -1,4 +1,4 @@
-# [0034. MySQL 8.0 新特性 - 公用表表达式](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0034.%20MySQL%208.0%20%E6%96%B0%E7%89%B9%E6%80%A7%20-%20%E5%85%AC%E7%94%A8%E8%A1%A8%E8%A1%A8%E8%BE%BE%E5%BC%8F)
+# [0034. 公用表表达式](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0034.%20%E5%85%AC%E7%94%A8%E8%A1%A8%E8%A1%A8%E8%BE%BE%E5%BC%8F)
 
 <!-- region:toc -->
 

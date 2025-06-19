@@ -1,4 +1,4 @@
-# [0031. MySQL 8.0 新特性 - JSON 功能增强](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0031.%20MySQL%208.0%20%E6%96%B0%E7%89%B9%E6%80%A7%20-%20JSON%20%E5%8A%9F%E8%83%BD%E5%A2%9E%E5%BC%BA)
+# [0031. JSON 功能增强](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0031.%20JSON%20%E5%8A%9F%E8%83%BD%E5%A2%9E%E5%BC%BA)
 
 <!-- region:toc -->
 

@@ -1,4 +1,4 @@
-# [0030. MySQL 8.0 新特性 - 字符集支持](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0030.%20MySQL%208.0%20%E6%96%B0%E7%89%B9%E6%80%A7%20-%20%E5%AD%97%E7%AC%A6%E9%9B%86%E6%94%AF%E6%8C%81)
+# [0030. 字符集支持](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0030.%20%E5%AD%97%E7%AC%A6%E9%9B%86%E6%94%AF%E6%8C%81)
 
 <!-- region:toc -->
 
@@ -14,6 +14,7 @@
 
 - `latin1 -> utf8mb4`
   - MySQL 8.0 对字符集的支持进行了重大改进，其中最重要的变化之一是将 **默认字符集从 `latin1` 改为 `utf8mb4`**。
+  - 网站开发人员在数据库设计的时候往往会将编码修改为 `utf8` 字符集。如果遗忘修改默认的编码，就会出现乱码的问题。从 MySQL 8.0 开始，数据库的默认编码改为 utf8mb4，从而避免了这里提到的乱码问题。
   - **新增排序规则**：
     - 如 `utf8mb4_ja_0900_as_cs`（区分大小写、支持日文）
     - ……
@@ -102,7 +103,10 @@ VALUES (1, '你好，世界！👋');
 
 ```sql
 SHOW VARIABLES LIKE 'character_set_database';
+-- utf8mb4
+
 SHOW VARIABLES LIKE 'collation_database';
+-- utf8mb4_unicode_ci
 ```
 
 - 修改数据库默认字符集（MySQL 8.0）

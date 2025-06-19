@@ -1,4 +1,4 @@
-# [0035. MySQL 8.0 新特性 - 窗口函数](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0035.%20MySQL%208.0%20%E6%96%B0%E7%89%B9%E6%80%A7%20-%20%E7%AA%97%E5%8F%A3%E5%87%BD%E6%95%B0)
+# [0035. 窗口函数](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0035.%20%E7%AA%97%E5%8F%A3%E5%87%BD%E6%95%B0)
 
 <!-- region:toc -->
 
