@@ -405,11 +405,12 @@
 
 - [ ] [0064. MySQL 数据类型介绍](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0064.%20MySQL%20%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E4%BB%8B%E7%BB%8D/README.md)
   - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0064.%20MySQL%20%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E4%BB%8B%E7%BB%8D/README.md#1--概述)
-  - [2. 📒 整数类型](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0064.%20MySQL%20%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E4%BB%8B%E7%BB%8D/README.md#2--整数类型)
-  - [3. 📒 浮点数类型和定点数类型](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0064.%20MySQL%20%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E4%BB%8B%E7%BB%8D/README.md#3--浮点数类型和定点数类型)
-  - [4. 📒 日期与时间类型](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0064.%20MySQL%20%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E4%BB%8B%E7%BB%8D/README.md#4--日期与时间类型)
-  - [5. 📒 文本字符串类型](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0064.%20MySQL%20%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E4%BB%8B%E7%BB%8D/README.md#5--文本字符串类型)
-  - [6. 📒 二进制字符串类型](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0064.%20MySQL%20%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E4%BB%8B%E7%BB%8D/README.md#6--二进制字符串类型)
+  - [2. 📒 数值类型](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0064.%20MySQL%20%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E4%BB%8B%E7%BB%8D/README.md#2--数值类型)
+    - [2.1. 整数类型](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0064.%20MySQL%20%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E4%BB%8B%E7%BB%8D/README.md#21-整数类型)
+    - [2.2. 浮点数类型和定点数类型](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0064.%20MySQL%20%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E4%BB%8B%E7%BB%8D/README.md#22-浮点数类型和定点数类型)
+  - [3. 📒 日期与时间类型](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0064.%20MySQL%20%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E4%BB%8B%E7%BB%8D/README.md#3--日期与时间类型)
+  - [4. 📒 文本字符串类型](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0064.%20MySQL%20%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E4%BB%8B%E7%BB%8D/README.md#4--文本字符串类型)
+  - [5. 📒 二进制字符串类型](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0064.%20MySQL%20%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E4%BB%8B%E7%BB%8D/README.md#5--二进制字符串类型)
 
 ## 9. 自测练习
 
