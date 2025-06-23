@@ -411,6 +411,8 @@
   - [3. 📒 日期与时间类型](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0064.%20MySQL%20%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E4%BB%8B%E7%BB%8D/README.md#3--日期与时间类型)
   - [4. 📒 文本字符串类型](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0064.%20MySQL%20%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E4%BB%8B%E7%BB%8D/README.md#4--文本字符串类型)
   - [5. 📒 二进制字符串类型](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0064.%20MySQL%20%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E4%BB%8B%E7%BB%8D/README.md#5--二进制字符串类型)
+- [ ] [0065. MySQL 非法值处理机制 - 零值转换与严格模式](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0065.%20MySQL%20%E9%9D%9E%E6%B3%95%E5%80%BC%E5%A4%84%E7%90%86%E6%9C%BA%E5%88%B6%20-%20%E9%9B%B6%E5%80%BC%E8%BD%AC%E6%8D%A2%E4%B8%8E%E4%B8%A5%E6%A0%BC%E6%A8%A1%E5%BC%8F/README.md)
+  - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0065.%20MySQL%20%E9%9D%9E%E6%B3%95%E5%80%BC%E5%A4%84%E7%90%86%E6%9C%BA%E5%88%B6%20-%20%E9%9B%B6%E5%80%BC%E8%BD%AC%E6%8D%A2%E4%B8%8E%E4%B8%A5%E6%A0%BC%E6%A8%A1%E5%BC%8F/README.md#1--概述)
 
 ## 9. 自测练习
 
