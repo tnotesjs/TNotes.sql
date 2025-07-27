@@ -13,15 +13,18 @@
     "demos",
     "assets"
   ],
-  "rootDocsSrcDir": "../_/docs/src",
-  "home.features.item": {
+  "rootSidebarDir": "../_/sidebars",
+  "root_item": {
     "icon": {
       "src": "https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/assets/icon--mysql.svg"
     },
     "title": "sql",
     "completed_notes_count": 48,
     "details": "数据库笔记",
-    "link": "https://tdahuyou.github.io/TNotes.sql/"
+    "link": "https://tdahuyou.github.io/TNotes.sql/",
+    "created_at": 1746873077000,
+    "updated_at": 1753580664000,
+    "days_since_birth": 9448
   },
   "port": 9448,
   "menuItems": [
