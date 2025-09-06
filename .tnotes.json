@@ -1,5 +1,5 @@
 {
-  "author": "Tdahuyou",
+  "author": "tnotesjs",
   "repoName": "TNotes.sql",
   "keywords": ["TNotes.sql"],
   "ignore_dirs": [
@@ -19,7 +19,7 @@
     "title": "sql",
     "completed_notes_count": 48,
     "details": "数据库笔记",
-    "link": "https://tdahuyou.github.io/TNotes.sql/",
+    "link": "https://tnotesjs.github.io/TNotes.sql/",
     "created_at": 1746873077000,
     "updated_at": 1757163552452,
     "days_since_birth": 9448
@@ -36,7 +36,7 @@
     },
     {
       "text": "📒 TNotes",
-      "link": "https://tdahuyou.github.io/notes"
+      "link": "https://tnotesjs.github.io/notes"
     },
     {
       "text": "📂 TNotes.yuque",
