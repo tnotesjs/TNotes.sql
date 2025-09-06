@@ -1,4 +1,4 @@
-# [0005. 数据库系统的组成](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0005.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E7%9A%84%E7%BB%84%E6%88%90)
+# [0005. 数据库系统的组成](https://github.com/tnotesjs/TNotes.sql/tree/main/notes/0005.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E7%9A%84%E7%BB%84%E6%88%90)
 
 <!-- region:toc -->
 

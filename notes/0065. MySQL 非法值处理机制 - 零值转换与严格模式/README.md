@@ -1,4 +1,4 @@
-# [0065. MySQL 非法值处理机制 - 零值转换与严格模式](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0065.%20MySQL%20%E9%9D%9E%E6%B3%95%E5%80%BC%E5%A4%84%E7%90%86%E6%9C%BA%E5%88%B6%20-%20%E9%9B%B6%E5%80%BC%E8%BD%AC%E6%8D%A2%E4%B8%8E%E4%B8%A5%E6%A0%BC%E6%A8%A1%E5%BC%8F)
+# [0065. MySQL 非法值处理机制 - 零值转换与严格模式](https://github.com/tnotesjs/TNotes.sql/tree/main/notes/0065.%20MySQL%20%E9%9D%9E%E6%B3%95%E5%80%BC%E5%A4%84%E7%90%86%E6%9C%BA%E5%88%B6%20-%20%E9%9B%B6%E5%80%BC%E8%BD%AC%E6%8D%A2%E4%B8%8E%E4%B8%A5%E6%A0%BC%E6%A8%A1%E5%BC%8F)
 
 <!-- region:toc -->
 

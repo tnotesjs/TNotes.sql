@@ -1,4 +1,4 @@
-# [0051. 左连接 (LEFT JOIN)](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0051.%20%E5%B7%A6%E8%BF%9E%E6%8E%A5%20(LEFT%20JOIN))
+# [0051. 左连接 (LEFT JOIN)](https://github.com/tnotesjs/TNotes.sql/tree/main/notes/0051.%20%E5%B7%A6%E8%BF%9E%E6%8E%A5%20(LEFT%20JOIN))
 
 <!-- region:toc -->
 

@@ -1,4 +1,4 @@
-# [0037. 备份锁](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0037.%20%E5%A4%87%E4%BB%BD%E9%94%81)
+# [0037. 备份锁](https://github.com/tnotesjs/TNotes.sql/tree/main/notes/0037.%20%E5%A4%87%E4%BB%BD%E9%94%81)
 
 <!-- region:toc -->
 

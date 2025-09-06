@@ -1,4 +1,4 @@
-# [0035. 窗口函数](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0035.%20%E7%AA%97%E5%8F%A3%E5%87%BD%E6%95%B0)
+# [0035. 窗口函数](https://github.com/tnotesjs/TNotes.sql/tree/main/notes/0035.%20%E7%AA%97%E5%8F%A3%E5%87%BD%E6%95%B0)
 
 <!-- region:toc -->
 

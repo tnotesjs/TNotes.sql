@@ -1,4 +1,4 @@
-# [0055. 唯一性约束（UNIQUE CONSTRAINT）](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0055.%20%E5%94%AF%E4%B8%80%E6%80%A7%E7%BA%A6%E6%9D%9F%EF%BC%88UNIQUE%20CONSTRAINT%EF%BC%89)
+# [0055. 唯一性约束（UNIQUE CONSTRAINT）](https://github.com/tnotesjs/TNotes.sql/tree/main/notes/0055.%20%E5%94%AF%E4%B8%80%E6%80%A7%E7%BA%A6%E6%9D%9F%EF%BC%88UNIQUE%20CONSTRAINT%EF%BC%89)
 
 <!-- region:toc -->
 

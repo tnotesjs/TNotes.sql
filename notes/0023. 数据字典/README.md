@@ -1,4 +1,4 @@
-# [0023. 数据字典](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0023.%20%E6%95%B0%E6%8D%AE%E5%AD%97%E5%85%B8)
+# [0023. 数据字典](https://github.com/tnotesjs/TNotes.sql/tree/main/notes/0023.%20%E6%95%B0%E6%8D%AE%E5%AD%97%E5%85%B8)
 
 <!-- region:toc -->
 

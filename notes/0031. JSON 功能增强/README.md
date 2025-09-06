@@ -1,4 +1,4 @@
-# [0031. JSON 功能增强](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0031.%20JSON%20%E5%8A%9F%E8%83%BD%E5%A2%9E%E5%BC%BA)
+# [0031. JSON 功能增强](https://github.com/tnotesjs/TNotes.sql/tree/main/notes/0031.%20JSON%20%E5%8A%9F%E8%83%BD%E5%A2%9E%E5%BC%BA)
 
 <!-- region:toc -->
 

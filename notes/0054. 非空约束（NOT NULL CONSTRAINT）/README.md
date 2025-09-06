@@ -1,4 +1,4 @@
-# [0054. 非空约束（NOT NULL CONSTRAINT）](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0054.%20%E9%9D%9E%E7%A9%BA%E7%BA%A6%E6%9D%9F%EF%BC%88NOT%20NULL%20CONSTRAINT%EF%BC%89)
+# [0054. 非空约束（NOT NULL CONSTRAINT）](https://github.com/tnotesjs/TNotes.sql/tree/main/notes/0054.%20%E9%9D%9E%E7%A9%BA%E7%BA%A6%E6%9D%9F%EF%BC%88NOT%20NULL%20CONSTRAINT%EF%BC%89)
 
 <!-- region:toc -->
 

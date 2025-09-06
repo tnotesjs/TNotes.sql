@@ -1,4 +1,4 @@
-# [0024. 原子 DDL](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0024.%20%E5%8E%9F%E5%AD%90%20DDL)
+# [0024. 原子 DDL](https://github.com/tnotesjs/TNotes.sql/tree/main/notes/0024.%20%E5%8E%9F%E5%AD%90%20DDL)
 
 <!-- region:toc -->
 

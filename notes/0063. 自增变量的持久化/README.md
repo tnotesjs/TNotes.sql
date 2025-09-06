@@ -1,4 +1,4 @@
-# [0063. 自增变量的持久化](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0063.%20%E8%87%AA%E5%A2%9E%E5%8F%98%E9%87%8F%E7%9A%84%E6%8C%81%E4%B9%85%E5%8C%96)
+# [0063. 自增变量的持久化](https://github.com/tnotesjs/TNotes.sql/tree/main/notes/0063.%20%E8%87%AA%E5%A2%9E%E5%8F%98%E9%87%8F%E7%9A%84%E6%8C%81%E4%B9%85%E5%8C%96)
 
 <!-- region:toc -->
 

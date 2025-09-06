@@ -1,4 +1,4 @@
-# [0048. leetcode 数据库相关例题列表](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0048.%20leetcode%20%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9B%B8%E5%85%B3%E4%BE%8B%E9%A2%98%E5%88%97%E8%A1%A8)
+# [0048. leetcode 数据库相关例题列表](https://github.com/tnotesjs/TNotes.sql/tree/main/notes/0048.%20leetcode%20%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9B%B8%E5%85%B3%E4%BE%8B%E9%A2%98%E5%88%97%E8%A1%A8)
 
 <!-- region:toc -->
 

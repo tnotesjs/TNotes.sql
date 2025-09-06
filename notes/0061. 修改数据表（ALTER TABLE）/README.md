@@ -1,4 +1,4 @@
-# [0061. 修改数据表（ALTER TABLE）](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0061.%20%E4%BF%AE%E6%94%B9%E6%95%B0%E6%8D%AE%E8%A1%A8%EF%BC%88ALTER%20TABLE%EF%BC%89)
+# [0061. 修改数据表（ALTER TABLE）](https://github.com/tnotesjs/TNotes.sql/tree/main/notes/0061.%20%E4%BF%AE%E6%94%B9%E6%95%B0%E6%8D%AE%E8%A1%A8%EF%BC%88ALTER%20TABLE%EF%BC%89)
 
 <!-- region:toc -->
 

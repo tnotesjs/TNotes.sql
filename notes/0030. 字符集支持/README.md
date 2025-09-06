@@ -1,4 +1,4 @@
-# [0030. 字符集支持](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0030.%20%E5%AD%97%E7%AC%A6%E9%9B%86%E6%94%AF%E6%8C%81)
+# [0030. 字符集支持](https://github.com/tnotesjs/TNotes.sql/tree/main/notes/0030.%20%E5%AD%97%E7%AC%A6%E9%9B%86%E6%94%AF%E6%8C%81)
 
 <!-- region:toc -->
 

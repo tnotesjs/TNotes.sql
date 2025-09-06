@@ -1,4 +1,4 @@
-# [0014. TABLE 基本操作概述](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0014.%20TABLE%20%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C%E6%A6%82%E8%BF%B0)
+# [0014. TABLE 基本操作概述](https://github.com/tnotesjs/TNotes.sql/tree/main/notes/0014.%20TABLE%20%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C%E6%A6%82%E8%BF%B0)
 
 <!-- region:toc -->
 

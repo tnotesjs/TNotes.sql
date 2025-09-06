@@ -1,4 +1,4 @@
-# [0025. SQL 中的注释写法](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0025.%20SQL%20%E4%B8%AD%E7%9A%84%E6%B3%A8%E9%87%8A%E5%86%99%E6%B3%95)
+# [0025. SQL 中的注释写法](https://github.com/tnotesjs/TNotes.sql/tree/main/notes/0025.%20SQL%20%E4%B8%AD%E7%9A%84%E6%B3%A8%E9%87%8A%E5%86%99%E6%B3%95)
 
 <!-- region:toc -->
 

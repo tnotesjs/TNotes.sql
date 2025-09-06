@@ -1,4 +1,4 @@
-# [0044. 在 macOS 上安装 mysql](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0044.%20%E5%9C%A8%20macOS%20%E4%B8%8A%E5%AE%89%E8%A3%85%20mysql)
+# [0044. 在 macOS 上安装 mysql](https://github.com/tnotesjs/TNotes.sql/tree/main/notes/0044.%20%E5%9C%A8%20macOS%20%E4%B8%8A%E5%AE%89%E8%A3%85%20mysql)
 
 <!-- region:toc -->
 

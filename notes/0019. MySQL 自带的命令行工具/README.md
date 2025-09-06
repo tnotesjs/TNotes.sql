@@ -1,4 +1,4 @@
-# [0019. MySQL 自带的命令行工具](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0019.%20MySQL%20%E8%87%AA%E5%B8%A6%E7%9A%84%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%B7%A5%E5%85%B7)
+# [0019. MySQL 自带的命令行工具](https://github.com/tnotesjs/TNotes.sql/tree/main/notes/0019.%20MySQL%20%E8%87%AA%E5%B8%A6%E7%9A%84%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%B7%A5%E5%85%B7)
 
 <!-- region:toc -->
 

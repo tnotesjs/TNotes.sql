@@ -1,4 +1,4 @@
-# [0049. 连接（JOIN）操作概述](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0049.%20%E8%BF%9E%E6%8E%A5%EF%BC%88JOIN%EF%BC%89%E6%93%8D%E4%BD%9C%E6%A6%82%E8%BF%B0)
+# [0049. 连接（JOIN）操作概述](https://github.com/tnotesjs/TNotes.sql/tree/main/notes/0049.%20%E8%BF%9E%E6%8E%A5%EF%BC%88JOIN%EF%BC%89%E6%93%8D%E4%BD%9C%E6%A6%82%E8%BF%B0)
 
 <!-- region:toc -->
 

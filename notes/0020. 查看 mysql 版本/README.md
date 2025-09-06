@@ -1,4 +1,4 @@
-# [0020. 查看 mysql 版本](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0020.%20%E6%9F%A5%E7%9C%8B%20mysql%20%E7%89%88%E6%9C%AC)
+# [0020. 查看 mysql 版本](https://github.com/tnotesjs/TNotes.sql/tree/main/notes/0020.%20%E6%9F%A5%E7%9C%8B%20mysql%20%E7%89%88%E6%9C%AC)
 
 <!-- region:toc -->
 

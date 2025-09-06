@@ -1,4 +1,4 @@
-# [0064. MySQL 数据类型介绍](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0064.%20MySQL%20%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E4%BB%8B%E7%BB%8D)
+# [0064. MySQL 数据类型介绍](https://github.com/tnotesjs/TNotes.sql/tree/main/notes/0064.%20MySQL%20%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E4%BB%8B%E7%BB%8D)
 
 <!-- region:toc -->
 

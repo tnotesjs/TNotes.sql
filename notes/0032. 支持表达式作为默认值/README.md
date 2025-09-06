@@ -1,4 +1,4 @@
-# [0032. 支持表达式作为默认值](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0032.%20%E6%94%AF%E6%8C%81%E8%A1%A8%E8%BE%BE%E5%BC%8F%E4%BD%9C%E4%B8%BA%E9%BB%98%E8%AE%A4%E5%80%BC)
+# [0032. 支持表达式作为默认值](https://github.com/tnotesjs/TNotes.sql/tree/main/notes/0032.%20%E6%94%AF%E6%8C%81%E8%A1%A8%E8%BE%BE%E5%BC%8F%E4%BD%9C%E4%B8%BA%E9%BB%98%E8%AE%A4%E5%80%BC)
 
 <!-- region:toc -->
 

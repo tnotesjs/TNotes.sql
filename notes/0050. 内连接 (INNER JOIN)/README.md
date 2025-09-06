@@ -1,4 +1,4 @@
-# [0050. 内连接 (INNER JOIN)](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0050.%20%E5%86%85%E8%BF%9E%E6%8E%A5%20(INNER%20JOIN))
+# [0050. 内连接 (INNER JOIN)](https://github.com/tnotesjs/TNotes.sql/tree/main/notes/0050.%20%E5%86%85%E8%BF%9E%E6%8E%A5%20(INNER%20JOIN))
 
 <!-- region:toc -->
 

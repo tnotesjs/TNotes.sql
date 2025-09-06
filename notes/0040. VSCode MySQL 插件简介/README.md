@@ -1,4 +1,4 @@
-# [0040. VSCode MySQL 插件简介](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0040.%20VSCode%20MySQL%20%E6%8F%92%E4%BB%B6%E7%AE%80%E4%BB%8B)
+# [0040. VSCode MySQL 插件简介](https://github.com/tnotesjs/TNotes.sql/tree/main/notes/0040.%20VSCode%20MySQL%20%E6%8F%92%E4%BB%B6%E7%AE%80%E4%BB%8B)
 
 <!-- region:toc -->
 

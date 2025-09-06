@@ -1,4 +1,4 @@
-# [0034. 公用表表达式](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0034.%20%E5%85%AC%E7%94%A8%E8%A1%A8%E8%A1%A8%E8%BE%BE%E5%BC%8F)
+# [0034. 公用表表达式](https://github.com/tnotesjs/TNotes.sql/tree/main/notes/0034.%20%E5%85%AC%E7%94%A8%E8%A1%A8%E8%A1%A8%E8%BE%BE%E5%BC%8F)
 
 <!-- region:toc -->
 

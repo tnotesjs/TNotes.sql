@@ -1,4 +1,4 @@
-# [0057. 默认约束（DEFAULT CONSTRAINT）](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0057.%20%E9%BB%98%E8%AE%A4%E7%BA%A6%E6%9D%9F%EF%BC%88DEFAULT%20CONSTRAINT%EF%BC%89)
+# [0057. 默认约束（DEFAULT CONSTRAINT）](https://github.com/tnotesjs/TNotes.sql/tree/main/notes/0057.%20%E9%BB%98%E8%AE%A4%E7%BA%A6%E6%9D%9F%EF%BC%88DEFAULT%20CONSTRAINT%EF%BC%89)
 
 <!-- region:toc -->
 

@@ -1,4 +1,4 @@
-# [0039. 启动 MySQL 服务](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0039.%20%E5%90%AF%E5%8A%A8%20MySQL%20%E6%9C%8D%E5%8A%A1)
+# [0039. 启动 MySQL 服务](https://github.com/tnotesjs/TNotes.sql/tree/main/notes/0039.%20%E5%90%AF%E5%8A%A8%20MySQL%20%E6%9C%8D%E5%8A%A1)
 
 <!-- region:toc -->
 

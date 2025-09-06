@@ -1,4 +1,4 @@
-# [0002. 什么是“MySQL”](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0002.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9CMySQL%E2%80%9D)
+# [0002. 什么是“MySQL”](https://github.com/tnotesjs/TNotes.sql/tree/main/notes/0002.%20%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9CMySQL%E2%80%9D)
 
 <!-- region:toc -->
 

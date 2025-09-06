@@ -1,4 +1,4 @@
-# [0060. 查看表详细结构（SHOW CREATE TABLE）](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0060.%20%E6%9F%A5%E7%9C%8B%E8%A1%A8%E8%AF%A6%E7%BB%86%E7%BB%93%E6%9E%84%EF%BC%88SHOW%20CREATE%20TABLE%EF%BC%89)
+# [0060. 查看表详细结构（SHOW CREATE TABLE）](https://github.com/tnotesjs/TNotes.sql/tree/main/notes/0060.%20%E6%9F%A5%E7%9C%8B%E8%A1%A8%E8%AF%A6%E7%BB%86%E7%BB%93%E6%9E%84%EF%BC%88SHOW%20CREATE%20TABLE%EF%BC%89)
 
 <!-- region:toc -->
 

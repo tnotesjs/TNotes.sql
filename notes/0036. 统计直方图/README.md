@@ -1,4 +1,4 @@
-# [0036. 统计直方图](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0036.%20%E7%BB%9F%E8%AE%A1%E7%9B%B4%E6%96%B9%E5%9B%BE)
+# [0036. 统计直方图](https://github.com/tnotesjs/TNotes.sql/tree/main/notes/0036.%20%E7%BB%9F%E8%AE%A1%E7%9B%B4%E6%96%B9%E5%9B%BE)
 
 <!-- region:toc -->
 

@@ -1,4 +1,4 @@
-# [0033. 不可见索引和降序索引](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0033.%20%E4%B8%8D%E5%8F%AF%E8%A7%81%E7%B4%A2%E5%BC%95%E5%92%8C%E9%99%8D%E5%BA%8F%E7%B4%A2%E5%BC%95)
+# [0033. 不可见索引和降序索引](https://github.com/tnotesjs/TNotes.sql/tree/main/notes/0033.%20%E4%B8%8D%E5%8F%AF%E8%A7%81%E7%B4%A2%E5%BC%95%E5%92%8C%E9%99%8D%E5%BA%8F%E7%B4%A2%E5%BC%95)
 
 <!-- region:toc -->
 

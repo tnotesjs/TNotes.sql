@@ -1,4 +1,4 @@
-# [0010. SQL 标准](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0010.%20SQL%20%E6%A0%87%E5%87%86)
+# [0010. SQL 标准](https://github.com/tnotesjs/TNotes.sql/tree/main/notes/0010.%20SQL%20%E6%A0%87%E5%87%86)
 
 <!-- region:toc -->
 

@@ -1,4 +1,4 @@
-# [0027. 资源管理](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0027.%20%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86)
+# [0027. 资源管理](https://github.com/tnotesjs/TNotes.sql/tree/main/notes/0027.%20%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86)
 
 <!-- region:toc -->
 

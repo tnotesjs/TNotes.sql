@@ -1,4 +1,4 @@
-# [0056. 约束的显示命名和隐式命名](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0056.%20%E7%BA%A6%E6%9D%9F%E7%9A%84%E6%98%BE%E7%A4%BA%E5%91%BD%E5%90%8D%E5%92%8C%E9%9A%90%E5%BC%8F%E5%91%BD%E5%90%8D)
+# [0056. 约束的显示命名和隐式命名](https://github.com/tnotesjs/TNotes.sql/tree/main/notes/0056.%20%E7%BA%A6%E6%9D%9F%E7%9A%84%E6%98%BE%E7%A4%BA%E5%91%BD%E5%90%8D%E5%92%8C%E9%9A%90%E5%BC%8F%E5%91%BD%E5%90%8D)
 
 <!-- region:toc -->
 

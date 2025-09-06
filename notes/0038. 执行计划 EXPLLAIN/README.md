@@ -1,4 +1,4 @@
-# [0038. 执行计划 EXPLLAIN](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0038.%20%E6%89%A7%E8%A1%8C%E8%AE%A1%E5%88%92%20EXPLLAIN)
+# [0038. 执行计划 EXPLLAIN](https://github.com/tnotesjs/TNotes.sql/tree/main/notes/0038.%20%E6%89%A7%E8%A1%8C%E8%AE%A1%E5%88%92%20EXPLLAIN)
 
 <!-- region:toc -->
 

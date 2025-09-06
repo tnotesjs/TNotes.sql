@@ -1,4 +1,4 @@
-# [0026. 安全和账号管理](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0026.%20%E5%AE%89%E5%85%A8%E5%92%8C%E8%B4%A6%E5%8F%B7%E7%AE%A1%E7%90%86)
+# [0026. 安全和账号管理](https://github.com/tnotesjs/TNotes.sql/tree/main/notes/0026.%20%E5%AE%89%E5%85%A8%E5%92%8C%E8%B4%A6%E5%8F%B7%E7%AE%A1%E7%90%86)
 
 <!-- region:toc -->
 

@@ -1,4 +1,4 @@
-# [0059. 查看表基本结构（DESCRIBE）](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0059.%20%E6%9F%A5%E7%9C%8B%E8%A1%A8%E5%9F%BA%E6%9C%AC%E7%BB%93%E6%9E%84%EF%BC%88DESCRIBE%EF%BC%89)
+# [0059. 查看表基本结构（DESCRIBE）](https://github.com/tnotesjs/TNotes.sql/tree/main/notes/0059.%20%E6%9F%A5%E7%9C%8B%E8%A1%A8%E5%9F%BA%E6%9C%AC%E7%BB%93%E6%9E%84%EF%BC%88DESCRIBE%EF%BC%89)
 
 <!-- region:toc -->
 

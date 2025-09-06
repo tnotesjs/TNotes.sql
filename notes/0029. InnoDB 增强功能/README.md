@@ -1,4 +1,4 @@
-# [0029. InnoDB 增强功能](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0029.%20InnoDB%20%E5%A2%9E%E5%BC%BA%E5%8A%9F%E8%83%BD)
+# [0029. InnoDB 增强功能](https://github.com/tnotesjs/TNotes.sql/tree/main/notes/0029.%20InnoDB%20%E5%A2%9E%E5%BC%BA%E5%8A%9F%E8%83%BD)
 
 <!-- region:toc -->
 

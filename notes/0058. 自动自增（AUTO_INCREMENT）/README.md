@@ -1,4 +1,4 @@
-# [0058. 自动自增（AUTO_INCREMENT）](https://github.com/Tdahuyou/TNotes.sql/tree/main/notes/0058.%20%E8%87%AA%E5%8A%A8%E8%87%AA%E5%A2%9E%EF%BC%88AUTO_INCREMENT%EF%BC%89)
+# [0058. 自动自增（AUTO_INCREMENT）](https://github.com/tnotesjs/TNotes.sql/tree/main/notes/0058.%20%E8%87%AA%E5%8A%A8%E8%87%AA%E5%A2%9E%EF%BC%88AUTO_INCREMENT%EF%BC%89)
 
 <!-- region:toc -->
 
