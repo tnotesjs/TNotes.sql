@@ -13,7 +13,7 @@
     "demos",
     "assets"
   ],
-  "rootSidebarDir": "../_/sidebars",
+  "rootSidebarDir": "../TNotes/sidebars",
   "root_item": {
     "icon": {
       "src": "https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/assets/icon--mysql.svg"
@@ -23,7 +23,7 @@
     "details": "数据库笔记",
     "link": "https://tdahuyou.github.io/TNotes.sql/",
     "created_at": 1746873077000,
-    "updated_at": 1754494585987,
+    "updated_at": 1757163552452,
     "days_since_birth": 9448
   },
   "port": 9448,
@@ -62,7 +62,7 @@
     },
     {
       "ariaLabel": "TNotes.sql github 仓库链接",
-      "link": "https://github.com/Tdahuyou/TNotes.sql",
+      "link": "https://github.com/tnotesjs/TNotes.sql",
       "icon": "github"
     }
   ],
