@@ -13,7 +13,7 @@
 
 - SQL Roadmap
   - https://roadmap.sh/sql
-  - ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-17-08-14-46.png)
+  - ![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-17-08-14-46.png)
 
 ## 2. 🤖 SQL 学习路径建议
 

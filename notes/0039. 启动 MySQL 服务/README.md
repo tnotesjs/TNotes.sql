@@ -23,4 +23,4 @@
   - 输入正确的密码后，将进入 MySQL 的交互式命令行界面：
     - `mysql>`
     - 接下来你就可以自由输入 mysql 命令来和数据库之间进行交互了。
-  - ![图 1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-21-20-25-58.png)
+  - ![图 1](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-21-20-25-58.png)

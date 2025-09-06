@@ -147,7 +147,7 @@ myisamchk /var/lib/mysql/database/table.MYI
   - 通过该命令可以打印出 mysqldump 的路径。
   - 比如：`/usr/local/mysql-8.0.33-macos13-arm64/bin/mysqldump`
   - 切换到 `bin` 目录：`cd /usr/local/mysql-8.0.33-macos13-arm64/bin`
-  - ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-17-08-52-32.png)
+  - ![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-17-08-52-32.png)
 
 | 工具名称 | 功能说明 |
 | --- | --- |

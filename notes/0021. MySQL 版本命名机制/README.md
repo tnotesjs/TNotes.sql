@@ -15,7 +15,7 @@
 - `mysql --version`
   - 你可以通过这条命令查看 MySQL 的版本信息。
   - 这也是经常被用来检测当前设备是否安装了 mysql 的一种方式。
-    - ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-17-08-40-27.png)
+    - ![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-17-08-40-27.png)
     - 如果打印了 mysql 的版本信息，那么说明已经安装好了 mysql。
       - 版本信息：`mysql Ver 8.0.33 for macos13 on arm64 (MySQL Community Server - GPL)`
 - MySQL 的版本命名机制
@@ -100,4 +100,4 @@
 
 - 对于 MySQL 4.1、4.0 和 3.23 等低于 5.0 的老版本，官方将不再提供支持，而所有发布的 MySQL（Current Generally Available Release）版本已经经过严格标准的测试，可以保证其安全可靠地使用。
 - 针对不同的操作系统，你可以在 MySQL 官方下载页面 http://dev.mysql.com/downloads/ 下载到相应的安装文件。
-- ![图 1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-17-20-46-36.png)
+- ![图 1](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-17-20-46-36.png)

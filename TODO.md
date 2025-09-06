@@ -1,3 +1,3 @@
 - MySQL 数据类型介绍
   - https://weread.qq.com/web/reader/45b32df07195029145b66f4
-  - ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-23-18-58-01.png)
+  - ![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-06-23-18-58-01.png)

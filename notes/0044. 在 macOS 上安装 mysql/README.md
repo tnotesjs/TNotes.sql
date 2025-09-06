@@ -15,15 +15,15 @@
 ## 2. 💻 直接到官网下载 mysql 并安装
 
 - https://dev.mysql.com/downloads/
-  - ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-23-08-10-10.png)
+  - ![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-23-08-10-10.png)
 - 根据你的系统选择对应的安装包下载：
-  - ![图 1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-23-08-10-45.png)
+  - ![图 1](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-23-08-10-45.png)
 - 以 macOS 为例，安装流程如下：
   - 解压下载的安装包，双击 `mysql-commercial-9.3.0-macos15-arm64.dmg` 安装 mysql。
   - 安装流程非常简单，全程点击右下角的“继续”即可，中途需要输入 PC 密码以及设置你的数据库 root 用户的密码。
-  - ![图 2](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-23-08-11-46.png)
-  - ![图 4](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-23-08-12-59.png)
-  - ![图 3](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-23-08-12-51.png)
+  - ![图 2](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-23-08-11-46.png)
+  - ![图 4](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-23-08-12-59.png)
+  - ![图 3](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-23-08-12-51.png)
 - 验证是否安装成功：
 
 ```bash
@@ -56,7 +56,7 @@ $ mysql -u root -p
 - 注册 Oracle 账号：
   - 这个步骤是可选的，并非一定要有 Oracle 账号才能下载 mysql。
   - 如果需要注册的话，可以随便填写一下表单，提交后去邮箱里面激活一下即可。
-  - ![图 5](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-23-08-17-04.png)
+  - ![图 5](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-23-08-17-04.png)
 
 ## 3. 💻 通过 homebrew 安装 mysql
 

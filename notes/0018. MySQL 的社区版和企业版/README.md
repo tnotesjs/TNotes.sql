@@ -49,7 +49,7 @@
   - 基础的文档和示例
 - 下载地址：
   - https://dev.mysql.com/downloads/mysql/
-  - ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-17-07-45-02.png)
+  - ![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-17-07-45-02.png)
 
 ## 3. 📒 MySQL 企业版（Enterprise Edition）
 
@@ -75,7 +75,7 @@
     - https://www.mysql.com/cn/products/enterprise/
   - MySQL 企业版产品介绍 pdf
     - https://www.mysql.com/cn/products/enterprise/mysql-datasheet.zh.pdf
-    - ![图 1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-17-07-53-37.png)
+    - ![图 1](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-17-07-53-37.png)
   - MySQL 企业版产品指南
     - https://www.mysql.com/why-mysql/white-papers/mysql-enterprise-edition-product-guide-zh/
-    - ![图 1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-16-23-19-36.png)
+    - ![图 1](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-16-23-19-36.png)

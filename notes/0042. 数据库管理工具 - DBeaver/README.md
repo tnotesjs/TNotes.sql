@@ -14,7 +14,7 @@
   - Free universal database tool and SQL client
   - 免费的通用数据库工具和 SQL 客户端
 - logo
-  - ![图 1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-21-20-58-00.png)
+  - ![图 1](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-21-20-58-00.png)
 
 ## 2. 🔗 DBeaver 官方链接
 
@@ -22,7 +22,7 @@
   - 官方文档。
 - https://github.com/dbeaver/dbeaver
   - github 源码仓库，目前的 star 数量 43.6k。
-  - ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-21-20-55-03.png)
+  - ![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-21-20-55-03.png)
 - https://github.com/dbeaver/dbeaver/wiki
   - 使用说明文档。
 

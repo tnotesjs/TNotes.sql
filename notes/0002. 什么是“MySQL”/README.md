@@ -38,4 +38,4 @@
 ## 5. 📒 使用 MySQL 的企业
 
 - MySQL 被 Facebook、Twitter、YouTube、阿里巴巴等大型互联网公司广泛使用。
-- ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-11-07-44-11.png)
+- ![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-11-07-44-11.png)

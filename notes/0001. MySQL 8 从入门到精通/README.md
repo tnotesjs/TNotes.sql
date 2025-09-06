@@ -41,7 +41,7 @@
 
 - 本节笔记将对《MySQL 8 从入门到精通》这一 mysql 教程做一个简单的介绍。
 - 《MySQL 8 从入门到精通》
-  - ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-10-21-41-19.png)
+  - ![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-10-21-41-19.png)
   - 字数：343k
   - 发行日期：2019-08-01
 
@@ -55,25 +55,25 @@
 
 > 书中对资源获取方式的说明：
 >
-> ![图 2](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-10-22-22-37.png)
+> ![图 2](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-10-22-22-37.png)
 >
 > —— from 《MySQL 8 从入门到精通》
 
 ::: details 获取流程
 
 - 给 `booksaga@163.com` 邮箱发送一个主题为 `MySQL8从入门到精通` 的邮件，会收到自动回复：
-- ![图 3](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-10-22-24-41.png)
+- ![图 3](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-10-22-24-41.png)
 - https://www.cnblogs.com/brucexia/p/12167886.html
 - 这是一个博客园的链接，其中记录了获取相关资源的二维码以及链接。
-- ![图 4](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-10-22-26-47.png)
+- ![图 4](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-10-22-26-47.png)
 - 扫码之后，微信登录，即可跳转到资源下载页面。
-- ![图 1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-10-22-21-42.png)
+- ![图 1](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-10-22-21-42.png)
 
 :::
 
 ::: details 注：相关资源已同步到 `TNotes.yuque` 知识库中，有需要的可自行获取。
 
-- ![图 5](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-10-22-48-40.png)
+- ![图 5](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-10-22-48-40.png)
 
 :::
 
