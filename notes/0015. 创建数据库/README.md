@@ -2,13 +2,13 @@
 
 <!-- region:toc -->
 
-- [1. 📝 概述](#1--概述)
+- [1. 🫧 评价](#1--评价)
 - [2. 💻 查看所有数据库](#2--查看所有数据库)
 - [3. 🤔 MySQL 支持一条 CREATE DATABASE 语句直接创建多个数据库吗？](#3--mysql-支持一条-create-database-语句直接创建多个数据库吗)
 
 <!-- endregion:toc -->
 
-## 1. 📝 概述
+## 1. 🫧 评价
 
 - 创建数据库：`CREATE DATABASE <数据库名>;`
   - 示例：`CREATE DATABASE test_db;`

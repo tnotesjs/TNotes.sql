@@ -2,12 +2,12 @@
 
 <!-- region:toc -->
 
-- [1. 📝 概述](#1--概述)
+- [1. 🫧 评价](#1--评价)
 - [2. 💻 RIGHT JOIN](#2--right-join)
 
 <!-- endregion:toc -->
 
-## 1. 📝 概述
+## 1. 🫧 评价
 
 - **右连接（RIGHT JOIN）**
   - 右连接（RIGHT JOIN），也称为右外连接（RIGHT OUTER JOIN），是 SQL 中的一种连接操作，它与左连接（LEFT JOIN）相对。

@@ -307,7 +307,7 @@
   '3554. 查找类别推荐对【困难】',
 ].forEach((item) =>
   console.log(
-    `- [${item}](https://tdahuyou.github.io/TNotes.leetcode/notes/${encodeURI(
+    `- [${item}](https://tnotesjs.github.io/TNotes.leetcode/notes/${encodeURI(
       item
     )}/README)`
   )

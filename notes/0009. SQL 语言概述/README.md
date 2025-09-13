@@ -2,13 +2,13 @@
 
 <!-- region:toc -->
 
-- [1. 📝 概述](#1--概述)
+- [1. 🫧 评价](#1--评价)
 - [2. 📒 SQL 和 DBMS 的关系](#2--sql-和-dbms-的关系)
 - [3. 📒 SQL 的分类](#3--sql-的分类)
 
 <!-- endregion:toc -->
 
-## 1. 📝 概述
+## 1. 🫧 评价
 
 - **SQL**
   - SQL（Structured Query Language，结构化查询语言）是用于管理和操作关系型数据库的标准语言。

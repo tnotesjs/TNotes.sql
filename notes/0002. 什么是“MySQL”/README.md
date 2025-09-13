@@ -2,7 +2,7 @@
 
 <!-- region:toc -->
 
-- [1. 📝 概述](#1--概述)
+- [1. 🫧 评价](#1--评价)
 - [2. 🔗 mysql - github](#2--mysql---github)
 - [3. 🔗 mysql - 官网](#3--mysql---官网)
 - [4. 📒 MySQL 的主要特点](#4--mysql-的主要特点)
@@ -10,7 +10,7 @@
 
 <!-- endregion:toc -->
 
-## 1. 📝 概述
+## 1. 🫧 评价
 
 - **MySQL 是一个开源的关系型数据库管理系统（Relational Database Management System，RDBMS）**，主要用于 Web 应用开发，广泛应用于中小型网站和企业级应用中。
 - MySQL 是一个轻量级、高性能的关系型数据库管理系统。

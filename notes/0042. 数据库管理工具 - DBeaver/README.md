@@ -2,13 +2,13 @@
 
 <!-- region:toc -->
 
-- [1. 📝 概述](#1--概述)
+- [1. 🫧 评价](#1--评价)
 - [2. 🔗 DBeaver 官方链接](#2--dbeaver-官方链接)
 - [3. 📒 DBeaver 核心特点简介](#3--dbeaver-核心特点简介)
 
 <!-- endregion:toc -->
 
-## 1. 📝 概述
+## 1. 🫧 评价
 
 - DBeaver 简介
   - Free universal database tool and SQL client

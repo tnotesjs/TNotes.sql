@@ -1,7 +1,9 @@
 {
   "author": "tnotesjs",
   "repoName": "TNotes.sql",
-  "keywords": ["TNotes.sql"],
+  "keywords": [
+    "TNotes.sql"
+  ],
   "ignore_dirs": [
     ".vscode",
     "0000",
@@ -21,7 +23,7 @@
     "details": "数据库笔记",
     "link": "https://tnotesjs.github.io/TNotes.sql/",
     "created_at": 1746873077000,
-    "updated_at": 1757554130677,
+    "updated_at": 1757733812814,
     "days_since_birth": 9448
   },
   "port": 9448,

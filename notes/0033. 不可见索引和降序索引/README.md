@@ -2,13 +2,13 @@
 
 <!-- region:toc -->
 
-- [1. 📝 概述](#1--概述)
+- [1. 🫧 评价](#1--评价)
 - [2. 📒 不可见索引（Invisible Indexes）](#2--不可见索引invisible-indexes)
 - [3. 📒 降序索引（Descending Indexes）](#3--降序索引descending-indexes)
 
 <!-- endregion:toc -->
 
-## 1. 📝 概述
+## 1. 🫧 评价
 
 - MySQL 8.0 在查询优化方面进行了多项增强，提升了数据库在复杂查询、排序、索引使用等方面的性能。其中最重要的两个新特性是：
   - **不可见索引（Invisible Indexes）**：允许临时隐藏索引，用于测试其对查询性能的影响。

@@ -2,12 +2,12 @@
 
 <!-- region:toc -->
 
-- [1. 📝 概述](#1--概述)
+- [1. 🫧 评价](#1--评价)
 - [2. 💻 LEFT JOIN](#2--left-join)
 
 <!-- endregion:toc -->
 
-## 1. 📝 概述
+## 1. 🫧 评价
 
 - **左连接（LEFT JOIN）**
   - 左连接（LEFT JOIN），也称为左外连接（LEFT OUTER JOIN），是 SQL 中用于从两个表中提取数据的一种连接方式。

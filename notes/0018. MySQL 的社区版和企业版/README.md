@@ -4,13 +4,13 @@
 
 - [📂 TNotes.yuque](https://www.yuque.com/tdahuyou/tnotes.yuque/)
   - [TNotes.yuque.sql.0018](https://www.yuque.com/tdahuyou/tnotes.yuque/sql.0018)
-- [1. 📝 概述](#1--概述)
+- [1. 🫧 评价](#1--评价)
 - [2. 📒 MySQL 社区版（Community Edition）](#2--mysql-社区版community-edition)
 - [3. 📒 MySQL 企业版（Enterprise Edition）](#3--mysql-企业版enterprise-edition)
 
 <!-- endregion:toc -->
 
-## 1. 📝 概述
+## 1. 🫧 评价
 
 - 根据使用场景、功能支持以及服务保障的不同，MySQL 主要分为两个版本系列：
   - 免费的社区版

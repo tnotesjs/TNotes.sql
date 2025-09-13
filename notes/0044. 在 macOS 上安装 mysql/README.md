@@ -2,13 +2,13 @@
 
 <!-- region:toc -->
 
-- [1. 📝 概述](#1--概述)
+- [1. 🫧 评价](#1--评价)
 - [2. 💻 直接到官网下载 mysql 并安装](#2--直接到官网下载-mysql-并安装)
 - [3. 💻 通过 homebrew 安装 mysql](#3--通过-homebrew-安装-mysql)
 
 <!-- endregion:toc -->
 
-## 1. 📝 概述
+## 1. 🫧 评价
 
 - 介绍在 macOS 上安装 mysql 的基本流程。
 

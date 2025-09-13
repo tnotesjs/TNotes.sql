@@ -2,7 +2,7 @@
 
 <!-- region:toc -->
 
-- [1. 📝 概述](#1--概述)
+- [1. 🫧 评价](#1--评价)
 - [2. ⚙️ `mysql`](#2-️-mysql)
 - [3. ⚙️ `mysqldump`](#3-️-mysqldump)
 - [4. ⚙️ `mysqladmin`](#4-️-mysqladmin)
@@ -15,7 +15,7 @@
 
 <!-- endregion:toc -->
 
-## 1. 📝 概述
+## 1. 🫧 评价
 
 - MySQL 自带了一系列 **命令行工具**，用于数据库的日常管理、维护、备份、恢复等操作。
   - 这些工具通常安装在 MySQL 的 `bin` 目录下（如 `/usr/bin/` 或 `C:\Program Files\MySQL\MySQL Server X.X\bin`），是 MySQL 安装的一部分。

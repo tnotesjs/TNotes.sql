@@ -2,7 +2,7 @@
 
 <!-- region:toc -->
 
-- [1. 📝 概述](#1--概述)
+- [1. 🫧 评价](#1--评价)
 - [2. 📒 数值类型](#2--数值类型)
   - [2.1. ⚙️ 整数类型 - `TINYINT`、`SMALLINT`、`MEDIUMINT`、`INT`、`BIGINT`](#21-️-整数类型---tinyintsmallintmediumintintbigint)
   - [2.2. ⚙️ 浮点数类型和定点数类型 - `FLOAT`、`DOUBLE`、`DECIMAL`](#22-️-浮点数类型和定点数类型---floatdoubledecimal)
@@ -14,7 +14,7 @@
 
 <!-- endregion:toc -->
 
-## 1. 📝 概述
+## 1. 🫧 评价
 
 - 数据库表由多列字段构成，每一个字段都有对应的数据类型。
 - 指定了字段的数据类型之后，也就决定了向字段插入的数据内容。比如：

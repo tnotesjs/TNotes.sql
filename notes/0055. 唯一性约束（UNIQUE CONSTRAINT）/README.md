@@ -2,7 +2,7 @@
 
 <!-- region:toc -->
 
-- [1. 📝 概述](#1--概述)
+- [1. 🫧 评价](#1--评价)
 - [2. 📒 `PRIMARY KEY` vs. `UNIQUE`](#2--primary-key-vs-unique)
 - [3. 📒 基本语法](#3--基本语法)
 - [4. 💻 创建表时添加 `UNIQUE` 约束](#4--创建表时添加-unique-约束)
@@ -12,7 +12,7 @@
 
 <!-- endregion:toc -->
 
-## 1. 📝 概述
+## 1. 🫧 评价
 
 - UNIQUE
   - 唯一性约束（Unique Constraint）要求该列唯一，允许为空，但只能出现一个空值。

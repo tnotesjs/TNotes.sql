@@ -2,7 +2,7 @@
 
 <!-- region:toc -->
 
-- [1. 📝 概述](#1--概述)
+- [1. 🫧 评价](#1--评价)
 - [2. 📒 MySQL Cluster 的核心组件](#2--mysql-cluster-的核心组件)
 - [3. 📒 MySQL Cluster 的主要特点](#3--mysql-cluster-的主要特点)
 - [4. 📒 MySQL Cluster 的局限性](#4--mysql-cluster-的局限性)
@@ -13,7 +13,7 @@
 
 <!-- endregion:toc -->
 
-## 1. 📝 概述
+## 1. 🫧 评价
 
 - **MySQL Cluster**
   - MySQL Cluster 是 MySQL 提供的一种 **高可用、分布式、内存为中心的数据库架构**，专门用于需要 **高并发、低延迟和持续可用性** 的应用场景。
