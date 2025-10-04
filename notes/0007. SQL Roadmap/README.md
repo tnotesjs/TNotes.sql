@@ -2,8 +2,6 @@
 
 <!-- region:toc -->
 
-- [📂 TNotes.yuque](https://www.yuque.com/tdahuyou/tnotes.yuque/)
-  - [TNotes.yuque.sql.0007](https://www.yuque.com/tdahuyou/tnotes.yuque/sql.0007)
 - [1. 🫧 评价](#1--评价)
 - [2. 🔍 SQL Roadmap](#2--sql-roadmap)
 - [3. 🔗 引用](#3--引用)
