@@ -2,6 +2,13 @@
 
 <!-- region:toc -->
 
+::: details 📚 相关资源
+
+- [📂 TNotes.yuque（笔记附件资源）](https://www.yuque.com/tdahuyou/tnotes.yuque/)
+  - [TNotes.yuque.sql.0018](https://www.yuque.com/tdahuyou/tnotes.yuque/sql.0018)
+
+:::
+
 - [1. 🫧 评价](#1--评价)
 - [2. 📒 MySQL 社区版（Community Edition）](#2--mysql-社区版community-edition)
 - [3. 📒 MySQL 企业版（Enterprise Edition）](#3--mysql-企业版enterprise-edition)

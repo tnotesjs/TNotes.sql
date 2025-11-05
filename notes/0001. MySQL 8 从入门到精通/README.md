@@ -2,6 +2,13 @@
 
 <!-- region:toc -->
 
+::: details 📚 相关资源
+
+- [📂 TNotes.yuque（笔记附件资源）](https://www.yuque.com/tdahuyou/tnotes.yuque/)
+  - [TNotes.yuque.sql.0001](https://www.yuque.com/tdahuyou/tnotes.yuque/sql.0001)
+
+:::
+
 - [1. 🫧 评价](#1--评价)
 - [2. 📝 《MySQL 8 从入门到精通》内容简介](#2--mysql-8-从入门到精通内容简介)
 - [3. 📂 书籍资源](#3--书籍资源)

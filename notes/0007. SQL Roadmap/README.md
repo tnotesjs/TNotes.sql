@@ -2,6 +2,13 @@
 
 <!-- region:toc -->
 
+::: details 📚 相关资源
+
+- [📂 TNotes.yuque（笔记附件资源）](https://www.yuque.com/tdahuyou/tnotes.yuque/)
+  - [TNotes.yuque.sql.0007](https://www.yuque.com/tdahuyou/tnotes.yuque/sql.0007)
+
+:::
+
 - [1. 🫧 评价](#1--评价)
 - [2. 🔍 SQL Roadmap](#2--sql-roadmap)
 - [3. 🔗 引用](#3--引用)
