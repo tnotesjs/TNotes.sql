@@ -19,11 +19,20 @@
       "src": "https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/assets/icon--mysql.svg"
     },
     "title": "sql",
-    "completed_notes_count": 48,
+    "completed_notes_count": {
+      "25.05": 0,
+      "25.06": 0,
+      "25.07": 48,
+      "25.08": 48,
+      "25.09": 48,
+      "25.10": 48,
+      "25.11": 48,
+      "25.12": 48
+    },
     "details": "数据库笔记",
     "link": "https://tnotesjs.github.io/TNotes.sql/",
     "created_at": 1746873077000,
-    "updated_at": 1762780413008,
+    "updated_at": 1764548511194,
     "days_since_birth": 9448
   },
   "port": 9448,
