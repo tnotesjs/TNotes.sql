@@ -20,8 +20,8 @@
     },
     "title": "sql",
     "completed_notes_count": {
-      "25.05": 0,
-      "25.06": 0,
+      "25.05": 30,
+      "25.06": 48,
       "25.07": 48,
       "25.08": 48,
       "25.09": 48,
@@ -32,7 +32,7 @@
     "details": "数据库笔记",
     "link": "https://tnotesjs.github.io/TNotes.sql/",
     "created_at": 1746873077000,
-    "updated_at": 1764549254770,
+    "updated_at": 1764578509080,
     "days_since_birth": 9448
   },
   "port": 9448,
