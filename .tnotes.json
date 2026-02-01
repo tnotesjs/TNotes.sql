@@ -32,12 +32,13 @@
       "25.10": 48,
       "25.11": 48,
       "25.12": 48,
-      "26.01": 48
+      "26.01": 48,
+      "26.02": 48
     },
     "details": "数据库笔记",
     "link": "https://tnotesjs.github.io/TNotes.sql/",
     "created_at": 1746873077000,
-    "updated_at": 1767227731992,
+    "updated_at": 1769948370893,
     "days_since_birth": 9448
   },
   "port": 9448,
