@@ -2,13 +2,13 @@
 
 <!-- region:toc -->
 
-- [1. 🫧 评价](#1--评价)
-- [2. 📒 基本语法](#2--基本语法)
-- [3. 💻 `DESCRIBE` 和 `DESC`](#3--describe-和-desc)
+- [1. 评价](#1-评价)
+- [2. 基本语法](#2-基本语法)
+- [3. `DESCRIBE` 和 `DESC`](#3-describe-和-desc)
 
 <!-- endregion:toc -->
 
-## 1. 🫧 评价
+## 1. 评价
 
 - `DESCRIBE` 和 `DESC`
   - 在数据库开发和调试过程中，经常需要快速查看某个表的字段定义及其结构信息。
@@ -30,14 +30,14 @@
 | **Oracle** | `DESC 表名` 或 `DESCRIBE 表名` | `DESC employees` |
 | **SQLite** | `PRAGMA table_info(表名);` | `PRAGMA table_info(users);` |
 
-## 2. 📒 基本语法
+## 2. 基本语法
 
 ```sql
 DESCRIBE 表名;
 DESC 表名; -- DESCRIBE 可简写为 DESC
 ```
 
-## 3. 💻 `DESCRIBE` 和 `DESC`
+## 3. `DESCRIBE` 和 `DESC`
 
 ```sql
 -- 假设我们有如下用户表：

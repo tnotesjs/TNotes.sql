@@ -2,13 +2,13 @@
 
 <!-- region:toc -->
 
-- [1. 🫧 评价](#1--评价)
-- [2. 🔗 DBeaver 官方链接](#2--dbeaver-官方链接)
-- [3. 📒 DBeaver 核心特点简介](#3--dbeaver-核心特点简介)
+- [1. 评价](#1-评价)
+- [2. DBeaver 官方链接](#2-dbeaver-官方链接)
+- [3. DBeaver 核心特点简介](#3-dbeaver-核心特点简介)
 
 <!-- endregion:toc -->
 
-## 1. 🫧 评价
+## 1. 评价
 
 - DBeaver 简介
   - Free universal database tool and SQL client
@@ -16,7 +16,7 @@
 - logo
   - ![图 1](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-21-20-58-00.png)
 
-## 2. 🔗 DBeaver 官方链接
+## 2. DBeaver 官方链接
 
 - https://dbeaver.io/
   - 官方文档。
@@ -26,7 +26,7 @@
 - https://github.com/dbeaver/dbeaver/wiki
   - 使用说明文档。
 
-## 3. 📒 DBeaver 核心特点简介
+## 3. DBeaver 核心特点简介
 
 - **开源免费**：基于 MIT 许可证，源码开放，社区活跃。
 - **多数据库支持**：兼容 MySQL、PostgreSQL、Oracle、SQL Server、SQLite 等主流数据库。

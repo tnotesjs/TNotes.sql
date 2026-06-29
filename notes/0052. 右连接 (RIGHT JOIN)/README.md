@@ -2,12 +2,12 @@
 
 <!-- region:toc -->
 
-- [1. 🫧 评价](#1--评价)
-- [2. 💻 RIGHT JOIN](#2--right-join)
+- [1. 评价](#1-评价)
+- [2. RIGHT JOIN](#2-right-join)
 
 <!-- endregion:toc -->
 
-## 1. 🫧 评价
+## 1. 评价
 
 - **右连接（RIGHT JOIN）**
   - 右连接（RIGHT JOIN），也称为右外连接（RIGHT OUTER JOIN），是 SQL 中的一种连接操作，它与左连接（LEFT JOIN）相对。
@@ -36,7 +36,7 @@ ON 表1.列名 = 表2.列名;
   - 查询日志记录及其关联的用户行为数据（确保所有日志都被保留）。
   - 数据一致性检查：找出在左表中缺失的关联数据。
 
-## 2. 💻 RIGHT JOIN
+## 2. RIGHT JOIN
 
 ```sql {11-13,23-25}
 -- 表 `Customers`

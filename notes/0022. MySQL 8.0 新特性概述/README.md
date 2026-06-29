@@ -2,11 +2,11 @@
 
 <!-- region:toc -->
 
-- [1. 🫧 评价](#1--评价)
+- [1. 评价](#1-评价)
 
 <!-- endregion:toc -->
 
-## 1. 🫧 评价
+## 1. 评价
 
 - 学习 MySQL 8.0 的新功能，可以参照官方的相关资料：
   - https://dev.mysql.com/doc/refman/8.0/en/mysql-nutshell.html?tdsourcetag=s_pctim_aiomsg

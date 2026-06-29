@@ -2,17 +2,17 @@
 
 <!-- region:toc -->
 
-- [1. 🫧 评价](#1--评价)
-- [2. 💻 直接到官网下载 mysql 并安装](#2--直接到官网下载-mysql-并安装)
-- [3. 💻 通过 homebrew 安装 mysql](#3--通过-homebrew-安装-mysql)
+- [1. 评价](#1-评价)
+- [2. 直接到官网下载 mysql 并安装](#2-直接到官网下载-mysql-并安装)
+- [3. 通过 homebrew 安装 mysql](#3-通过-homebrew-安装-mysql)
 
 <!-- endregion:toc -->
 
-## 1. 🫧 评价
+## 1. 评价
 
 - 介绍在 macOS 上安装 mysql 的基本流程。
 
-## 2. 💻 直接到官网下载 mysql 并安装
+## 2. 直接到官网下载 mysql 并安装
 
 - https://dev.mysql.com/downloads/
   - ![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-23-08-10-10.png)
@@ -58,7 +58,7 @@ $ mysql -u root -p
   - 如果需要注册的话，可以随便填写一下表单，提交后去邮箱里面激活一下即可。
   - ![图 5](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-23-08-17-04.png)
 
-## 3. 💻 通过 homebrew 安装 mysql
+## 3. 通过 homebrew 安装 mysql
 
 - `brew install mysql`
 - 如果是 `macOS 15.x.x` 那么可能会出现如下错误：

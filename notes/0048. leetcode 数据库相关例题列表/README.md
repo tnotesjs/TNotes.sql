@@ -2,12 +2,12 @@
 
 <!-- region:toc -->
 
-- [1. 🫧 评价](#1--评价)
-- [2. 💻 demos.1 - 计算对应 TNotes.leetcode 知识库中相关例题的链接](#2--demos1---计算对应-tnotesleetcode-知识库中相关例题的链接)
+- [1. 评价](#1-评价)
+- [2. demos.1 - 计算对应 TNotes.leetcode 知识库中相关例题的链接](#2-demos1---计算对应-tnotesleetcode-知识库中相关例题的链接)
 
 <!-- endregion:toc -->
 
-## 1. 🫧 评价
+## 1. 评价
 
 - 查看 leetcode 上和 DATABASE 相关的例题
   - https://leetcode.cn/problemset/database/
@@ -325,7 +325,7 @@
 
 :::
 
-## 2. 💻 demos.1 - 计算对应 TNotes.leetcode 知识库中相关例题的链接
+## 2. demos.1 - 计算对应 TNotes.leetcode 知识库中相关例题的链接
 
 > 脚本源码见 `demos/1/1.js`
 

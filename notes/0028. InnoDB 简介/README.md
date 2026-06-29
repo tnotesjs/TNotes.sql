@@ -2,13 +2,13 @@
 
 <!-- region:toc -->
 
-- [1. 🫧 评价](#1--评价)
-- [2. 💻 创建使用 InnoDB 的表](#2--创建使用-innodb-的表)
-- [3. 📒 从 MySQL 8.0 开始，系统表全部换成事务型的 InnoDB 表](#3--从-mysql-80-开始系统表全部换成事务型的-innodb-表)
+- [1. 评价](#1-评价)
+- [2. 创建使用 InnoDB 的表](#2-创建使用-innodb-的表)
+- [3. 从 MySQL 8.0 开始，系统表全部换成事务型的 InnoDB 表](#3-从-mysql-80-开始系统表全部换成事务型的-innodb-表)
 
 <!-- endregion:toc -->
 
-## 1. 🫧 评价
+## 1. 评价
 
 - **InnoDB**
   - **InnoDB 是 MySQL 中支持事务、行锁、外键等高级特性的存储引擎，是现代 MySQL 应用中最常用的引擎，适合高并发、数据一致性要求高的场景。**
@@ -39,7 +39,7 @@
   - 需要外键约束维护数据一致性的系统
   - 对崩溃恢复有要求的生产环境
 
-## 2. 💻 创建使用 InnoDB 的表
+## 2. 创建使用 InnoDB 的表
 
 ```sql
 CREATE TABLE users (
@@ -52,7 +52,7 @@ CREATE TABLE users (
 -- 如果你没有显式指定 ENGINE=InnoDB，在 MySQL 5.5 及之后版本中也会默认使用 InnoDB。
 ```
 
-## 3. 📒 从 MySQL 8.0 开始，系统表全部换成事务型的 InnoDB 表
+## 3. 从 MySQL 8.0 开始，系统表全部换成事务型的 InnoDB 表
 
 ```sql {10}
 -- 从 MySQL 8.0 开始，系统表全部换成事务型的 InnoDB 表，默认的 MySQL 实例将不包含任何 MyISAM 表，除非手动创建 MyISAM 表。

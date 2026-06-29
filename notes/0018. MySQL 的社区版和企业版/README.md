@@ -9,13 +9,13 @@
 
 :::
 
-- [1. 🫧 评价](#1--评价)
-- [2. 📒 MySQL 社区版（Community Edition）](#2--mysql-社区版community-edition)
-- [3. 📒 MySQL 企业版（Enterprise Edition）](#3--mysql-企业版enterprise-edition)
+- [1. 评价](#1-评价)
+- [2. MySQL 社区版（Community Edition）](#2-mysql-社区版community-edition)
+- [3. MySQL 企业版（Enterprise Edition）](#3-mysql-企业版enterprise-edition)
 
 <!-- endregion:toc -->
 
-## 1. 🫧 评价
+## 1. 评价
 
 - 根据使用场景、功能支持以及服务保障的不同，MySQL 主要分为两个版本系列：
   - 免费的社区版
@@ -39,7 +39,7 @@
   - **中小企业 / 对稳定性有一定要求** ➜ 可考虑社区版 + 第三方支持
   - **大型企业 / 关键业务系统 / 生产环境** ➜ 强烈建议使用 **企业版**
 
-## 2. 📒 MySQL 社区版（Community Edition）
+## 2. MySQL 社区版（Community Edition）
 
 - 社区版是 MySQL 的 **开源免费版本**，由 Oracle 提供并维护，但不提供官方技术支持。
 - 特点：
@@ -56,7 +56,7 @@
   - https://dev.mysql.com/downloads/mysql/
   - ![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-17-07-45-02.png)
 
-## 3. 📒 MySQL 企业版（Enterprise Edition）
+## 3. MySQL 企业版（Enterprise Edition）
 
 - 企业版是在社区版的基础上增加了一系列高级功能和 **商业支持服务** 的付费版本，适用于对安全性、稳定性、性能要求较高的生产环境。
 - 特点：

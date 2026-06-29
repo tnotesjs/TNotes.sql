@@ -2,12 +2,12 @@
 
 <!-- region:toc -->
 
-- [1. 🫧 评价](#1--评价)
-- [2. 💻 LEFT JOIN](#2--left-join)
+- [1. 评价](#1-评价)
+- [2. LEFT JOIN](#2-left-join)
 
 <!-- endregion:toc -->
 
-## 1. 🫧 评价
+## 1. 评价
 
 - **左连接（LEFT JOIN）**
   - 左连接（LEFT JOIN），也称为左外连接（LEFT OUTER JOIN），是 SQL 中用于从两个表中提取数据的一种连接方式。
@@ -36,7 +36,7 @@ ON 表1.列名 = 表2.列名;
   - 查询商品目录和库存信息，显示所有商品，包括缺货商品。
   - 数据完整性检查：找出在右表中缺失的数据。
 
-## 2. 💻 LEFT JOIN
+## 2. LEFT JOIN
 
 ```sql {4-6,23-25}
 -- 表 `Customers`

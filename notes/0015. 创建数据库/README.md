@@ -2,18 +2,18 @@
 
 <!-- region:toc -->
 
-- [1. 🫧 评价](#1--评价)
-- [2. 💻 查看所有数据库](#2--查看所有数据库)
-- [3. 🤔 MySQL 支持一条 CREATE DATABASE 语句直接创建多个数据库吗？](#3--mysql-支持一条-create-database-语句直接创建多个数据库吗)
+- [1. 评价](#1-评价)
+- [2. 查看所有数据库](#2-查看所有数据库)
+- [3. MySQL 支持一条 CREATE DATABASE 语句直接创建多个数据库吗？](#3-mysql-支持一条-create-database-语句直接创建多个数据库吗)
 
 <!-- endregion:toc -->
 
-## 1. 🫧 评价
+## 1. 评价
 
 - 创建数据库：`CREATE DATABASE <数据库名>;`
   - 示例：`CREATE DATABASE test_db;`
 
-## 2. 💻 查看所有数据库
+## 2. 查看所有数据库
 
 ```sql {26}
 -- 查看所有数据库
@@ -46,7 +46,7 @@ SHOW DATABASES;
 -- 5 rows in set (0.002 sec)
 ```
 
-## 3. 🤔 MySQL 支持一条 CREATE DATABASE 语句直接创建多个数据库吗？
+## 3. MySQL 支持一条 CREATE DATABASE 语句直接创建多个数据库吗？
 
 - MySQL **不支持通过单条 `CREATE DATABASE` 语句直接创建多个数据库**，但你可以通过以下几种方式实现“一次性”创建多个数据库的需求。
   - 方法一：使用多条 `CREATE DATABASE` 语句

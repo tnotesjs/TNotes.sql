@@ -2,13 +2,13 @@
 
 <!-- region:toc -->
 
-- [1. 🫧 评价](#1--评价)
-- [2. 📒 基本语法](#2--基本语法)
-- [3. 💻 创建表时设置 `AUTO_INCREMENT`](#3--创建表时设置-auto_increment)
+- [1. 评价](#1-评价)
+- [2. 基本语法](#2-基本语法)
+- [3. 创建表时设置 `AUTO_INCREMENT`](#3-创建表时设置-auto_increment)
 
 <!-- endregion:toc -->
 
-## 1. 🫧 评价
+## 1. 评价
 
 - `AUTO_INCREMENT`
   - 在数据库应用中，经常希望在每次插入新记录时，系统自动生成字段的主键值，可以通过为表主键添加 `AUTO_INCREMENT` 关键字来实现。
@@ -36,7 +36,7 @@
 | **性能优化建议** | 在高并发插入场景下，`AUTO_INCREMENT` 能有效减少锁冲突。 |
 | **迁移兼容性注意** | 其他数据库（如 PostgreSQL）没有 `AUTO_INCREMENT`，而是使用 `SERIAL` 或 `IDENTITY` 实现类似功能。 |
 
-## 2. 📒 基本语法
+## 2. 基本语法
 
 ```sql {2}
 CREATE TABLE 表名 (
@@ -46,7 +46,7 @@ CREATE TABLE 表名 (
 );
 ```
 
-## 3. 💻 创建表时设置 `AUTO_INCREMENT`
+## 3. 创建表时设置 `AUTO_INCREMENT`
 
 ```sql {2}
 CREATE TABLE Users (

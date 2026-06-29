@@ -2,7 +2,7 @@
 
 <!-- region:toc -->
 
-- [1. 🫧 评价](#1--评价)
+- [1. 评价](#1-评价)
 - [2. ⚙️ `mysql`](#2-️-mysql)
 - [3. ⚙️ `mysqldump`](#3-️-mysqldump)
 - [4. ⚙️ `mysqladmin`](#4-️-mysqladmin)
@@ -11,11 +11,11 @@
 - [7. ⚙️ `mysqld` / `mysqld_safe`](#7-️-mysqld--mysqld_safe)
 - [8. ⚙️ `mysqlcheck`](#8-️-mysqlcheck)
 - [9. ⚙️ `myisamchk`](#9-️-myisamchk)
-- [10. 🤔 如何查看 MySQL 都自带了哪些命令呢？](#10--如何查看-mysql-都自带了哪些命令呢)
+- [10. 如何查看 MySQL 都自带了哪些命令呢？](#10-如何查看-mysql-都自带了哪些命令呢)
 
 <!-- endregion:toc -->
 
-## 1. 🫧 评价
+## 1. 评价
 
 - MySQL 自带了一系列 **命令行工具**，用于数据库的日常管理、维护、备份、恢复等操作。
   - 这些工具通常安装在 MySQL 的 `bin` 目录下（如 `/usr/bin/` 或 `C:\Program Files\MySQL\MySQL Server X.X\bin`），是 MySQL 安装的一部分。
@@ -139,7 +139,7 @@ mysqlcheck -u root -p --auto-repair --check-all-databases
 myisamchk /var/lib/mysql/database/table.MYI
 ```
 
-## 10. 🤔 如何查看 MySQL 都自带了哪些命令呢？
+## 10. 如何查看 MySQL 都自带了哪些命令呢？
 
 - 到 mysql 安装目录的 bin 目录下查看。
 - 以 macOS 环境为例：

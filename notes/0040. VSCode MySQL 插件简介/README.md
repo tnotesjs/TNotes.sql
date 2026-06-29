@@ -2,12 +2,12 @@
 
 <!-- region:toc -->
 
-- [1. 🫧 评价](#1--评价)
-- [2. 🔗 VSCode MySQL 插件相关链接](#2--vscode-mysql-插件相关链接)
+- [1. 评价](#1-评价)
+- [2. VSCode MySQL 插件相关链接](#2-vscode-mysql-插件相关链接)
 
 <!-- endregion:toc -->
 
-## 1. 🫧 评价
+## 1. 评价
 
 - 直接在 VSCode 的插件面板中搜索 `MySQL` 即可安装该插件。
   - 会发现和 MySQL 相关的插件非常多。
@@ -18,7 +18,7 @@
   - 如果没有对端口号做修改，直接使用默认的 `3306` 端口号即可。
   - ![图 1](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-21-20-32-37.png)
 
-## 2. 🔗 VSCode MySQL 插件相关链接
+## 2. VSCode MySQL 插件相关链接
 
 - 有关该插件的详细使用说明，直接查阅官方文档即可。
 - https://database-client.com/

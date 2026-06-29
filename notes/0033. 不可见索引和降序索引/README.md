@@ -2,13 +2,13 @@
 
 <!-- region:toc -->
 
-- [1. 🫧 评价](#1--评价)
-- [2. 📒 不可见索引（Invisible Indexes）](#2--不可见索引invisible-indexes)
-- [3. 📒 降序索引（Descending Indexes）](#3--降序索引descending-indexes)
+- [1. 评价](#1-评价)
+- [2. 不可见索引（Invisible Indexes）](#2-不可见索引invisible-indexes)
+- [3. 降序索引（Descending Indexes）](#3-降序索引descending-indexes)
 
 <!-- endregion:toc -->
 
-## 1. 🫧 评价
+## 1. 评价
 
 - MySQL 8.0 在查询优化方面进行了多项增强，提升了数据库在复杂查询、排序、索引使用等方面的性能。其中最重要的两个新特性是：
   - **不可见索引（Invisible Indexes）**：允许临时隐藏索引，用于测试其对查询性能的影响。
@@ -26,7 +26,7 @@
 - 对于频繁使用的排序字段，优先考虑建立合适的升序或降序索引。
 - 使用不可见索引来评估索引删除对性能的影响，避免直接删除索引导致系统不稳定。
 
-## 2. 📒 不可见索引（Invisible Indexes）
+## 2. 不可见索引（Invisible Indexes）
 
 - 不可见索引
   - **不可见索引（Invisible Index）** 是一种“存在但不被查询优化器使用”的索引。
@@ -67,7 +67,7 @@ CREATE INDEX idx_created_at_desc ON users(created_at DESC) INVISIBLE;
 EXPLAIN SELECT * FROM users ORDER BY created_at DESC;
 ```
 
-## 3. 📒 降序索引（Descending Indexes）
+## 3. 降序索引（Descending Indexes）
 
 - 降序索引
   - 在 MySQL 8.0 之前，虽然可以在定义索引时写上 `DESC`，但 MySQL 实际上并不会按降序存储数据。

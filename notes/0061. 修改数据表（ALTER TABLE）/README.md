@@ -2,20 +2,20 @@
 
 <!-- region:toc -->
 
-- [1. 🫧 评价](#1--评价)
-- [2. 💻 `RENAME` 修改表名](#2--rename-修改表名)
-- [3. 💻 `MODIFY` 修改字段的数据类型](#3--modify-修改字段的数据类型)
-- [4. 💻 `CHANGE` 同时修改字段名和数据类型](#4--change-同时修改字段名和数据类型)
-- [5. 💻 `ADD COLUMN` 添加字段](#5--add-column-添加字段)
-- [6. 💻 `DROP COLUMN` 删除字段](#6--drop-column-删除字段)
-- [7. 💻 `MODIFY` 调整字段排序](#7--modify-调整字段排序)
-- [8. 💻 `ENGINE` 修改表的存储引擎](#8--engine-修改表的存储引擎)
-- [9. 💻 `FOREIGN KEY ... REFERENCES ...` 添加外键约束](#9--foreign-key--references--添加外键约束)
-- [10. 💻 `DROP FOREIGN KEY ...` 删除外键约束](#10--drop-foreign-key--删除外键约束)
+- [1. 评价](#1-评价)
+- [2. `RENAME` 修改表名](#2-rename-修改表名)
+- [3. `MODIFY` 修改字段的数据类型](#3-modify-修改字段的数据类型)
+- [4. `CHANGE` 同时修改字段名和数据类型](#4-change-同时修改字段名和数据类型)
+- [5. `ADD COLUMN` 添加字段](#5-add-column-添加字段)
+- [6. `DROP COLUMN` 删除字段](#6-drop-column-删除字段)
+- [7. `MODIFY` 调整字段排序](#7-modify-调整字段排序)
+- [8. `ENGINE` 修改表的存储引擎](#8-engine-修改表的存储引擎)
+- [9. `FOREIGN KEY ... REFERENCES ...` 添加外键约束](#9-foreign-key--references--添加外键约束)
+- [10. `DROP FOREIGN KEY ...` 删除外键约束](#10-drop-foreign-key--删除外键约束)
 
 <!-- endregion:toc -->
 
-## 1. 🫧 评价
+## 1. 评价
 
 - `ALTER TABLE`
   - 在应用开发过程中，随着业务需求的变化，有时需要对已经存在的数据表进行结构上的调整。
@@ -38,7 +38,7 @@
 - 查看表结构
   - 在修改的 sql 执行之后，可以通过 `DESC <表名>;`、`SHOW CREATE TABLE <表名/G>;` 命令查看表结构是否发生变化。
 
-## 2. 💻 `RENAME` 修改表名
+## 2. `RENAME` 修改表名
 
 ```sql
 ALTER TABLE 旧表名
@@ -52,7 +52,7 @@ RENAME TO members;
 -- 修改表名不会对表结构有任何影响。
 ```
 
-## 3. 💻 `MODIFY` 修改字段的数据类型
+## 3. `MODIFY` 修改字段的数据类型
 
 ```sql
 ALTER TABLE 表名
@@ -67,7 +67,7 @@ MODIFY email VARCHAR(150);
 -- 修改字段类型可能会影响已有数据，需确保兼容性。
 ```
 
-## 4. 💻 `CHANGE` 同时修改字段名和数据类型
+## 4. `CHANGE` 同时修改字段名和数据类型
 
 ```sql
 ALTER TABLE 表名
@@ -80,7 +80,7 @@ ALTER TABLE users
 CHANGE username user_name VARCHAR(100);
 ```
 
-## 5. 💻 `ADD COLUMN` 添加字段
+## 5. `ADD COLUMN` 添加字段
 
 ```sql
 ALTER TABLE 表名
@@ -99,7 +99,7 @@ ALTER TABLE users
 ADD COLUMN gender VARCHAR(10) AFTER username;
 ```
 
-## 6. 💻 `DROP COLUMN` 删除字段
+## 6. `DROP COLUMN` 删除字段
 
 ```sql
 ALTER TABLE 表名
@@ -114,7 +114,7 @@ DROP COLUMN age;
 -- 删除字段将永久移除该字段及其数据，请谨慎操作。
 ```
 
-## 7. 💻 `MODIFY` 调整字段排序
+## 7. `MODIFY` 调整字段排序
 
 ```sql
 -- 使用 `MODIFY` 或 `CHANGE` 配合 `AFTER` 子句可修改字段的排列位置
@@ -131,7 +131,7 @@ MODIFY gender VARCHAR(10) AFTER id;
 -- 即使不修改数据类型，也需在语句中显式声明原有的数据类型，否则会报错。
 ```
 
-## 8. 💻 `ENGINE` 修改表的存储引擎
+## 8. `ENGINE` 修改表的存储引擎
 
 ```sql
 ALTER TABLE 表名
@@ -144,7 +144,7 @@ ENGINE = InnoDB;
 -- 常见引擎：MyISAM、InnoDB、MEMORY、CSV
 ```
 
-## 9. 💻 `FOREIGN KEY ... REFERENCES ...` 添加外键约束
+## 9. `FOREIGN KEY ... REFERENCES ...` 添加外键约束
 
 ```sql
 -- 添加外键约束
@@ -158,7 +158,7 @@ ADD CONSTRAINT fk_user_id
 FOREIGN KEY (user_id) REFERENCES users(id);
 ```
 
-## 10. 💻 `DROP FOREIGN KEY ...` 删除外键约束
+## 10. `DROP FOREIGN KEY ...` 删除外键约束
 
 ```sql
 -- 删除外键约束

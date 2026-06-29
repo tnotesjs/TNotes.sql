@@ -2,13 +2,13 @@
 
 <!-- region:toc -->
 
-- [1. 🫧 评价](#1--评价)
-- [2. 📒 基本语法](#2--基本语法)
-- [3. 💻 示例说明](#3--示例说明)
+- [1. 评价](#1-评价)
+- [2. 基本语法](#2-基本语法)
+- [3. 示例说明](#3-示例说明)
 
 <!-- endregion:toc -->
 
-## 1. 🫧 评价
+## 1. 评价
 
 - `SHOW CREATE TABLE`
   - 在数据库开发中，除了使用 `DESCRIBE`、`DESC` 查看表的基本字段信息外，有时还需要了解表的完整定义，包括字符集、排序规则、索引、约束、分区信息以及建表语句本身。
@@ -44,13 +44,13 @@
 | **Oracle** | 查询 `DBMS_METADATA.GET_DDL` 函数 | `SELECT DBMS_METADATA.GET_DDL('TABLE','USERS') FROM DUAL;` |
 | **SQLite** | 查询 `sqlite_master` 系统表 | `SELECT sql FROM sqlite_master WHERE name='users';` |
 
-## 2. 📒 基本语法
+## 2. 基本语法
 
 ```sql
 SHOW CREATE TABLE <表名\G>;
 ```
 
-## 3. 💻 示例说明
+## 3. 示例说明
 
 ```sql
 -- 假设我们有如下用户表：

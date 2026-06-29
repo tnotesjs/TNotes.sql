@@ -2,17 +2,17 @@
 
 <!-- region:toc -->
 
-- [1. 🫧 评价](#1--评价)
-- [2. 📒 `PRIMARY KEY` vs. `UNIQUE`](#2--primary-key-vs-unique)
-- [3. 📒 基本语法](#3--基本语法)
-- [4. 💻 创建表时添加 `UNIQUE` 约束](#4--创建表时添加-unique-约束)
-- [5. 💻 创建表时对多列组合应用 `UNIQUE` 约束](#5--创建表时对多列组合应用-unique-约束)
-- [6. 💻 向已有表添加 `UNIQUE` 约束](#6--向已有表添加-unique-约束)
-- [7. 💻 删除已有表中指定字段的 `UNIQUE` 约束](#7--删除已有表中指定字段的-unique-约束)
+- [1. 评价](#1-评价)
+- [2. `PRIMARY KEY` vs. `UNIQUE`](#2-primary-key-vs-unique)
+- [3. 基本语法](#3-基本语法)
+- [4. 创建表时添加 `UNIQUE` 约束](#4-创建表时添加-unique-约束)
+- [5. 创建表时对多列组合应用 `UNIQUE` 约束](#5-创建表时对多列组合应用-unique-约束)
+- [6. 向已有表添加 `UNIQUE` 约束](#6-向已有表添加-unique-约束)
+- [7. 删除已有表中指定字段的 `UNIQUE` 约束](#7-删除已有表中指定字段的-unique-约束)
 
 <!-- endregion:toc -->
 
-## 1. 🫧 评价
+## 1. 评价
 
 - UNIQUE
   - 唯一性约束（Unique Constraint）要求该列唯一，允许为空，但只能出现一个空值。
@@ -34,7 +34,7 @@
   - 使用联合唯一约束时应合理设计字段顺序。
   - 删除唯一约束需通过 `DROP INDEX` 操作，而非直接删除约束语句。
 
-## 2. 📒 `PRIMARY KEY` vs. `UNIQUE`
+## 2. `PRIMARY KEY` vs. `UNIQUE`
 
 | 特性             | 主键（PRIMARY KEY） | 唯一性约束（UNIQUE） |
 | ---------------- | ------------------- | -------------------- |
@@ -43,7 +43,7 @@
 | 是否自动创建索引 | 是                  | 是                   |
 | 是否可重复       | 否                  | 否                   |
 
-## 3. 📒 基本语法
+## 3. 基本语法
 
 ```sql {2,11}
 CREATE TABLE 表名 (
@@ -60,7 +60,7 @@ CREATE TABLE 表名 (
 );
 ```
 
-## 4. 💻 创建表时添加 `UNIQUE` 约束
+## 4. 创建表时添加 `UNIQUE` 约束
 
 ```sql {3}
 CREATE TABLE Users (
@@ -70,7 +70,7 @@ CREATE TABLE Users (
 -- `email` 列被定义为 `UNIQUE`，以确保所有用户的电子邮件地址是唯一的。
 ```
 
-## 5. 💻 创建表时对多列组合应用 `UNIQUE` 约束
+## 5. 创建表时对多列组合应用 `UNIQUE` 约束
 
 ```sql {5}
 CREATE TABLE Reservations (
@@ -84,7 +84,7 @@ CREATE TABLE Reservations (
 -- 含义：以防止同一房间在同一天被多次预订。
 ```
 
-## 6. 💻 向已有表添加 `UNIQUE` 约束
+## 6. 向已有表添加 `UNIQUE` 约束
 
 ```sql {10}
 -- 假如已经创建了如下 Employees 表
@@ -111,7 +111,7 @@ ADD CONSTRAINT unique_email UNIQUE (email);
 -- 这意味着 email 列中的值必须在整个表中保持唯一，不能有两个相同的电子邮件地址。
 ```
 
-## 7. 💻 删除已有表中指定字段的 `UNIQUE` 约束
+## 7. 删除已有表中指定字段的 `UNIQUE` 约束
 
 ```sql {10-11}
 -- 假如已经创建了如下 Employees 表

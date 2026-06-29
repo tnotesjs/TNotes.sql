@@ -2,15 +2,15 @@
 
 <!-- region:toc -->
 
-- [1. 🫧 评价](#1--评价)
-- [2. 📒 基本语法](#2--基本语法)
-- [3. 💻 创建表时添加 `DEFAULT` 约束](#3--创建表时添加-default-约束)
-- [4. 💻 修改已有表添加 `DEFAULT` 约束](#4--修改已有表添加-default-约束)
-- [5. 💻 删除 `DEFAULT` 约束](#5--删除-default-约束)
+- [1. 评价](#1-评价)
+- [2. 基本语法](#2-基本语法)
+- [3. 创建表时添加 `DEFAULT` 约束](#3-创建表时添加-default-约束)
+- [4. 修改已有表添加 `DEFAULT` 约束](#4-修改已有表添加-default-约束)
+- [5. 删除 `DEFAULT` 约束](#5-删除-default-约束)
 
 <!-- endregion:toc -->
 
-## 1. 🫧 评价
+## 1. 评价
 
 - 默认约束（Default Constraint）
   - 默认约束用于指定某列在未提供值时所使用的默认值。
@@ -25,7 +25,7 @@
 | **增强数据完整性** | 防止字段出现空值（NULL），尤其适用于非空字段设置默认值。 |
 | **统一业务逻辑** | 保证某些字段在缺失输入时仍能保持合理的默认状态，如性别、状态、启用标志等。 |
 
-## 2. 📒 基本语法
+## 2. 基本语法
 
 ```sql
 CREATE TABLE 表名 (
@@ -46,7 +46,7 @@ ALTER COLUMN 字段名 DROP DEFAULT;
 -- 例如 SQL Server 使用 `ADD CONSTRAINT` 定义命名默认约束。
 ```
 
-## 3. 💻 创建表时添加 `DEFAULT` 约束
+## 3. 创建表时添加 `DEFAULT` 约束
 
 ```sql {3}
 CREATE TABLE Users (
@@ -57,7 +57,7 @@ CREATE TABLE Users (
 -- 如果插入数据时不指定 gender 的值，则系统会自动将其设为 '男'。
 ```
 
-## 4. 💻 修改已有表添加 `DEFAULT` 约束
+## 4. 修改已有表添加 `DEFAULT` 约束
 
 ```sql
 -- 假设已经存在如下表：
@@ -74,7 +74,7 @@ ALTER COLUMN status SET DEFAULT '在职';
 -- 将 `status` 列设置默认值为 '在职'
 ```
 
-## 5. 💻 删除 `DEFAULT` 约束
+## 5. 删除 `DEFAULT` 约束
 
 ```sql
 -- 删除 status 列的默认值约束
