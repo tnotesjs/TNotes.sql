@@ -33,13 +33,12 @@
       "26.03": 48,
       "26.04": 48,
       "26.05": 48,
-      "26.06": 48
+      "26.06": 48,
+      "26.07": 48,
+      "26.08": 48
     },
     "details": "数据库笔记",
-    "link": "https://tnotesjs.github.io/TNotes.sql/",
-    "created_at": 1746873077000,
-    "updated_at": 1782718331000,
-    "days_since_birth": 9863
+    "link": "https://tnotesjs.github.io/TNotes.sql/"
   },
   "port": 9448,
   "menuItems": [
