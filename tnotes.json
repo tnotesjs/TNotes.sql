@@ -1,0 +1,35 @@
+{
+  "title": "sql",
+  "name": "TNotes.sql",
+  "description": "数据库笔记",
+  "icon": {
+    "src": "https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/assets/icon--mysql.svg"
+  },
+  "repositoryUrl": "https://github.com/tnotesjs/TNotes.sql",
+  "port": 9448,
+  "pageUrl": "https://tnotesjs.github.io/TNotes.sql/",
+  "base": "/TNotes.sql/",
+  "stats": {
+    "enabled": true,
+    "completedNotesCount": {
+      "25.05": 30,
+      "25.06": 48,
+      "25.07": 48,
+      "25.08": 48,
+      "25.09": 48,
+      "25.10": 48,
+      "25.11": 48,
+      "25.12": 48,
+      "26.01": 48,
+      "26.02": 48,
+      "26.03": 48,
+      "26.04": 48,
+      "26.05": 48,
+      "26.06": 48,
+      "26.07": 48,
+      "26.08": 48,
+      "26.09": 48
+    }
+  },
+  "discussions": true
+}
