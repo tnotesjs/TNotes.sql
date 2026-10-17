@@ -3,7 +3,7 @@
   "name": "TNotes.sql",
   "description": "数据库笔记",
   "icon": {
-    "src": "https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/assets/icon--mysql.svg"
+    "src": "../assets/kb-icon.svg"
   },
   "repositoryUrl": "https://github.com/tnotesjs/TNotes.sql",
   "port": 9448,
